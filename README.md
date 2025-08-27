@@ -1,4 +1,4 @@
-# Hi 👋, I'm Ben Stearns
+# Hello 👋, I'm Ben Stearns
 ## About Me
 
 - 🏦 I'm currently working for a state college in Nebraska teaching computer programming
