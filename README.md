@@ -1,29 +1,46 @@
-# Hello 👋, I'm Ben Stearns
-## About Me
+# Hi there, I'm Ben Stearns 👋
 
-- 🏦 I'm currently working for a state college in Nebraska teaching computer programming
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Software%20Development-blue?style=flat-square&logo=visualstudio" style="border:2px solid white; border-radius:6px;" />
+  <img src="https://img.shields.io/badge/Student-Wayne%20State%20University-green?style=flat-square" style="border:2px solid white; border-radius:6px;" />
+  <img src="https://img.shields.io/badge/Email-bstearns07%40gmail.com-red?style=flat-square&logo=gmail" style="border:2px solid white; border-radius:6px;" />
+  <a href="https://www.linkedin.com/in/ben-stearns-474261283/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin" style="border:2px solid white; border-radius:6px;" />
+  </a>
+</p>
 
-- 📚 I’m studing to complete my Python certifications
+---
 
-- 🤔 I use daily .java, .cpp, .py, .sql
+## 🚀 About Me
 
-- 👨🏻‍💻 Love programming and resolving problems
+- 🏦 Student at **Wayne State University – Wayne, NE**, pursuing a **Bachelor’s in Software Development**
+- 💻 Experienced in:  
+  `C#` • `C++` • `Java` • `HTML` • `CSS` • `JavaScript` • `SQL` • `Python` • `ASP.NET (Full Stack)`
+- 👨🏻‍💻 Always building, learning, and open to new opportunities
+- 🧠 Open to **collaboration projects** – let’s connect!
 
-- 🧠 I like to learn something new
+> 💬 Contact me at **[bstearns07@gmail.com](mailto:bstearns07@gmail.com)**  
+> 🔗 Or connect with me on **[LinkedIn](https://www.linkedin.com/in/ben-stearns-474261283/)**
 
-- 📫 How to reach me **dejohns2@wsc.edu**
+---
 
-- 💬 Connect? Lets get social @ **https://www.linkedin.com/in/dljohnson1234/**
+## 🛠 Skills & Interests
 
+I have a wide range of proficiencies across IT, including:
 
-I have held numerous IT positions including software analyst and project management for world market leaders. I have a wide range of technology experience ranging from microcomputer support to programming in numerous languages utilizing a variety of databases and hardware platforms.
+- 💾 Programming & Software Development
+- 🌐 Web Design & Full-Stack Applications
+- 🗄 Databases & SQL
+- 🖧 Networking
+- 🖥 Computer Hardware & Repair
 
-### Education
+My **passion is programming**, and I’m working toward my goal of becoming a **full-time software developer**.
 
-- MSOM, IT Management, Wayne State College, 2016
+---
 
-- B.A., Computer Information Systems/Web Analyst, Wayne State College, 2014
+## 🎓 Education
 
-- A.A., Northeast Community College, 2014
+- 🎓 **AS – Northeast Community College (2022)**
+- 🎓 **AAS – Information Technology, Northeast Community College (2025)**
 
-- AAS, Computer Programming, Northeast Community College, 1984
+---
