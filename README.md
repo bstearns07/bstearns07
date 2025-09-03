@@ -15,7 +15,7 @@
 
 - 🏦 Student at **Wayne State University – Wayne, NE**, pursuing a **Bachelor’s in Software Development**
 - 💻 Experienced in:  
-  `C#` • `C++` • `Java` • `HTML` • `CSS` • `JavaScript` • `SQL` • `Python` • `ASP.NET (Full Stack)`
+  `C#`  `C++`  `Java`  `HTML`  `CSS`  `JavaScript`  `SQL`  `Python`  `ASP.NET (Full Stack)`
 - 👨🏻‍💻 Always building, learning, and open to new opportunities
 - 🧠 Open to **collaboration projects** – let’s connect!
 
