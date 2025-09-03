@@ -1,11 +1,11 @@
 # Hi there, I'm Ben Stearns 👋
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Software%20Development-blue?style=flat-square&logo=visualstudio" style="border:2px solid white; border-radius:6px;" />
-  <img src="https://img.shields.io/badge/Student-Wayne%20State%20University-green?style=flat-square" style="border:2px solid white; border-radius:6px;" />
-  <img src="https://img.shields.io/badge/Email-bstearns07%40gmail.com-red?style=flat-square&logo=gmail" style="border:2px solid white; border-radius:6px;" />
+  <img src="https://img.shields.io/badge/Focus-Software%20Development-blue?style=flat-square&logo=visualstudio" alt="Focus: Software Development" style="border:2px solid white; border-radius:6px;" />
+  <img src="https://img.shields.io/badge/Student-Wayne%20State%20University-green?style=flat-square" alt="Student: Wayne State University" style="border:2px solid white; border-radius:6px;" />
+  <img src="https://img.shields.io/badge/Email-bstearns07%40gmail.com-red?style=flat-square&logo=gmail" alt="Email: bstearns07@gmail.com" style="border:2px solid white; border-radius:6px;" />
   <a href="https://www.linkedin.com/in/ben-stearns-474261283/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin" style="border:2px solid white; border-radius:6px;" />
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin" alt="LinkIn Link" style="border:2px solid white; border-radius:6px;" />
   </a>
 </p>
 
