@@ -20,7 +20,7 @@
 - 🧠 Open to **collaboration projects** – let’s connect!
 
 > 💬 Contact me at **[bstearns07@gmail.com](mailto:bstearns07@gmail.com)**  
-> 🔗 Or connect with me on **[LinkedIn](https://www.linkedin.com/in/ben-stearns-474261283/)**
+> 🔗 Or connect with me on <a href="https://www.linkedin.com/in/ben-stearns-474261283/" target="_blank">**LinkedIn**</a>
 
 ---
 
