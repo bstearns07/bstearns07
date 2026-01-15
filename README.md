@@ -19,7 +19,8 @@
 - 👨🏻‍💻 Always building, learning, and open to new opportunities
 - 🧠 Open to **collaboration projects** – let’s connect!
 
-> 💬 Contact me at **[bstearns07@gmail.com](mailto:bstearns07@gmail.com)**  
+> 💬 Contact me at **[bstearns07@gmail.com](mailto:bstearns07@gmail.com)**
+> Contact me at my website at <a href="www.bstearns.com" target="_blank">bstearns.com</a>
 > 🔗 Or connect with me on <a href="https://www.linkedin.com/in/ben-stearns-474261283/" target="_blank">**LinkedIn**</a>
 
 ---
