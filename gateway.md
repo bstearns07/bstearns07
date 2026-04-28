@@ -51,23 +51,24 @@ Want more details about my work and background?
 | [SmartwatchFAQ](#smartwatchfaq)             | JavaScript            | CSC 465 Advanced Web Development     | [Go to Repository](https://github.com/bstearns07/SmartwatchFAQ)      |
 
 # CALC2000
+![Output](thumbnails/calc2004.png)
 
-> 💰 COBOL future value calculator for 3 investments over a fixed term and interest rate
+```Status:``` 
 
-**Status:** ✅ Complete  
+✅ Complete
 
----
+```⚙️ Technologies Used:``` 
 
-### ⚙️ Tech
 COBOL 6.4 • JCL (compile/link/go) • IBM z/OS • VS Code + Zowe
 
----
+```🧾 Summary:``` 
 
-### 🧠 Concepts
-Variables • Arithmetic • Loops • Formatted output • COBOL structure  
-(MOVE, COMPUTE, DISPLAY, UNTIL, PICTURE)
+This program displays the future value of 3 investments after 10 years with the same interest rate
 
----
+```🧠 Key Learning Concepts:``` 
+
+This project was all about getting introduced to COBOL concepts such as variables, arithmetic, loops, and formatted output.
+This was also my first experience with statements such as MOVE, COMPUTE, UNTIL, and PIC clauses.
 
 [🚀 View Repository](https://github.com/bstearns07/CALC2000) • [🔙 Back to TOC](#table-of-contents)
 
@@ -80,6 +81,8 @@ Variables • Arithmetic • Loops • Formatted output • COBOL structure
 # RPT5000
 
 # RPT6000
+
+# SEQ3000
 
 # UTIL2000
 
