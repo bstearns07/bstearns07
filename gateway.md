@@ -65,7 +65,8 @@ Want more details about my work and background?
 
 ![Output](thumbnails/calc2004.png)
 
-```Repository Link:``` [🔗 View CALC2000 Repository](https://github.com/bstearns07/CALC2000)  
+```Repository Link:``` [🔗 View CALC2000 Repository](https://github.com/bstearns07/CALC2000)
+
 [⏫ Back to TOC](#table-of-contents)
 
 # RPT2000
