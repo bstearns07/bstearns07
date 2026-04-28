@@ -57,17 +57,16 @@ Want more details about my work and background?
 - COBOL 6.4
 - JCL (compile/link/go)
 - z/OS • VS Code + Zowe
-   
+  
 `Key Learning Concepts:` Variables, arithmetic, loops, formatted output, MOVE/COMPUTE/UNTIL/PIC  
 `Project Status:` ✅ Complete  
 `Course / Self-Project:` CIS352 Intro to Enterprise Computing  
-
 `Thumbnail Screenshot:`
 
 ![Output](thumbnails/calc2004.png)
 
-```Repository Link:``` [View CALC2000 Repository](https://github.com/bstearns07/CALC2000)  
-[🔙 Back to TOC](#table-of-contents)
+```Repository Link:``` [🔗 View CALC2000 Repository](https://github.com/bstearns07/CALC2000)  
+[⏫ Back to TOC](#table-of-contents)
 
 # RPT2000
 
