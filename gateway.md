@@ -51,25 +51,23 @@ Want more details about my work and background?
 | [SmartwatchFAQ](#smartwatchfaq)             | JavaScript            | CSC 465 Advanced Web Development     | [Go to Repository](https://github.com/bstearns07/SmartwatchFAQ)      |
 
 # CALC2000
-`Short Summary:` This program displays the future value of 3 investments after 10 years with the same interest rate
 
+`Short Summary:` This program displays the future value of 3 different investments after 10 years using a fixed interest rate  
 `Technologies Used:`
 - COBOL 6.4
 - JCL (compile/link/go)
-- IBM z/OS • VS Code + Zowe
+- z/OS • VS Code + Zowe
+   
+`Key Learning Concepts:` Variables, arithmetic, loops, formatted output, MOVE/COMPUTE/UNTIL/PIC  
+`Project Status:` ✅ Complete  
+`Course / Self-Project:` CIS352 Intro to Enterprise Computing  
 
-``Key Learning Concepts:`` This project was all about getting introduced to COBOL concepts such as variables, arithmetic, loops, and formatted output.
-This was also my first experience with statements such as MOVE, COMPUTE, UNTIL, and PIC clauses.
-
-`Status:` ✅ Complete
-
-`Course / Self-Project:` CIS352 Intro to Enterprise Computing
-
-`Thumbnail Preview:` 
+`Thumbnail Screenshot:`
 
 ![Output](thumbnails/calc2004.png)
 
-[🚀 View Repository](https://github.com/bstearns07/CALC2000) • [🔙 Back to TOC](#table-of-contents)
+```Repository Link:``` [View CALC2000 Repository](https://github.com/bstearns07/CALC2000)  
+[🔙 Back to TOC](#table-of-contents)
 
 # RPT2000
 
