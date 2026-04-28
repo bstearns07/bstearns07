@@ -51,31 +51,25 @@ Want more details about my work and background?
 | [SmartwatchFAQ](#smartwatchfaq)             | JavaScript            | CSC 465 Advanced Web Development     | [Go to Repository](https://github.com/bstearns07/SmartwatchFAQ)      |
 
 # CALC2000
-## Summary
-The purpose of this program is to act as a future value calculator. It calculates and displays the futurn value of 3 different investments 
-after a fixed number of years and interest rate.
 
-## Project Status
-Complete
+> 💰 COBOL future value calculator for 3 investments over a fixed term and interest rate
 
-## Technologies Used
-- Enterprise COBOL 6.4 (Semantic Markup)
-- JCL (Compile/Link/Go for running the program)
-- IBM z/OS mainframe for development and compiling
-- ZOWE Explorer extension for Visual Studio Code for developing outside the mainframe
+**Status:** ✅ Complete  
 
-## Key Learning Concepts
-- Developing COBOL programs for the mainframe environment
-- Variables and arithmatic
-- Loops
-- Formatted output generation
-- Division Structure
-- Comments and header documentation
-- MOVE, COMPUTE, DISPLAY, UNTIL statements
-- PICTURE statements
-  
-[Go to Repository](https://github.com/bstearns07/CALC2000)
-[Back to TOC](#table-of-contents)
+---
+
+### ⚙️ Tech
+COBOL 6.4 • JCL (compile/link/go) • IBM z/OS • VS Code + Zowe
+
+---
+
+### 🧠 Concepts
+Variables • Arithmetic • Loops • Formatted output • COBOL structure  
+(MOVE, COMPUTE, DISPLAY, UNTIL, PICTURE)
+
+---
+
+[🚀 View Repository](https://github.com/bstearns07/CALC2000) • [🔙 Back to TOC](#table-of-contents)
 
 # RPT2000
 
