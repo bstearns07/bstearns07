@@ -65,11 +65,11 @@ This was also my first experience with statements such as MOVE, COMPUTE, UNTIL, 
 
 ```Course / Self-Project:``` CIS352 Intro to Enterprise Computing
 
+```Thumbnail Preview:``` 
+
 ![Output](thumbnails/calc2004.png)
 
-[🚀 View Repository](https://github.com/bstearns07/CALC2000) 
-
-[🔙 Back to TOC](#table-of-contents)
+[🚀 View Repository](https://github.com/bstearns07/CALC2000) • [🔙 Back to TOC](#table-of-contents)
 
 # RPT2000
 
