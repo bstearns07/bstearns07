@@ -196,7 +196,7 @@ Want more details about my work and background?
 `Course / Self-Project:` CSC 465 Advanced Web Development  
 `Thumbnail Screenshot:`
 
-![Output](thumbnails/checkout_receipt.png)
+![Output](thumbnails/simple_checkout.png)
 
 ```Repository Link:``` [🔗 View Checkout Receipt Repository](https://github.com/bstearns07/Checkout-Receipt)
 
