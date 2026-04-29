@@ -84,7 +84,7 @@ Want more details about my work and background?
 
 ![Output](thumbnails/rpt2000.png)
 
-```Repository Link:``` [🔗 View CALC2000 Repository](https://github.com/bstearns07/RPT2000)
+```Repository Link:``` [🔗 View RPT2000 Repository](https://github.com/bstearns07/RPT2000)
 
 [⏫ Back to TOC](#table-of-contents)
 
@@ -103,7 +103,7 @@ Want more details about my work and background?
 
 ![Output](thumbnails/rpt3000.png)
 
-```Repository Link:``` [🔗 View CALC2000 Repository](https://github.com/bstearns07/RPT3000)
+```Repository Link:``` [🔗 View RPT3000 Repository](https://github.com/bstearns07/RPT3000)
 
 [⏫ Back to TOC](#table-of-contents)
 
@@ -122,7 +122,7 @@ Want more details about my work and background?
 
 ![Output](thumbnails/rpt5000.png)
 
-```Repository Link:``` [🔗 View CALC2000 Repository](https://github.com/bstearns07/RPT5000)
+```Repository Link:``` [🔗 View RPT5000 Repository](https://github.com/bstearns07/RPT5000)
 
 [⏫ Back to TOC](#table-of-contents)
 
@@ -141,7 +141,7 @@ Want more details about my work and background?
 
 ![Output](thumbnails/rpt6000.png)
 
-```Repository Link:``` [🔗 View CALC2000 Repository](https://github.com/bstearns07/RPT6000)
+```Repository Link:``` [🔗 View RPT6000 Repository](https://github.com/bstearns07/RPT6000)
 
 [⏫ Back to TOC](#table-of-contents)
 
@@ -153,14 +153,14 @@ Want more details about my work and background?
 - JCL (compile/link/go)
 - z/OS • VS Code + Zowe
   
-`Key Learning Concepts:` Creating/reading index files, writing to error log files, FILE-STATUS/HIGH-VALUE/LOW-VALUE statements
+`Key Learning Concepts:` Creating/reading index files, writing to error log files, FILE-STATUS/HIGH-VALUE/LOW-VALUE statements  
 `Project Status:` ✅ Complete  
 `Course / Self-Project:` CIS352 Intro to Enterprise Computing  
 `Thumbnail Screenshot:`
 
 ![Output](thumbnails/seq3000.png)
 
-```Repository Link:``` [🔗 View CALC2000 Repository](https://github.com/bstearns07/SEQ3000)
+```Repository Link:``` [🔗 View SEQ3000 Repository](https://github.com/bstearns07/SEQ3000)
 
 [⏫ Back to TOC](#table-of-contents)
 
@@ -172,27 +172,146 @@ Want more details about my work and background?
 - JCL (compile/link/go)
 - z/OS • VS Code + Zowe
   
-`Key Learning Concepts:` Developing within a mainframe environment with ISPF, loops, DISPLAY/MOVE/COMPUTE/UNTIL statements
+`Key Learning Concepts:` Developing within a mainframe environment with ISPF, loops, DISPLAY/MOVE/COMPUTE/UNTIL statements  
 `Project Status:` ✅ Complete  
 `Course / Self-Project:` CIS352 Intro to Enterprise Computing  
 `Thumbnail Screenshot:`
 
 ![Output](thumbnails/util2000.png)
 
-```Repository Link:``` [🔗 View CALC2000 Repository](https://github.com/bstearns07/UTIL2000)
+```Repository Link:``` [🔗 View UTIL2000 Repository](https://github.com/bstearns07/UTIL2000)
 
 [⏫ Back to TOC](#table-of-contents)
 
 # Checkout Receipt
 
+`Short Summary:` Calculates the total of a grocery item based on price/quanity and other information from an html form  
+`Technologies Used:`
+- HTML5 (Semantic Markup)
+- CSS3 (Layout & Styling)
+- Vanilla JavaScript (ES6+)
+  
+`Key Learning Concepts:` Getting DOM element values, data validation, variables, arithmetic, document.querySelector()/parseFloat()/parseInt()/alert()/document.addEventListener() for button event handling  
+`Project Status:` ✅ Complete  
+`Course / Self-Project:` CSC 465 Advanced Web Development  
+`Thumbnail Screenshot:`
+
+![Output](thumbnails/checkout_receipt.png)
+
+```Repository Link:``` [🔗 View Checkout Receipt Repository](https://github.com/bstearns07/Checkout-Receipt)
+
+[⏫ Back to TOC](#table-of-contents)
+
 # DictionaryAPI
+
+`Short Summary:` Looks up the dictionary information of a word input by the user
+`Technologies Used:`
+- HTML5 (Semantic Markup) + Tailwind (Layout & Styling)
+- Vanilla JavaScript (ES6+)
+- Custom-made Node Express API
+- [Free Dictionary API](https://dictionaryapi.dev/?ref=freepublicapis.com)
+  
+`Key Learning Concepts:` API calls and data parsing, Node Express APIs, find()/fetch() methods, asynchronous programming (async/await), Audio objects  
+`Project Status:` ✅ Complete  
+`Course / Self-Project:` CSC 465 Advanced Web Development  
+`Thumbnail Screenshot:`
+
+![Output](thumbnails/dictionary_api.png)
+
+```Repository Link:``` [🔗 View DictionaryAPI Repository](https://github.com/bstearns07/DictionaryAPI)
+
+[⏫ Back to TOC](#table-of-contents)
 
 # Flashcards
 
+`Short Summary:` Creates a game where you create your own flashcards and quiz yourself with them  
+`Technologies Used:`
+- HTML5 (Semantic Markup) + Tailwind (Layout & Styling)
+- Vanilla JavaScript (ES6+)
+  
+`Key Learning Concepts:` Arrays, Switch statements, custom functions, DOM manipulation
+`Project Status:` ✅ Complete  
+`Course / Self-Project:` CSC 465 Advanced Web Development  
+`Thumbnail Screenshot:`
+
+![Output](thumbnails/flashcards.png)
+
+```Repository Link:``` [🔗 View Flashcards Repository](https://github.com/bstearns07/Flashcards)
+
+[⏫ Back to TOC](#table-of-contents)
+
 # HotColdGame
+
+`Short Summary:` A number-guessing game that tells you if you're hot or cold
+`Technologies Used:`
+- HTML5 (Semantic Markup)
+- Tailwind (Layout & Styling)
+- Vanilla JavaScript (ES6+)
+  
+`Key Learning Concepts:` Random number generation, DOM CSS manipulation, "keydown" events, add/removeEventListener(), math.Abs() methods, switch(true) statements  
+`Project Status:` ✅ Complete  
+`Course / Self-Project:` CSC 465 Advanced Web Development  
+`Thumbnail Screenshot:`
+
+![Output](thumbnails/hot_cold_game.png)
+
+```Repository Link:``` [🔗 View HotColdGame Repository](https://github.com/bstearns07/HotColdGame)
+
+[⏫ Back to TOC](#table-of-contents)
 
 # MovieTracker
 
+`Short Summary:` Maintains a personal list of movies in web storage so your list isn't lost if the browser closes.  
+`Technologies Used:`
+- HTML5 (Semantic Markup)
+- CSS3 (Layout & Styling)
+- Vanilla JavaScript (ES6+)
+  
+`Key Learning Concepts:` Class data structures, creating/importing modules, "import map" scripts, reading data in/out of web storage  
+`Project Status:` ✅ Complete  
+`Course / Self-Project:` CSC 465 Advanced Web Development  
+`Thumbnail Screenshot:`
+
+![Output](thumbnails/movie_tracker.png)
+
+```Repository Link:``` [🔗 View MovieTracker Repository](https://github.com/bstearns07/MovieTracker)
+
+[⏫ Back to TOC](#table-of-contents)
+
 # RetirementProjector
 
+`Short Summary:` Displays the growth of your retirement investment using a timer 
+`Technologies Used:`
+- HTML5 (Semantic Markup)
+- CSS3 (Layout & Styling)
+- Vanilla JavaScript (ES6+)
+  
+`Key Learning Concepts:` Time/Date manipulation, validation through html and custom methods, setInterval() for timer functions, regex patterns, local data storage  
+`Project Status:` ✅ Complete  
+`Course / Self-Project:` CSC 465 Advanced Web Development  
+`Thumbnail Screenshot:`
+
+![Output](thumbnails/retirement_projector.png)
+
+```Repository Link:``` [🔗 View RetirementProjector Repository](https://github.com/bstearns07/RetirementProjector)
+
+[⏫ Back to TOC](#table-of-contents)
+
 # SmartwatchFAQ
+
+`Short Summary:` Displays the answers to frequently-asked questions about smartwatches using image swapping and toggling hidden elements on/off.
+`Technologies Used:`
+- HTML5 (Semantic Markup)
+- Tailwind (Layout & Styling)
+- Vanilla JavaScript (ES6+)
+  
+`Key Learning Concepts:` DOM manipulation through element.attributeName/ getAttribute()/ setAttribute()/ classList.toggle()/ classList.remove()/ nextSibling statements  
+`Project Status:` ✅ Complete  
+`Course / Self-Project:` CSC 465 Advanced Web Development  
+`Thumbnail Screenshot:`
+
+![Output](thumbnails/smartwatch_faq.png)
+
+```Repository Link:``` [🔗 View RetirementProjector Repository](https://github.com/bstearns07/SmartwatchFAQ)
+
+[⏫ Back to TOC](#table-of-contents)
