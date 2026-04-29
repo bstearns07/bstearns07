@@ -1,6 +1,10 @@
 # Hi there, I'm Ben Stearns 👋
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Aspiring+Software+Developer;Full+Stack+Development;Always+Learning&center=true&width=500&height=45" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Focus-Software%20Development-blue?style=flat-square&logo=visualstudio" alt="Focus: Software Development" style="border:2px solid white; border-radius:6px;" />
   <img src="https://img.shields.io/badge/Student-Wayne%20State%20University-green?style=flat-square" alt="Student: Wayne State University" style="border:2px solid white; border-radius:6px;" />
   <img src="https://img.shields.io/badge/Email-bstearns07%40gmail.com-red?style=flat-square&logo=gmail" alt="Email: bstearns07@gmail.com" style="border:2px solid white; border-radius:6px;" />
@@ -11,17 +15,51 @@
 
 ---
 
+## 📚 Table of Contents
+
+- 🚀 [About Me](#-about-me)
+- 🛠 [Tech Stack](#-tech-stack)
+- 📬 [Connect With Me](#-connect-with-me)
+- 🧠 [Skills & Interests](#-skills--interests)
+- 🎓 [Education](#-education)
+- 🔥 [Currently Working On](#-currently-working-on)
+- 📊 [My Stats](#-my-stats)
+- 📈 [Activity](#-activity)
+- 📁 [Project Directory](#-project-directory)
+
+---
+
 ## 🚀 About Me
 
+I'm a software development student focused on building full-stack applications using .NET and modern web technologies.
+
+I enjoy solving real-world problems through code and have experience developing applications ranging from web interfaces to data-driven reporting systems.
+
+I'm currently seeking opportunities to grow as a developer and contribute to meaningful projects.
+
 - 🏦 Student at **Wayne State University – Wayne, NE**, pursuing a **Bachelor’s in Software Development**
-- 💻 Experienced in:  
-  `C#`  `C++`  `Java`  `HTML`  `CSS`  `JavaScript`  `SQL`  `Python`  `ASP.NET (Full Stack)`
 - 👨🏻‍💻 Always building, learning, and open to new opportunities
 - 🧠 Open to **collaboration projects** – let’s connect!
 
-> 💬 Contact me at **[bstearns07@gmail.com](mailto:bstearns07@gmail.com)**
-> Contact me at my website at <a href="https://www.bstearns.com" target="_blank">**bstearns.com**</a>
-> 🔗 Or connect with me on <a href="https://www.linkedin.com/in/ben-stearns-474261283/" target="_blank">**LinkedIn**</a>
+## 🛠 Tech Stack
+
+**Languages**
+`C#` `C++` `Java` `Python` `JavaScript` `Typescript`
+
+**Web & Frameworks**
+`HTML` `CSS` `ASP.NET` `.NET` `Node.js` `Flask` `Tailwind`
+
+**Database**
+`SQL` `Entity Framework`
+
+**Other**
+`GitHub` `Networking` `Hardware` `Computer Science`
+
+## 📬 Connect With Me
+
+- 📧 Email: [bstearns07@gmail.com](mailto:bstearns07@gmail.com)
+- 🌐 Website: https://www.bstearns.com
+- 🔗 Or connect with me on <a href="https://www.linkedin.com/in/ben-stearns-474261283/" target="_blank">**LinkedIn**</a>
 
 ---
 
@@ -29,11 +67,14 @@
 
 I have a wide range of proficiencies across IT, including:
 
-- 💾 Programming & Software Development
+- 👨‍💻 Programming & Software Development
 - 🌐 Web Design & Full-Stack Applications
-- 🗄 Databases & SQL
-- 🖧 Networking
-- 🖥 Computer Hardware & Repair
+- 🗃️ Databases & SQL
+- 🌍 Networking
+- 🛠️ Computer Hardware & Repair
+- 🪟 Windows Server
+- 🐧 Linux
+- 📈 Project Management
 
 My **passion is programming**, and I’m working toward my goal of becoming a **full-time software developer**.
 
@@ -44,5 +85,31 @@ My **passion is programming**, and I’m working toward my goal of becoming a **
 - 🎓 **AS – Northeast Community College (2022)**
 - 🎓 **AAS – Information Technology, Northeast Community College (2025)**
 - 🎓 **BS – Computer Information Systems - Programmer/Analyst, Wayne State College (Spring 2027 - anticipated)**
+  - *Minor -Computer Science*
 
 ---
+
+## 🔥 Currently Working On
+- Finishing my BS degree at Wayne State College - Programmer/Analyst/Computer Science
+- Developing software solutions as a Summer Software Development Intern at Daycos in Norfolk, NE
+- Understand AI
+- Typescript
+- Svelte Framework
+
+## 📊 My Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bstearns07&show_icons=true&theme=default" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bstearns07" />
+</p>
+
+## 📈 Activity
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bstearns07)
+
+## 📁 Project Directory
+
+> 🔍 **Explore my projects in one place**
+> 
+> A centralized gateway to all repositories, organized for easy browsing.
+> 👉 [View Project Directory](https://github.com/bstearns07/bstearns07/blob/master/gateway.md)
