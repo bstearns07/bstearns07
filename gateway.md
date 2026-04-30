@@ -281,7 +281,7 @@ Want more details about my work and background?
 
 ![Weather API](thumbnails/weather_api.png)
 
-```Repository Link:``` [🔗 View WeatherAPI Repository](https://github.com/bstearns07/WeatherAPIApp))
+```Repository Link:``` [🔗 View WeatherAPI Repository](https://github.com/bstearns07/WeatherAPIApp)
 
 [⏫ Back to TOC](#-project-directory)
 
