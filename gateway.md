@@ -33,24 +33,25 @@ Want more details about my work and background?
 ---
 
 
-# Table of Contents
-| Project Name                                | Primary Tech          | Category                             | Repository Link                                                      | Live Demo Link
-|---------------------------------------------|-----------------------|--------------------------------------|----------------------------------------------------------------------|-------------------------------------------------------------------------------
-| [CALC2000](#calc2000)                       | COBOL/JCL             | CIS352 Intro to Enterprise Computing | [Go to Repository](https://github.com/bstearns07/CALC2000)           | -
-| [RPT2000](#rpt2000)                         | COBOL/JCL             | CIS352 Intro to Enterprise Computing | [Go to Repository](https://github.com/bstearns07/RPT2000)            | -
-| [RPT3000](#rpt3000)                         | COBOL/JCL             | CIS352 Intro to Enterprise Computing | [Go to Repository](https://github.com/bstearns07/RPT3000)            | -
-| [RPT5000](#rpt5000)                         | COBOL/JCL             | CIS352 Intro to Enterprise Computing | [Go to Repository](https://github.com/bstearns07/RPT5000)            | -
-| [RPT6000](#rpt6000)                         | COBOL/JCL             | CIS352 Intro to Enterprise Computing | [Go to Repository](https://github.com/bstearns07/RPT6000)            | -
-| [SEQ3000](#seq3000)                         | COBOL/JCL             | CIS352 Intro to Enterprise Computing | [Go to Repository](https://github.com/bstearns07/SEQ3000)            | -
-| [UTIL2000](#util2000)                       | COBOL/JCL             | CIS352 Intro to Enterprise Computing | [Go to Repository](https://github.com/bstearns07/UTIL2000)           | -
-| [Checkout Receipt](#checkout-receipt)       | JavaScript            | CSC 465 Advanced Web Development     | [Go to Repository](https://github.com/bstearns07/Checkout-Receipt)   | [Open Ceckout Receipt](https://bstearns07.github.io/Checkout-Receipt/)
-| [DictionaryAPI](#dictionaryapi)             | JavaScript            | CSC 465 Advanced Web Development     | [Go to Repository](https://github.com/bstearns07/DictionaryAPI)      | [Open DictionaryAPI](https://dictionaryapi-5dly.onrender.com)
-| [Flashcards](#flashcards)                   | JavaScript            | CSC 465 Advanced Web Development     | [Go to Repository](https://github.com/bstearns07/Flashcards)         | [Open Flashcards](https://bstearns07.github.io/Flashcards/)
-| [HotColdGame](#hotcoldgame)                 | JavaScript            | CSC 465 Advanced Web Development     | [Go to Repository](https://github.com/bstearns07/HotColdGame)        | [Open HotColdGame](https://bstearns07.github.io/HotColdGame/)
-| [MovieTracker](#movietracker)               | JavaScript            | CSC 465 Advanced Web Development     | [Go to Repository](https://github.com/bstearns07/MovieTracker)       | [Open Movie Tracker](https://bstearns07.github.io/MovieTracker/)
-| [RetirementProjector](#retirementprojector) | JavaScript            | CSC 465 Advanced Web Development     | [Go to Repository](https://github.com/bstearns07/RetirementProjector)| [Open Retirement Projector](https://bstearns07.github.io/RetirementProjector/)
-| [SmartwatchFAQ](#smartwatchfaq)             | JavaScript            | CSC 465 Advanced Web Development     | [Go to Repository](https://github.com/bstearns07/SmartwatchFAQ)      | [Open Smartwatch FAQ](https://bstearns07.github.io/SmartwatchFAQ/)
+# 📚 Project Directory
 
+| 🚀 Project                                  | 💻 Tech      | 🏷️ Category                    | 📂 Repository                                                | 🌐 Live Demo                                                                      |
+|---------------------------------------------|---------------|---------------------------------|--------------------------------------------------------------|------------------------------------------------------------------------------------|
+| [CALC2000](#calc2000)                       | 🖥️ COBOL/JCL  | 🎓 CIS352 Enterprise Computing | 🔗 [Repo](https://github.com/bstearns07/CALC2000)            | —                                                                                 |
+| [RPT2000](#rpt2000)                         | 🖥️ COBOL/JCL  | 🎓 CIS352 Enterprise Computing | 🔗 [Repo](https://github.com/bstearns07/RPT2000)             | —                                                                                 |
+| [RPT3000](#rpt3000)                         | 🖥️ COBOL/JCL  | 🎓 CIS352 Enterprise Computing | 🔗 [Repo](https://github.com/bstearns07/RPT3000)             | —                                                                                 |
+| [RPT5000](#rpt5000)                         | 🖥️ COBOL/JCL  | 🎓 CIS352 Enterprise Computing | 🔗 [Repo](https://github.com/bstearns07/RPT5000)             | —                                                                                 |
+| [RPT6000](#rpt6000)                         | 🖥️ COBOL/JCL  | 🎓 CIS352 Enterprise Computing | 🔗 [Repo](https://github.com/bstearns07/RPT6000)             | —                                                                                 |
+| [SEQ3000](#seq3000)                         | 🖥️ COBOL/JCL  | 🎓 CIS352 Enterprise Computing | 🔗 [Repo](https://github.com/bstearns07/SEQ3000)             | —                                                                                 |
+| [UTIL2000](#util2000)                       | 🖥️ COBOL/JCL  | 🎓 CIS352 Enterprise Computing | 🔗 [Repo](https://github.com/bstearns07/UTIL2000)            | —                                                                                 |
+| [Checkout Receipt](#checkout-receipt)       | ⚡ JavaScript | 🌐 CSC 465 Advanced Web Dev    | 🔗 [Repo](https://github.com/bstearns07/Checkout-Receipt)    | ▶️ [Open Checkout Receipt](https://bstearns07.github.io/Checkout-Receipt/)        |
+| [DictionaryAPI](#dictionaryapi)             | ⚡ JavaScript | 🌐 CSC 465 Advanced Web Dev    | 🔗 [Repo](https://github.com/bstearns07/DictionaryAPI)       | ▶️ [Open Dictionary API](https://dictionaryapi-5dly.onrender.com)                 |
+| [Flashcards](#flashcards)                   | ⚡ JavaScript | 🌐 CSC 465 Advanced Web Dev    | 🔗 [Repo](https://github.com/bstearns07/Flashcards)          | ▶️ [Open Flashcards](https://bstearns07.github.io/Flashcards/)                    |
+| [HotColdGame](#hotcoldgame)                 | ⚡ JavaScript | 🌐 CSC 465 Advanced Web Dev    | 🔗 [Repo](https://github.com/bstearns07/HotColdGame)         | ▶️ [Open HotCold Game](https://bstearns07.github.io/HotColdGame/)                 |
+| [MovieTracker](#movietracker)               | ⚡ JavaScript | 🌐 CSC 465 Advanced Web Dev    | 🔗 [Repo](https://github.com/bstearns07/MovieTracker)        | ▶️ [Open Movie Tracker](https://bstearns07.github.io/MovieTracker/)               |
+| [RetirementProjector](#retirementprojector) | ⚡ JavaScript | 🌐 CSC 465 Advanced Web Dev    | 🔗 [Repo](https://github.com/bstearns07/RetirementProjector) | ▶️ [Open Retirement Projector](https://bstearns07.github.io/RetirementProjector/) |
+| [SmartwatchFAQ](#smartwatchfaq)             | ⚡ JavaScript | 🌐 CSC 465 Advanced Web Dev    | 🔗 [Repo](https://github.com/bstearns07/SmartwatchFAQ)       | ▶️ [Open Smartwatch FAQ](https://bstearns07.github.io/SmartwatchFAQ/)             |
+ 
 # CALC2000
 
 `Short Summary:` This program displays the future value of 3 different investments after 10 years using a fixed interest rate  
