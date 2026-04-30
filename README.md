@@ -24,6 +24,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="thumbnails/profile_image.jpg" />
+</p>
+
 ---
 
 ## 📚 Table of Contents
@@ -96,7 +100,7 @@ My **passion is programming**, and I’m working toward my goal of becoming a **
 - 🎓 **AS – Northeast Community College (2022)**
 - 🎓 **AAS – Information Technology, Northeast Community College (2025)**
 - 🎓 **BS – Computer Information Systems - Programmer/Analyst, Wayne State College (Spring 2027 - anticipated)**
-  - *Minor -Computer Science*
+  - *Minor - Computer Science*
 
 ---
 
