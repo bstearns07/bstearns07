@@ -35,24 +35,25 @@ Want more details about my work and background?
 
 # 📚 Project Directory
 
-| 🚀 Project                                  | 💻 Primary Tech | 🏷️ Category                        | 📂 Repository                                                   | 🌐 Live Demo                                                                      |
-|---------------------------------------------|------------------|-------------------------------------|-----------------------------------------------------------------|------------------------------------------------------------------------------------|
-| [AchievementTracker](#achievementtracker)  | 💜 C#/.NET       | 🎓 INFO1420 Intro to C#            | 🔗 [Repo](https://github.com/bstearns07/AchievementTracker-BDS) | —                                                                                  |
-| [MathTutor](#math-tutor)                    | ⚙️ C++           | 🎓 CSC150 Programming Fundamentals | 🔗 [Repo](https://github.com/bstearns07/MathTutor)              | —                                                                                 |
-| [CALC2000](#calc2000)                       | 🖥️ COBOL/JCL     | 🎓 CIS352 Enterprise Computing     | 🔗 [Repo](https://github.com/bstearns07/CALC2000)               | —                                                                                 |
-| [RPT2000](#rpt2000)                         | 🖥️ COBOL/JCL     | 🎓 CIS352 Enterprise Computing     | 🔗 [Repo](https://github.com/bstearns07/RPT2000)                | —                                                                                 |
-| [RPT3000](#rpt3000)                         | 🖥️ COBOL/JCL     | 🎓 CIS352 Enterprise Computing     | 🔗 [Repo](https://github.com/bstearns07/RPT3000)                | —                                                                                 |
-| [RPT5000](#rpt5000)                         | 🖥️ COBOL/JCL     | 🎓 CIS352 Enterprise Computing     | 🔗 [Repo](https://github.com/bstearns07/RPT5000)                | —                                                                                 |
-| [RPT6000](#rpt6000)                         | 🖥️ COBOL/JCL     | 🎓 CIS352 Enterprise Computing     | 🔗 [Repo](https://github.com/bstearns07/RPT6000)                | —                                                                                 |
-| [SEQ3000](#seq3000)                         | 🖥️ COBOL/JCL     | 🎓 CIS352 Enterprise Computing     | 🔗 [Repo](https://github.com/bstearns07/SEQ3000)                | —                                                                                 |
-| [UTIL2000](#util2000)                       | 🖥️ COBOL/JCL     | 🎓 CIS352 Enterprise Computing     | 🔗 [Repo](https://github.com/bstearns07/UTIL2000)               | —                                                                                 |
-| [Checkout Receipt](#checkout-receipt)       | ⚡ JavaScript    | 🌐 CSC 465 Advanced Web Dev        | 🔗 [Repo](https://github.com/bstearns07/Checkout-Receipt)       | ▶️ [Open Checkout Receipt](https://bstearns07.github.io/Checkout-Receipt/)        |
-| [DictionaryAPI](#dictionaryapi)             | ⚡ JavaScript    | 🌐 CSC 465 Advanced Web Dev        | 🔗 [Repo](https://github.com/bstearns07/DictionaryAPI)          | ▶️ [Open Dictionary API](https://dictionaryapi-5dly.onrender.com)                 |
-| [Flashcards](#flashcards)                   | ⚡ JavaScript    | 🌐 CSC 465 Advanced Web Dev        | 🔗 [Repo](https://github.com/bstearns07/Flashcards)             | ▶️ [Open Flashcards](https://bstearns07.github.io/Flashcards/)                    |
-| [HotColdGame](#hotcoldgame)                 | ⚡ JavaScript    | 🌐 CSC 465 Advanced Web Dev        | 🔗 [Repo](https://github.com/bstearns07/HotColdGame)            | ▶️ [Open HotCold Game](https://bstearns07.github.io/HotColdGame/)                 |
-| [MovieTracker](#movietracker)               | ⚡ JavaScript    | 🌐 CSC 465 Advanced Web Dev        | 🔗 [Repo](https://github.com/bstearns07/MovieTracker)           | ▶️ [Open Movie Tracker](https://bstearns07.github.io/MovieTracker/)               |
-| [RetirementProjector](#retirementprojector) | ⚡ JavaScript    | 🌐 CSC 465 Advanced Web Dev        | 🔗 [Repo](https://github.com/bstearns07/RetirementProjector)    | ▶️ [Open Retirement Projector](https://bstearns07.github.io/RetirementProjector/) |
-| [SmartwatchFAQ](#smartwatchfaq)             | ⚡ JavaScript    | 🌐 CSC 465 Advanced Web Dev        | 🔗 [Repo](https://github.com/bstearns07/SmartwatchFAQ)          | ▶️ [Open Smartwatch FAQ](https://bstearns07.github.io/SmartwatchFAQ/)             |
+| 🚀 Project                                  | 💻 Primary Tech | 🏷️ Category                        | 📂 Repository                                                       | 🌐 Live Demo                                                                      |
+|---------------------------------------------|------------------|-------------------------------------|---------------------------------------------------------------------|------------------------------------------------------------------------------------|
+| [AchievementTracker](#achievementtracker)   | 💜 C#/.NET       | 🎓 INFO1420 Intro to C#            | 🔗 [Repo](https://github.com/bstearns07/AchievementTracker-BDS)     | —                                                                                  |
+| [MathTutor](#math-tutor)                    | ⚙️ C++           | 🎓 CSC150 Programming Fundamentals | 🔗 [Repo](https://github.com/bstearns07/MathTutor)                  | —                                                                                 |
+| [CALC2000](#calc2000)                       | 🖥️ COBOL/JCL     | 🎓 CIS352 Enterprise Computing     | 🔗 [Repo](https://github.com/bstearns07/CALC2000)                   | —                                                                                 |
+| [RPT2000](#rpt2000)                         | 🖥️ COBOL/JCL     | 🎓 CIS352 Enterprise Computing     | 🔗 [Repo](https://github.com/bstearns07/RPT2000)                    | —                                                                                 |
+| [RPT3000](#rpt3000)                         | 🖥️ COBOL/JCL     | 🎓 CIS352 Enterprise Computing     | 🔗 [Repo](https://github.com/bstearns07/RPT3000)                    | —                                                                                 |
+| [RPT5000](#rpt5000)                         | 🖥️ COBOL/JCL     | 🎓 CIS352 Enterprise Computing     | 🔗 [Repo](https://github.com/bstearns07/RPT5000)                    | —                                                                                 |
+| [RPT6000](#rpt6000)                         | 🖥️ COBOL/JCL     | 🎓 CIS352 Enterprise Computing     | 🔗 [Repo](https://github.com/bstearns07/RPT6000)                    | —                                                                                 |
+| [SEQ3000](#seq3000)                         | 🖥️ COBOL/JCL     | 🎓 CIS352 Enterprise Computing     | 🔗 [Repo](https://github.com/bstearns07/SEQ3000)                    | —                                                                                 |
+| [UTIL2000](#util2000)                       | 🖥️ COBOL/JCL     | 🎓 CIS352 Enterprise Computing     | 🔗 [Repo](https://github.com/bstearns07/UTIL2000)                   | —                                                                                 |
+| [Checkout Receipt](#checkout-receipt)       | ⚡ JavaScript    | 🌐 CSC 465 Advanced Web Dev        | 🔗 [Repo](https://github.com/bstearns07/Checkout-Receipt)           | ▶️ [Open Checkout Receipt](https://bstearns07.github.io/Checkout-Receipt/)        |
+| [DictionaryAPI](#dictionaryapi)             | ⚡ JavaScript    | 🌐 CSC 465 Advanced Web Dev        | 🔗 [Repo](https://github.com/bstearns07/DictionaryAPI)              | ▶️ [Open Dictionary API](https://dictionaryapi-5dly.onrender.com)                 |
+| [Flashcards](#flashcards)                   | ⚡ JavaScript    | 🌐 CSC 465 Advanced Web Dev        | 🔗 [Repo](https://github.com/bstearns07/Flashcards)                 | ▶️ [Open Flashcards](https://bstearns07.github.io/Flashcards/)                    |
+| [HotColdGame](#hotcoldgame)                 | ⚡ JavaScript    | 🌐 CSC 465 Advanced Web Dev        | 🔗 [Repo](https://github.com/bstearns07/HotColdGame)                | ▶️ [Open HotCold Game](https://bstearns07.github.io/HotColdGame/)                 |
+| [MovieTracker](#movietracker)               | ⚡ JavaScript    | 🌐 CSC 465 Advanced Web Dev        | 🔗 [Repo](https://github.com/bstearns07/MovieTracker)               | ▶️ [Open Movie Tracker](https://bstearns07.github.io/MovieTracker/)               |
+| [RetirementProjector](#retirementprojector) | ⚡ JavaScript    | 🌐 CSC 465 Advanced Web Dev        | 🔗 [Repo](https://github.com/bstearns07/RetirementProjector)        | ▶️ [Open Retirement Projector](https://bstearns07.github.io/RetirementProjector/) |
+| [SmartwatchFAQ](#smartwatchfaq)             | ⚡ JavaScript    | 🌐 CSC 465 Advanced Web Dev        | 🔗 [Repo](https://github.com/bstearns07/SmartwatchFAQ)              | ▶️ [Open Smartwatch FAQ](https://bstearns07.github.io/SmartwatchFAQ/)             |
+| [YugiohCardLibraryOCR](#yugiohcardlibrary)  | 🐍 Python        | 📜 CSC 365 Scripting Languages     | 🔗 [Repo](https://github.com/bstearns07/YugiohCardLibrary_With_OCR) | -                                                                                  |
 
 # AchievementTracker
 
@@ -353,5 +354,23 @@ Want more details about my work and background?
 ![Output](thumbnails/smartwatch_faq.png)
 
 ```Repository Link:``` [🔗 View RetirementProjector Repository](https://github.com/bstearns07/SmartwatchFAQ)
+
+[⏫ Back to TOC](#table-of-contents)
+
+# YugiohCardLibrary
+
+`Short Summary:` Acts as a library for digitally storing your Yugioh card collection. Feature Tesseract OCR to scan your cards in.
+`Technologies Used:`
+- Python Flask Framework
+- HTML5 + CSS
+- Supabase Postgress (PostgreSQL) + Tesseract OCR engine
+  
+`Key Learning Concepts:` Flask web app development, Tesseract OCR data extraction, Supabase open-source database management, RESTful routing, Session-based caching
+`Course / Self-Project:` CSC 365 Advanced Web Development  
+`Thumbnail Screenshot:`
+
+![Output](thumbnails/yugioh.png)
+
+```Repository Link:``` [🔗 View YugiohCardLibrary Repository](https://github.com/bstearns07/YugiohCardLibrary_With_OCR
 
 [⏫ Back to TOC](#table-of-contents)
