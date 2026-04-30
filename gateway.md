@@ -16,7 +16,7 @@ If you're not sure where to start in my GitHub, this guide organizes my projects
 ---
 
 ## 🛠️ How to Use This Guide
-1. 🔎 Browse the project directory below  
+1. 🔎 Browse the project directory below for something you'd like to learn more about
 2. 📌 Click a project name to jump to its summary  
 3. 🚀 Use the repository link to view the full project repository on GitHub
 4. 🔗 Use the Live Demo link if provided to open the app in your browser and give it a try!
