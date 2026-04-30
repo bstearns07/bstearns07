@@ -55,7 +55,7 @@ I'm currently seeking opportunities to grow as a developer and contribute to mea
 ## 🛠 Tech Stack
 
 **Languages**
-`C#` `C++` `Java` `Python` `JavaScript` `Typescript`
+`C#` `C++` `Java` `Python` `JavaScript` `Typescript` `COBOL`
 
 **Web & Frameworks**
 `HTML` `CSS` `ASP.NET` `.NET` `Node.js` `Flask` `Tailwind`
