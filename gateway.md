@@ -38,6 +38,7 @@ Want more details about my work and background?
 | 🚀 Project                                  | 💻 Primary Tech    | 🏷️ Category                        | 📂 Repository                                                       | 🌐 Live Demo                                                                      |
 |---------------------------------------------|---------------------|-------------------------------------|---------------------------------------------------------------------|------------------------------------------------------------------------------------|
 | [AchievementTracker](#achievementtracker)   | 💜 C#/.NET          | 🎓 INFO1420 Intro to C#            | 🔗 [Repo](https://github.com/bstearns07/AchievementTracker-BDS)     | —                                                                                 |
+| [TuitionCalculator](#achievementtracker)    | 💜 C#/ASP.NET       | 🎓 INFO2420 Advanced Web Design    | 🔗 [Repo](https://github.com/bstearns07/TuitionCalculator_WebApp)   | —                                                                                 |
 | [MathTutor](#mathtutor)                     | ⚙️ C++              | 🎓 CSC150 Programming Fundamentals | 🔗 [Repo](https://github.com/bstearns07/MathTutor)                  | —                                                                                 |
 | [CALC2000](#calc2000)                       | 🖥️ COBOL/JCL        | 🎓 CIS352 Enterprise Computing     | 🔗 [Repo](https://github.com/bstearns07/CALC2000)                   | —                                                                                 |
 | [RPT2000](#rpt2000)                         | 🖥️ COBOL/JCL        | 🎓 CIS352 Enterprise Computing     | 🔗 [Repo](https://github.com/bstearns07/RPT2000)                    | —                                                                                 |
@@ -71,7 +72,26 @@ Want more details about my work and background?
 
 ![Achievement Tracker](thumbnails/achievement_tracker.png)
 
-```Repository Link:``` [🔗 View AchievementTracker Repository](https://github.com/bstearns07/CALC2000)
+```Repository Link:``` [🔗 View AchievementTracker Repository](https://github.com/bstearns07/AchievementTracker-BDS)
+
+[⏫ Back to TOC](#-project-directory)
+
+# TuitionCalculator
+
+`Short Summary:` An interactive browser-based application designed to help users estimate the cost of going to college.
+`Technologies Used:`
+- C#
+- ASP.NET MVC Framework
+- Sql Server Relational Database + Entity Framework Data Access API
+  
+`Key Learning Concepts:` ASP.NET model-view-controller framework, Sql Server integration, Entity Framework for database access,  CRUD database functions  
+`Project Status:` ✅ Complete  
+`Course / Self-Project:` INFO 2420 Advanced Web Development  
+`Thumbnail Screenshot:`
+
+![Achievement Tracker](thumbnails/tuition_calculator.png)
+
+```Repository Link:``` [🔗 View TuitionCalcultor Repository](https://github.com/bstearns07/TuitionCalculator_WebApp)
 
 [⏫ Back to TOC](#-project-directory)
 
