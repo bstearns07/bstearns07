@@ -38,7 +38,7 @@ Want more details about my work and background?
 | 🚀 Project                                  | 💻 Primary Tech | 🏷️ Category                        | 📂 Repository                                                       | 🌐 Live Demo                                                                      |
 |---------------------------------------------|------------------|-------------------------------------|---------------------------------------------------------------------|------------------------------------------------------------------------------------|
 | [AchievementTracker](#achievementtracker)   | 💜 C#/.NET       | 🎓 INFO1420 Intro to C#            | 🔗 [Repo](https://github.com/bstearns07/AchievementTracker-BDS)     | —                                                                                  |
-| [MathTutor](#math-tutor)                    | ⚙️ C++           | 🎓 CSC150 Programming Fundamentals | 🔗 [Repo](https://github.com/bstearns07/MathTutor)                  | —                                                                                 |
+| [MathTutor](#mathtutor)                     | ⚙️ C++           | 🎓 CSC150 Programming Fundamentals | 🔗 [Repo](https://github.com/bstearns07/MathTutor)                  | —                                                                                 |
 | [CALC2000](#calc2000)                       | 🖥️ COBOL/JCL     | 🎓 CIS352 Enterprise Computing     | 🔗 [Repo](https://github.com/bstearns07/CALC2000)                   | —                                                                                 |
 | [RPT2000](#rpt2000)                         | 🖥️ COBOL/JCL     | 🎓 CIS352 Enterprise Computing     | 🔗 [Repo](https://github.com/bstearns07/RPT2000)                    | —                                                                                 |
 | [RPT3000](#rpt3000)                         | 🖥️ COBOL/JCL     | 🎓 CIS352 Enterprise Computing     | 🔗 [Repo](https://github.com/bstearns07/RPT3000)                    | —                                                                                 |
@@ -57,14 +57,14 @@ Want more details about my work and background?
 
 # AchievementTracker
 
-`Short Summary:` Acts as a library to keep track of all your game's trophys as you play.
+`Short Summary:` Acts as a library to keep track of all your game's trophys as you play.  
 `Technologies Used:`
 - C#
 - .NET (Windows Forms)
   
-`Key Learning Concepts:` Windows Forms UI development, file handling for persistent data storage, object-oriented programming
+`Key Learning Concepts:` Windows Forms UI development, file handling for persistent data storage, object-oriented programming  
 `Project Status:` ✅ Complete  
-`Course / Self-Project:` INFO 1420 Introduction to Programming in C#
+`Course / Self-Project:` INFO 1420 Introduction to Programming in C#  
 `Thumbnail Screenshot:`
 
 ![Output](thumbnails/achievement_tracker.png)
@@ -360,12 +360,13 @@ Want more details about my work and background?
 # YugiohCardLibrary
 
 `Short Summary:` Acts as a library for digitally storing your Yugioh card collection. Feature Tesseract OCR to scan your cards in.
+
 `Technologies Used:`
 - Python Flask Framework
 - HTML5 + CSS
 - Supabase Postgress (PostgreSQL) + Tesseract OCR engine
   
-`Key Learning Concepts:` Flask web app development, Tesseract OCR data extraction, Supabase open-source database management, RESTful routing, Session-based caching
+`Key Learning Concepts:` Flask web app development, Tesseract OCR data extraction, Supabase open-source database management, RESTful routing, Session-based caching  
 `Course / Self-Project:` CSC 365 Advanced Web Development  
 `Thumbnail Screenshot:`
 
