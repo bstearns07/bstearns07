@@ -239,7 +239,7 @@ Want more details about my work and background?
 `Course / Self-Project:` INFO 1725 HTML/CSS/JavaScript 
 `Thumbnail Screenshot:`
 
-![Young Votta Beta](thumbnails/youngvottab.png)
+![Young Votta Beta](thumbnails/youngvottabeta.png)
 
 ```Repository Link:``` [🔗 View Young Votta Beta Repository](https://github.com/bstearns07/YoungVotta.com-Beta)
 
