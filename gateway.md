@@ -84,7 +84,7 @@ Want more details about my work and background?
 `Course / Self-Project:` CSC150 Programming Fundamentals
 `Thumbnail Screenshot:`
 
-![Output](thumbnails/math_tutor.png)
+![Output](thumbnails/math.png)
 
 ```Repository Link:``` [🔗 View MathTutor Repository](https://github.com/bstearns07/CALC2000)
 
