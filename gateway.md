@@ -1,11 +1,15 @@
-# 🚪 Gateway.md
+# 🚪 My Project Gateway
 
-### 🧭 Your starting point for exploring my projects
+<p align="center">
+  <img src="thumbnails/profile_image.jpg" />
+</p>
 
 ---
 
 ## 👋 Introduction
-Welcome to my **Project Gateway** — a centralized hub for exploring everything on my GitHub.
+### 🧭 Your starting point for exploring my projects
+
+Hi, my name is Ben Stearns and welcome to my **Project Gateway** — a centralized hub for exploring everything on my GitHub.
 
 If you're not sure where to start in my GitHub, this guide organizes my projects by **technology** so you can quickly find what interests you.
 
