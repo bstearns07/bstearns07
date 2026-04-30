@@ -103,7 +103,7 @@ Want more details about my work and background?
 - C++
 - Various Code Libraries: iostream, cstdlib, ctime, iomanip, stdexcept, windows.h
   
-`Key Learning Concepts:` Interactive console game development, persistent data storage, vectors, function prototypes, header files
+`Key Learning Concepts:` Interactive console game development, persistent data storage, vectors, function prototypes, header files  
 `Project Status:` ✅ Complete  
 `Course / Self-Project:` CSC150 Programming Fundamentals  
 `Thumbnail Screenshot:`
