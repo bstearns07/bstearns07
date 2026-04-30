@@ -61,7 +61,7 @@ Want more details about my work and background?
 
 # AchievementTracker
 
-`Short Summary:` Acts as a library to keep track of all your game's trophys as you play.  
+`Short Summary:` Acts as a library to keep track of all your game's trophys as you play  
 `Technologies Used:`
 - C#
 - .NET (Windows Forms)
@@ -79,7 +79,7 @@ Want more details about my work and background?
 
 # TuitionCalculator
 
-`Short Summary:` An interactive browser-based application designed to help users estimate the cost of going to college.
+`Short Summary:` An interactive browser-based application designed to help users estimate the cost of going to college  
 `Technologies Used:`
 - C#
 - ASP.NET MVC Framework
@@ -98,7 +98,7 @@ Want more details about my work and background?
 
 # MathTutor
 
-`Short Summary:` Creates a console-based math game that generates random math questions to answer and keeps track of your progress.
+`Short Summary:` Creates a console-based math game that generates random math questions to answer and keeps track of your progress  
 `Technologies Used:`
 - C++
 - Various Code Libraries: <iostream>, <cstdlib> / <ctime>, <iomanip>, <stdexcept>, <windows.h>
@@ -154,7 +154,7 @@ Want more details about my work and background?
 
 # RPT3000
 
-`Short Summary:` This program generates a sales report of customer vendors by reading data from another data member with non-repeating vendor and sales rep numbers
+`Short Summary:` This program generates a sales report of customer vendors by reading data from another data member with non-repeating vendor and sales rep numbers  
 `Technologies Used:`
 - COBOL 6.4
 - JCL (compile/link/go)
@@ -179,7 +179,7 @@ Want more details about my work and background?
 - JCL (compile/link/go)
 - z/OS • VS Code + Zowe
   
-`Key Learning Concepts:` Conditional switches, WITH TEST AFTER, EVALUTE TRUE, SET statements
+`Key Learning Concepts:` Conditional switches, WITH TEST AFTER, EVALUTE TRUE, SET statements  
 `Project Status:` ✅ Complete  
 `Course / Self-Project:` CIS352 Intro to Enterprise Computing  
 `Thumbnail Screenshot:`
@@ -211,7 +211,7 @@ Want more details about my work and background?
 
 # SEQ3000
 
-`Short Summary:` Performs create/read/update/delete operations on a master data file based on information from both a sequential and index file.
+`Short Summary:` Performs create/read/update/delete operations on a master data file based on information from both a sequential and index file  
 `Technologies Used:`
 - COBOL 6.4
 - JCL (compile/link/go)
@@ -255,9 +255,9 @@ Want more details about my work and background?
 - CSS3 (Layout & Styling)
 - JavaScript
   
-`Key Learning Concepts:` HTML and CSS syntax, minor javascript for menus, responsive web design
+`Key Learning Concepts:` HTML and CSS syntax, minor javascript for menus, responsive web design  
 `Project Status:` ✅ Complete  
-`Course / Self-Project:` INFO 1725 HTML/CSS/JavaScript 
+`Course / Self-Project:` INFO 1725 HTML/CSS/JavaScript  
 `Thumbnail Screenshot:`
 
 ![Young Votta Beta](thumbnails/youngvottabeta.png)
@@ -274,7 +274,7 @@ Want more details about my work and background?
 - JavaFX + Scene Builder for UI design
 - Open Meto REST API
   
-`Key Learning Concepts:` JavaFX interface design, REST API integration, JSON parsing
+`Key Learning Concepts:` JavaFX interface design, REST API integration, JSON parsing  
 `Project Status:` ✅ Complete  
 `Course / Self-Project:` INFO 2550 Programming in Java  
 `Thumbnail Screenshot:`
@@ -306,7 +306,7 @@ Want more details about my work and background?
 
 # DictionaryAPI
 
-`Short Summary:` Looks up the dictionary information of a word input by the user
+`Short Summary:` Looks up the dictionary information of a word input by the user  
 `Technologies Used:`
 - HTML5 (Semantic Markup) + Tailwind (Layout & Styling)
 - Vanilla JavaScript (ES6+)
@@ -331,7 +331,7 @@ Want more details about my work and background?
 - HTML5 (Semantic Markup) + Tailwind (Layout & Styling)
 - Vanilla JavaScript (ES6+)
   
-`Key Learning Concepts:` Arrays, Switch statements, custom functions, DOM manipulation
+`Key Learning Concepts:` Arrays, Switch statements, custom functions, DOM manipulation  
 `Project Status:` ✅ Complete  
 `Course / Self-Project:` CSC 465 Advanced Web Development  
 `Thumbnail Screenshot:`
@@ -344,7 +344,7 @@ Want more details about my work and background?
 
 # HotColdGame
 
-`Short Summary:` A number-guessing game that tells you if you're hot or cold
+`Short Summary:` A number-guessing game that tells you if you're hot or cold  
 `Technologies Used:`
 - HTML5 (Semantic Markup)
 - Tailwind (Layout & Styling)
@@ -363,7 +363,7 @@ Want more details about my work and background?
 
 # MovieTracker
 
-`Short Summary:` Maintains a personal list of movies in web storage so your list isn't lost if the browser closes.  
+`Short Summary:` Maintains a personal list of movies in web storage so your list isn't lost if the browser closes  
 `Technologies Used:`
 - HTML5 (Semantic Markup)
 - CSS3 (Layout & Styling)
@@ -382,7 +382,7 @@ Want more details about my work and background?
 
 # RetirementProjector
 
-`Short Summary:` Displays the growth of your retirement investment using a timer 
+`Short Summary:` Displays the growth of your retirement investment using a timer  
 `Technologies Used:`
 - HTML5 (Semantic Markup)
 - CSS3 (Layout & Styling)
@@ -401,7 +401,7 @@ Want more details about my work and background?
 
 # SmartwatchFAQ
 
-`Short Summary:` Displays the answers to frequently-asked questions about smartwatches using image swapping and toggling hidden elements on/off.
+`Short Summary:` Displays the answers to frequently-asked questions about smartwatches using image swapping and toggling hidden elements on/off  
 `Technologies Used:`
 - HTML5 (Semantic Markup)
 - Tailwind (Layout & Styling)
@@ -420,8 +420,7 @@ Want more details about my work and background?
 
 # YugiohCardLibrary
 
-`Short Summary:` Acts as a library for digitally storing your Yugioh card collection. Feature Tesseract OCR to scan your cards in.
-
+`Short Summary:` Acts as a library for digitally storing your Yugioh card collection. Feature Tesseract OCR to scan your cards in  
 `Technologies Used:`
 - Python Flask Framework
 - HTML5 + CSS
@@ -440,7 +439,7 @@ Want more details about my work and background?
 
 # ReactPortfolio
 
-`Short Summary:` This app serves as my personal portfio website where you can learn more about my projects, professional background, and contact information  
+`Short Summary:` This app serves as my personal portfio website where you can learn more about my projects, professional background, and contact information   
 `Technologies Used:`
 - HTML5 (Semantic Markup)
 - Tailwind (Layout & Styling)
