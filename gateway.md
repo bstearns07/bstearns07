@@ -14,7 +14,8 @@ If you're not sure where to start in my GitHub, this guide organizes my projects
 ## 🛠️ How to Use This Guide
 1. 🔎 Browse the project directory below  
 2. 📌 Click a project name to jump to its summary  
-3. 🚀 Use the repository link to view the full project repository on GitHub  
+3. 🚀 Use the repository link to view the full project repository on GitHub
+4. Use the Live Demo link if provided to open the app in your browser and give it a try!
 
 ---
 
@@ -33,22 +34,22 @@ Want more details about my work and background?
 
 
 # Table of Contents
-| Project Name                                | Primary Tech          | Category                             | Repository Link                                                      |
-|---------------------------------------------|-----------------------|--------------------------------------|----------------------------------------------------------------------|
-| [CALC2000](#calc2000)                       | COBOL/JCL             | CIS352 Intro to Enterprise Computing | [Go to Repository](https://github.com/bstearns07/CALC2000)           |
-| [RPT2000](#rpt2000)                         | COBOL/JCL             | CIS352 Intro to Enterprise Computing | [Go to Repository](https://github.com/bstearns07/RPT2000)            |
-| [RPT3000](#rpt3000)                         | COBOL/JCL             | CIS352 Intro to Enterprise Computing | [Go to Repository](https://github.com/bstearns07/RPT3000)            |
-| [RPT5000](#rpt5000)                         | COBOL/JCL             | CIS352 Intro to Enterprise Computing | [Go to Repository](https://github.com/bstearns07/RPT5000)            |
-| [RPT6000](#rpt6000)                         | COBOL/JCL             | CIS352 Intro to Enterprise Computing | [Go to Repository](https://github.com/bstearns07/RPT6000)            |
-| [SEQ3000](#seq3000)                         | COBOL/JCL             | CIS352 Intro to Enterprise Computing | [Go to Repository](https://github.com/bstearns07/SEQ3000)            |
-| [UTIL2000](#util2000)                       | COBOL/JCL             | CIS352 Intro to Enterprise Computing | [Go to Repository](https://github.com/bstearns07/UTIL2000)           |
-| [Checkout Receipt](#checkout-receipt)       | JavaScript            | CSC 465 Advanced Web Development     | [Go to Repository](https://github.com/bstearns07/Checkout-Receipt)   |
-| [DictionaryAPI](#dictionaryapi)             | JavaScript            | CSC 465 Advanced Web Development     | [Go to Repository](https://github.com/bstearns07/DictionaryAPI)      |
-| [Flashcards](#flashcards)                   | JavaScript            | CSC 465 Advanced Web Development     | [Go to Repository](https://github.com/bstearns07/Flashcards)         |
-| [HotColdGame](#hotcoldgame)                 | JavaScript            | CSC 465 Advanced Web Development     | [Go to Repository](https://github.com/bstearns07/HotColdGame)        |
-| [MovieTracker](#movietracker)               | JavaScript            | CSC 465 Advanced Web Development     | [Go to Repository](https://github.com/bstearns07/MovieTracker)       |
-| [RetirementProjector](#retirementprojector) | JavaScript            | CSC 465 Advanced Web Development     | [Go to Repository](https://github.com/bstearns07/RetirementProjector)|
-| [SmartwatchFAQ](#smartwatchfaq)             | JavaScript            | CSC 465 Advanced Web Development     | [Go to Repository](https://github.com/bstearns07/SmartwatchFAQ)      |
+| Project Name                                | Primary Tech          | Category                             | Repository Link                                                      | Live Demo Link
+|---------------------------------------------|-----------------------|--------------------------------------|----------------------------------------------------------------------|-------------------------------------------------------------------------------
+| [CALC2000](#calc2000)                       | COBOL/JCL             | CIS352 Intro to Enterprise Computing | [Go to Repository](https://github.com/bstearns07/CALC2000)           | -
+| [RPT2000](#rpt2000)                         | COBOL/JCL             | CIS352 Intro to Enterprise Computing | [Go to Repository](https://github.com/bstearns07/RPT2000)            | -
+| [RPT3000](#rpt3000)                         | COBOL/JCL             | CIS352 Intro to Enterprise Computing | [Go to Repository](https://github.com/bstearns07/RPT3000)            | -
+| [RPT5000](#rpt5000)                         | COBOL/JCL             | CIS352 Intro to Enterprise Computing | [Go to Repository](https://github.com/bstearns07/RPT5000)            | -
+| [RPT6000](#rpt6000)                         | COBOL/JCL             | CIS352 Intro to Enterprise Computing | [Go to Repository](https://github.com/bstearns07/RPT6000)            | -
+| [SEQ3000](#seq3000)                         | COBOL/JCL             | CIS352 Intro to Enterprise Computing | [Go to Repository](https://github.com/bstearns07/SEQ3000)            | -
+| [UTIL2000](#util2000)                       | COBOL/JCL             | CIS352 Intro to Enterprise Computing | [Go to Repository](https://github.com/bstearns07/UTIL2000)           | -
+| [Checkout Receipt](#checkout-receipt)       | JavaScript            | CSC 465 Advanced Web Development     | [Go to Repository](https://github.com/bstearns07/Checkout-Receipt)   | [Open Ceckout Receipt](https://bstearns07.github.io/Checkout-Receipt/)
+| [DictionaryAPI](#dictionaryapi)             | JavaScript            | CSC 465 Advanced Web Development     | [Go to Repository](https://github.com/bstearns07/DictionaryAPI)      | [Open DictionaryAPI](https://dictionaryapi-5dly.onrender.com)
+| [Flashcards](#flashcards)                   | JavaScript            | CSC 465 Advanced Web Development     | [Go to Repository](https://github.com/bstearns07/Flashcards)         | [Open Flashcards](https://bstearns07.github.io/Flashcards/)
+| [HotColdGame](#hotcoldgame)                 | JavaScript            | CSC 465 Advanced Web Development     | [Go to Repository](https://github.com/bstearns07/HotColdGame)        | [Open HotColdGame](https://bstearns07.github.io/HotColdGame/)
+| [MovieTracker](#movietracker)               | JavaScript            | CSC 465 Advanced Web Development     | [Go to Repository](https://github.com/bstearns07/MovieTracker)       | [Open Movie Tracker](https://bstearns07.github.io/MovieTracker/)
+| [RetirementProjector](#retirementprojector) | JavaScript            | CSC 465 Advanced Web Development     | [Go to Repository](https://github.com/bstearns07/RetirementProjector)| [Open Retirement Projector](https://bstearns07.github.io/RetirementProjector/)
+| [SmartwatchFAQ](#smartwatchfaq)             | JavaScript            | CSC 465 Advanced Web Development     | [Go to Repository](https://github.com/bstearns07/SmartwatchFAQ)      | [Open Smartwatch FAQ](https://bstearns07.github.io/SmartwatchFAQ/)
 
 # CALC2000
 
