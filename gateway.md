@@ -15,7 +15,7 @@ If you're not sure where to start in my GitHub, this guide organizes my projects
 1. 🔎 Browse the project directory below  
 2. 📌 Click a project name to jump to its summary  
 3. 🚀 Use the repository link to view the full project repository on GitHub
-4. Use the Live Demo link if provided to open the app in your browser and give it a try!
+4. 🔗 Use the Live Demo link if provided to open the app in your browser and give it a try!
 
 ---
 
@@ -85,7 +85,7 @@ Want more details about my work and background?
 - ASP.NET MVC Framework
 - Sql Server Relational Database + Entity Framework Data Access API
   
-`Key Learning Concepts:` ASP.NET model-view-controller framework, Sql Server integration, Entity Framework for database access,  CRUD database functions  
+`Key Learning Concepts:` ASP.NET model-view-controller framework, Sql Server database integration, Entity Framework for database access,  CRUD database functions  
 `Project Status:` ✅ Complete  
 `Course / Self-Project:` Self-Project  
 `Thumbnail Screenshot:`
@@ -105,7 +105,7 @@ Want more details about my work and background?
   
 `Key Learning Concepts:` Interactive console game development, persistent data storage, vectors, function prototypes, header files
 `Project Status:` ✅ Complete  
-`Course / Self-Project:` CSC150 Programming Fundamentals
+`Course / Self-Project:` CSC150 Programming Fundamentals  
 `Thumbnail Screenshot:`
 
 ![Math Tutor](thumbnails/math.png)
@@ -122,7 +122,7 @@ Want more details about my work and background?
 - JCL (compile/link/go)
 - z/OS • VS Code + Zowe
   
-`Key Learning Concepts:` Variables, arithmetic, loops, formatted output, MOVE/COMPUTE/UNTIL/PIC  
+`Key Learning Concepts:` Variables, arithmetic, loops, formatted output, MOVE/COMPUTE/UNTIL/PIC statements  
 `Project Status:` ✅ Complete  
 `Course / Self-Project:` CIS352 Intro to Enterprise Computing  
 `Thumbnail Screenshot:`
