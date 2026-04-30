@@ -5,11 +5,22 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Software%20Development-blue?style=flat-square&logo=visualstudio" alt="Focus: Software Development" style="border:2px solid white; border-radius:6px;" />
-  <img src="https://img.shields.io/badge/Student-Wayne%20State%20University-green?style=flat-square" alt="Student: Wayne State University" style="border:2px solid white; border-radius:6px;" />
-  <img src="https://img.shields.io/badge/Email-bstearns07%40gmail.com-red?style=flat-square&logo=gmail" alt="Email: bstearns07@gmail.com" style="border:2px solid white; border-radius:6px;" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-blue?style=flat-square&logo=dotnet" />
+
+  <img src="https://img.shields.io/badge/Tech-.NET%20%7C%20JavaScript%20%7C%20SQL-purple?style=flat-square&logo=visualstudio" />
+
+  <img src="https://img.shields.io/badge/Student-Wayne%20State%20College-green?style=flat-square&logo=academia" />
+
+  <a href="mailto:bstearns07@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail" />
+  </a>
+
+  <a href="https://www.bstearns.com">
+    <img src="https://img.shields.io/badge/Website-Portfolio-black?style=flat-square&logo=google-chrome" />
+  </a>
+
   <a href="https://www.linkedin.com/in/ben-stearns-474261283/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin" alt="LinkIn Link" style="border:2px solid white; border-radius:6px;" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" />
   </a>
 </p>
 
