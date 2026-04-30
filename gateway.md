@@ -101,7 +101,7 @@ Want more details about my work and background?
 `Short Summary:` Creates a console-based math game that generates random math questions to answer and keeps track of your progress  
 `Technologies Used:`
 - C++
-- Various Code Libraries: <iostream>, <cstdlib> / <ctime>, <iomanip>, <stdexcept>, <windows.h>
+- Various Code Libraries: iostream, cstdlib, ctime, iomanip, stdexcept, windows.h
   
 `Key Learning Concepts:` Interactive console game development, persistent data storage, vectors, function prototypes, header files
 `Project Status:` ✅ Complete  
