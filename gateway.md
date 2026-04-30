@@ -379,15 +379,14 @@ Want more details about my work and background?
 
 # ReactPortfolio
 
-`Short Summary:` This app serves as my personal portfio website where you can learn more about my projects, professional background, and contact information
-
+`Short Summary:` This app serves as my personal portfio website where you can learn more about my projects, professional background, and contact information  
 `Technologies Used:`
 - HTML5 (Semantic Markup)
 - Tailwind (Layout & Styling)
 - Vanilla JavaScript (ES6+) + React Framework
   
-`Key Learning Concepts:` React application structure, Tailwind CSS, AWS web hosting
-`Course / Self-Project:`Self-Project
+`Key Learning Concepts:` React application structure, Tailwind CSS, AWS web hosting 
+`Course / Self-Project:`Self-Project  
 `Thumbnail Screenshot:`
 
 ![Output](thumbnails/portfolio.png)
