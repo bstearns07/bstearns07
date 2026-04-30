@@ -46,6 +46,7 @@ Want more details about my work and background?
 | [RPT6000](#rpt6000)                         | 🖥️ COBOL/JCL        | 🎓 CIS352 Enterprise Computing     | 🔗 [Repo](https://github.com/bstearns07/RPT6000)                    | —                                                                                 |
 | [SEQ3000](#seq3000)                         | 🖥️ COBOL/JCL        | 🎓 CIS352 Enterprise Computing     | 🔗 [Repo](https://github.com/bstearns07/SEQ3000)                    | —                                                                                 |
 | [UTIL2000](#util2000)                       | 🖥️ COBOL/JCL        | 🎓 CIS352 Enterprise Computing     | 🔗 [Repo](https://github.com/bstearns07/UTIL2000)                   | —                                                                                 |
+| [YoungVotta-Beta](#youngvottabeta)          | 🎨 HTML/CSS         | 🎓 INFO 1725 HTML/CSS/JavaScript   | 🔗 [Repo](https://github.com/bstearns07/YoungVotta.com-Beta)        |  —                                                                                |
 | [CheckoutReceipt](#checkoutreceipt)         | ⚡ JavaScript       | 🌐 CSC 465 Advanced Web Dev        | 🔗 [Repo](https://github.com/bstearns07/Checkout-Receipt)           | ▶️ [Launch Checkout App](https://bstearns07.github.io/Checkout-Receipt/)         |
 | [DictionaryAPI](#dictionaryapi)             | ⚡ JavaScript       | 🌐 CSC 465 Advanced Web Dev        | 🔗 [Repo](https://github.com/bstearns07/DictionaryAPI)              | ▶️ [Launch Dictionary App](https://dictionaryapi-5dly.onrender.com)              |
 | [Flashcards](#flashcards)                   | ⚡ JavaScript       | 🌐 CSC 465 Advanced Web Dev        | 🔗 [Repo](https://github.com/bstearns07/Flashcards)                 | ▶️ [Launch Flashcards App](https://bstearns07.github.io/Flashcards/)             |
@@ -222,6 +223,25 @@ Want more details about my work and background?
 ![UTIL 2000](thumbnails/util2000.png)
 
 ```Repository Link:``` [🔗 View UTIL2000 Repository](https://github.com/bstearns07/UTIL2000)
+
+[⏫ Back to TOC](#-project-directory)
+
+# YoungVottaBeta
+
+`Short Summary:` Acts as my first version on the YoungVotta.com website built entirely with HTML/CSS/JavaScript only  
+`Technologies Used:`
+- HTML5 (Semantic Markup)
+- CSS3 (Layout & Styling)
+- JavaScript
+  
+`Key Learning Concepts:` HTML and CSS syntax, minor javascript for menus, responsive web design
+`Project Status:` ✅ Complete  
+`Course / Self-Project:` INFO 1725 HTML/CSS/JavaScript 
+`Thumbnail Screenshot:`
+
+![Young Votta Beta](thumbnails/youngvottab.png)
+
+```Repository Link:``` [🔗 View Young Votta Beta Repository](https://github.com/bstearns07/YoungVotta.com-Beta)
 
 [⏫ Back to TOC](#-project-directory)
 
