@@ -46,15 +46,15 @@ Want more details about my work and background?
 | [RPT6000](#rpt6000)                         | 🖥️ COBOL/JCL        | 🎓 CIS352 Enterprise Computing     | 🔗 [Repo](https://github.com/bstearns07/RPT6000)                    | —                                                                                 |
 | [SEQ3000](#seq3000)                         | 🖥️ COBOL/JCL        | 🎓 CIS352 Enterprise Computing     | 🔗 [Repo](https://github.com/bstearns07/SEQ3000)                    | —                                                                                 |
 | [UTIL2000](#util2000)                       | 🖥️ COBOL/JCL        | 🎓 CIS352 Enterprise Computing     | 🔗 [Repo](https://github.com/bstearns07/UTIL2000)                   | —                                                                                 |
-| [Checkout Receipt](#checkout-receipt)       | ⚡ JavaScript       | 🌐 CSC 465 Advanced Web Dev        | 🔗 [Repo](https://github.com/bstearns07/Checkout-Receipt)           | ▶️ [Open Checkout Receipt](https://bstearns07.github.io/Checkout-Receipt/)        |
-| [DictionaryAPI](#dictionaryapi)             | ⚡ JavaScript       | 🌐 CSC 465 Advanced Web Dev        | 🔗 [Repo](https://github.com/bstearns07/DictionaryAPI)              | ▶️ [Open Dictionary API](https://dictionaryapi-5dly.onrender.com)                 |
-| [Flashcards](#flashcards)                   | ⚡ JavaScript       | 🌐 CSC 465 Advanced Web Dev        | 🔗 [Repo](https://github.com/bstearns07/Flashcards)                 | ▶️ [Open Flashcards](https://bstearns07.github.io/Flashcards/)                    |
-| [HotColdGame](#hotcoldgame)                 | ⚡ JavaScript       | 🌐 CSC 465 Advanced Web Dev        | 🔗 [Repo](https://github.com/bstearns07/HotColdGame)                | ▶️ [Open HotCold Game](https://bstearns07.github.io/HotColdGame/)                 |
-| [MovieTracker](#movietracker)               | ⚡ JavaScript       | 🌐 CSC 465 Advanced Web Dev        | 🔗 [Repo](https://github.com/bstearns07/MovieTracker)               | ▶️ [Open Movie Tracker](https://bstearns07.github.io/MovieTracker/)               |
-| [RetirementProjector](#retirementprojector) | ⚡ JavaScript       | 🌐 CSC 465 Advanced Web Dev        | 🔗 [Repo](https://github.com/bstearns07/RetirementProjector)        | ▶️ [Open Retirement Projector](https://bstearns07.github.io/RetirementProjector/) |
-| [SmartwatchFAQ](#smartwatchfaq)             | ⚡ JavaScript       | 🌐 CSC 465 Advanced Web Dev        | 🔗 [Repo](https://github.com/bstearns07/SmartwatchFAQ)              | ▶️ [Open Smartwatch FAQ](https://bstearns07.github.io/SmartwatchFAQ/)             |
-| [YugiohCardLibraryOCR](#yugiohcardlibrary)  | 🐍 Python           | 📜 CSC 365 Scripting Languages     | 🔗 [Repo](https://github.com/bstearns07/YugiohCardLibrary_With_OCR) | -                                                                                  |
-| [ReactPortfolio](#reactportfolio)           | ⚛️ React            | 👤 Self-Project                    | 🔗 [Repo](https://github.com/bstearns07/react-portfolio)            | ▶️ [Open My Portfolio Website](https://www.bstearns.com)                          |                                                                                 |
+| [CheckoutReceipt](#checkoutreceipt)         | ⚡ JavaScript       | 🌐 CSC 465 Advanced Web Dev        | 🔗 [Repo](https://github.com/bstearns07/Checkout-Receipt)           | ▶️ [Launch Checkout App](https://bstearns07.github.io/Checkout-Receipt/)         |
+| [DictionaryAPI](#dictionaryapi)             | ⚡ JavaScript       | 🌐 CSC 465 Advanced Web Dev        | 🔗 [Repo](https://github.com/bstearns07/DictionaryAPI)              | ▶️ [Launch Dictionary App](https://dictionaryapi-5dly.onrender.com)              |
+| [Flashcards](#flashcards)                   | ⚡ JavaScript       | 🌐 CSC 465 Advanced Web Dev        | 🔗 [Repo](https://github.com/bstearns07/Flashcards)                 | ▶️ [Launch Flashcards App](https://bstearns07.github.io/Flashcards/)             |
+| [HotColdGame](#hotcoldgame)                 | ⚡ JavaScript       | 🌐 CSC 465 Advanced Web Dev        | 🔗 [Repo](https://github.com/bstearns07/HotColdGame)                | ▶️ [Launch HotCold App](https://bstearns07.github.io/HotColdGame/)               |
+| [MovieTracker](#movietracker)               | ⚡ JavaScript       | 🌐 CSC 465 Advanced Web Dev        | 🔗 [Repo](https://github.com/bstearns07/MovieTracker)               | ▶️ [Launch Movie Tracker](https://bstearns07.github.io/MovieTracker/)            |
+| [RetirementProjector](#retirementprojector) | ⚡ JavaScript       | 🌐 CSC 465 Advanced Web Dev        | 🔗 [Repo](https://github.com/bstearns07/RetirementProjector)        | ▶️ [Launch Retirement App](https://bstearns07.github.io/RetirementProjector/)    |
+| [SmartwatchFAQ](#smartwatchfaq)             | ⚡ JavaScript       | 🌐 CSC 465 Advanced Web Dev        | 🔗 [Repo](https://github.com/bstearns07/SmartwatchFAQ)              | ▶️ [Launch Smartwatch FAQ](https://bstearns07.github.io/SmartwatchFAQ/)          |
+| [YugiohCardLibraryOCR](#yugiohcardlibrary)  | 🐍 Python           | 📜 CSC 365 Scripting Languages     | 🔗 [Repo](https://github.com/bstearns07/YugiohCardLibrary_With_OCR) | -                                                                                 |
+| [ReactPortfolio](#reactportfolio)           | ⚛️ React            | 👤 Self-Project                    | 🔗 [Repo](https://github.com/bstearns07/react-portfolio)            | ▶️ [Launch My Portfolio Website](https://www.bstearns.com)                        |                                                                                 |
 
 # AchievementTracker
 
@@ -68,11 +68,11 @@ Want more details about my work and background?
 `Course / Self-Project:` INFO 1420 Introduction to Programming in C#  
 `Thumbnail Screenshot:`
 
-![Output](thumbnails/achievement_tracker.png)
+![Achievement Tracker](thumbnails/achievement_tracker.png)
 
 ```Repository Link:``` [🔗 View AchievementTracker Repository](https://github.com/bstearns07/CALC2000)
 
-[⏫ Back to TOC](#table-of-contents)
+[⏫ Back to TOC](#-project-directory)
 
 # MathTutor
 
@@ -86,11 +86,11 @@ Want more details about my work and background?
 `Course / Self-Project:` CSC150 Programming Fundamentals
 `Thumbnail Screenshot:`
 
-![Output](thumbnails/math.png)
+![Math Tutor](thumbnails/math.png)
 
 ```Repository Link:``` [🔗 View MathTutor Repository](https://github.com/bstearns07/CALC2000)
 
-[⏫ Back to TOC](#table-of-contents)
+[⏫ Back to TOC](#-project-directory)
  
 # CALC2000
 
@@ -105,11 +105,11 @@ Want more details about my work and background?
 `Course / Self-Project:` CIS352 Intro to Enterprise Computing  
 `Thumbnail Screenshot:`
 
-![Output](thumbnails/calc2000.png)
+![Calc 2000](thumbnails/calc2000.png)
 
 ```Repository Link:``` [🔗 View CALC2000 Repository](https://github.com/bstearns07/CALC2000)
 
-[⏫ Back to TOC](#table-of-contents)
+[⏫ Back to TOC](#-project-directory)
 
 # RPT2000
 
@@ -124,11 +124,11 @@ Want more details about my work and background?
 `Course / Self-Project:` CIS352 Intro to Enterprise Computing  
 `Thumbnail Screenshot:`
 
-![Output](thumbnails/rpt2000.png)
+![RPT 2000](thumbnails/rpt2000.png)
 
 ```Repository Link:``` [🔗 View RPT2000 Repository](https://github.com/bstearns07/RPT2000)
 
-[⏫ Back to TOC](#table-of-contents)
+[⏫ Back to TOC](#-project-directory)
 
 # RPT3000
 
@@ -143,11 +143,11 @@ Want more details about my work and background?
 `Course / Self-Project:` CIS352 Intro to Enterprise Computing  
 `Thumbnail Screenshot:`
 
-![Output](thumbnails/rpt3000.png)
+![RPT 3000](thumbnails/rpt3000.png)
 
 ```Repository Link:``` [🔗 View RPT3000 Repository](https://github.com/bstearns07/RPT3000)
 
-[⏫ Back to TOC](#table-of-contents)
+[⏫ Back to TOC](#-project-directory)
 
 # RPT5000
 
@@ -162,11 +162,11 @@ Want more details about my work and background?
 `Course / Self-Project:` CIS352 Intro to Enterprise Computing  
 `Thumbnail Screenshot:`
 
-![Output](thumbnails/rpt5000.png)
+![RPT 5000](thumbnails/rpt5000.png)
 
 ```Repository Link:``` [🔗 View RPT5000 Repository](https://github.com/bstearns07/RPT5000)
 
-[⏫ Back to TOC](#table-of-contents)
+[⏫ Back to TOC](#-project-directory)
 
 # RPT6000
 
@@ -181,11 +181,11 @@ Want more details about my work and background?
 `Course / Self-Project:` CIS352 Intro to Enterprise Computing  
 `Thumbnail Screenshot:`
 
-![Output](thumbnails/rpt6000.png)
+![RPT 6000](thumbnails/rpt6000.png)
 
 ```Repository Link:``` [🔗 View RPT6000 Repository](https://github.com/bstearns07/RPT6000)
 
-[⏫ Back to TOC](#table-of-contents)
+[⏫ Back to TOC](#-project-directory)
 
 # SEQ3000
 
@@ -200,11 +200,11 @@ Want more details about my work and background?
 `Course / Self-Project:` CIS352 Intro to Enterprise Computing  
 `Thumbnail Screenshot:`
 
-![Output](thumbnails/seq3000.png)
+![SEQ 3000](thumbnails/seq3000.png)
 
 ```Repository Link:``` [🔗 View SEQ3000 Repository](https://github.com/bstearns07/SEQ3000)
 
-[⏫ Back to TOC](#table-of-contents)
+[⏫ Back to TOC](#-project-directory)
 
 # UTIL2000
 
@@ -219,13 +219,13 @@ Want more details about my work and background?
 `Course / Self-Project:` CIS352 Intro to Enterprise Computing  
 `Thumbnail Screenshot:`
 
-![Output](thumbnails/util2000.png)
+![UTIL 2000](thumbnails/util2000.png)
 
 ```Repository Link:``` [🔗 View UTIL2000 Repository](https://github.com/bstearns07/UTIL2000)
 
-[⏫ Back to TOC](#table-of-contents)
+[⏫ Back to TOC](#-project-directory)
 
-# Checkout Receipt
+# CheckoutReceipt
 
 `Short Summary:` Calculates the total of a grocery item based on price/quanity and other information from an html form  
 `Technologies Used:`
@@ -238,11 +238,11 @@ Want more details about my work and background?
 `Course / Self-Project:` CSC 465 Advanced Web Development  
 `Thumbnail Screenshot:`
 
-![Output](thumbnails/simple_checkout.png)
+![Checkout Receipt](thumbnails/simple_checkout.png)
 
 ```Repository Link:``` [🔗 View Checkout Receipt Repository](https://github.com/bstearns07/Checkout-Receipt)
 
-[⏫ Back to TOC](#table-of-contents)
+[⏫ Back to TOC](#-project-directory)
 
 # DictionaryAPI
 
@@ -258,11 +258,11 @@ Want more details about my work and background?
 `Course / Self-Project:` CSC 465 Advanced Web Development  
 `Thumbnail Screenshot:`
 
-![Output](thumbnails/dictionary_api.png)
+![Dictionary API](thumbnails/dictionary_api.png)
 
 ```Repository Link:``` [🔗 View DictionaryAPI Repository](https://github.com/bstearns07/DictionaryAPI)
 
-[⏫ Back to TOC](#table-of-contents)
+[⏫ Back to TOC](#-project-directory)
 
 # Flashcards
 
@@ -276,11 +276,11 @@ Want more details about my work and background?
 `Course / Self-Project:` CSC 465 Advanced Web Development  
 `Thumbnail Screenshot:`
 
-![Output](thumbnails/flashcards.png)
+![flashcards](thumbnails/flashcards.png)
 
 ```Repository Link:``` [🔗 View Flashcards Repository](https://github.com/bstearns07/Flashcards)
 
-[⏫ Back to TOC](#table-of-contents)
+[⏫ Back to TOC](#-project-directory)
 
 # HotColdGame
 
@@ -295,11 +295,11 @@ Want more details about my work and background?
 `Course / Self-Project:` CSC 465 Advanced Web Development  
 `Thumbnail Screenshot:`
 
-![Output](thumbnails/hot_cold_game.png)
+![Hot Cold Game](thumbnails/hot_cold_game.png)
 
 ```Repository Link:``` [🔗 View HotColdGame Repository](https://github.com/bstearns07/HotColdGame)
 
-[⏫ Back to TOC](#table-of-contents)
+[⏫ Back to TOC](#-project-directory)
 
 # MovieTracker
 
@@ -314,11 +314,11 @@ Want more details about my work and background?
 `Course / Self-Project:` CSC 465 Advanced Web Development  
 `Thumbnail Screenshot:`
 
-![Output](thumbnails/movie_tracker.png)
+![Movie Tracker](thumbnails/movie_tracker.png)
 
 ```Repository Link:``` [🔗 View MovieTracker Repository](https://github.com/bstearns07/MovieTracker)
 
-[⏫ Back to TOC](#table-of-contents)
+[⏫ Back to TOC](#-project-directory)
 
 # RetirementProjector
 
@@ -333,11 +333,11 @@ Want more details about my work and background?
 `Course / Self-Project:` CSC 465 Advanced Web Development  
 `Thumbnail Screenshot:`
 
-![Output](thumbnails/retirement_projector.png)
+![Retirement Projector](thumbnails/retirement_projector.png)
 
 ```Repository Link:``` [🔗 View RetirementProjector Repository](https://github.com/bstearns07/RetirementProjector)
 
-[⏫ Back to TOC](#table-of-contents)
+[⏫ Back to TOC](#-project-directory)
 
 # SmartwatchFAQ
 
@@ -352,11 +352,11 @@ Want more details about my work and background?
 `Course / Self-Project:` CSC 465 Advanced Web Development  
 `Thumbnail Screenshot:`
 
-![Output](thumbnails/smartwatch_faq.png)
+![Smartwatch FAQ](thumbnails/smartwatch_faq.png)
 
 ```Repository Link:``` [🔗 View RetirementProjector Repository](https://github.com/bstearns07/SmartwatchFAQ)
 
-[⏫ Back to TOC](#table-of-contents)
+[⏫ Back to TOC](#-project-directory)
 
 # YugiohCardLibrary
 
@@ -368,14 +368,15 @@ Want more details about my work and background?
 - Supabase Postgress (PostgreSQL) + Tesseract OCR engine
   
 `Key Learning Concepts:` Flask web app development, Tesseract OCR data extraction, Supabase open-source database management, RESTful routing, Session-based caching  
+`Project Status:` ✅ Complete  
 `Course / Self-Project:` CSC 365 Advanced Web Development  
 `Thumbnail Screenshot:`
 
-![Output](thumbnails/yugioh.png)
+![Yugioh Card Library](thumbnails/yugioh.png)
 
 ```Repository Link:``` [🔗 View YugiohCardLibrary Repository](https://github.com/bstearns07/YugiohCardLibrary_With_OCR)
 
-[⏫ Back to TOC](#table-of-contents)
+[⏫ Back to TOC](#-project-directory)
 
 # ReactPortfolio
 
@@ -385,12 +386,13 @@ Want more details about my work and background?
 - Tailwind (Layout & Styling)
 - Vanilla JavaScript (ES6+) + React Framework
   
-`Key Learning Concepts:` React application structure, Tailwind CSS, AWS web hosting 
-`Course / Self-Project:`Self-Project  
+`Key Learning Concepts:` React application structure, Tailwind CSS, AWS web hosting  
+`Project Status:` ✅ Complete  
+`Course / Self-Project:` Self-Project  
 `Thumbnail Screenshot:`
 
-![Output](thumbnails/portfolio.png)
+![portfolio](thumbnails/portfolio.png)
 
 ```Repository Link:``` [🔗 View My React Portfolio Repository](https://github.com/bstearns07/react-portfolio)
 
-[⏫ Back to TOC](#table-of-contents)
+[⏫ Back to TOC](#-project-directory)
