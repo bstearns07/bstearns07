@@ -56,8 +56,8 @@ Want more details about my work and background?
 | [MovieTracker](#movietracker)               | ⚡ JavaScript       | 🌐 CSC 465 Advanced Web Dev        | 🔗 [Repo](https://github.com/bstearns07/MovieTracker)               | ▶️ [Launch Movie Tracker](https://bstearns07.github.io/MovieTracker/)            |
 | [RetirementProjector](#retirementprojector) | ⚡ JavaScript       | 🌐 CSC 465 Advanced Web Dev        | 🔗 [Repo](https://github.com/bstearns07/RetirementProjector)        | ▶️ [Launch Retirement App](https://bstearns07.github.io/RetirementProjector/)    |
 | [SmartwatchFAQ](#smartwatchfaq)             | ⚡ JavaScript       | 🌐 CSC 465 Advanced Web Dev        | 🔗 [Repo](https://github.com/bstearns07/SmartwatchFAQ)              | ▶️ [Launch Smartwatch FAQ](https://bstearns07.github.io/SmartwatchFAQ/)          |
-| [YugiohCardLibraryOCR](#yugiohcardlibrary)  | 🐍 Python           | 📜 CSC 365 Scripting Languages     | 🔗 [Repo](https://github.com/bstearns07/YugiohCardLibrary_With_OCR) | -                                                                                 |
-| [ReactPortfolio](#reactportfolio)           | ⚛️ React            | 👤 Self-Project                    | 🔗 [Repo](https://github.com/bstearns07/react-portfolio)            | ▶️ [Launch My Portfolio Site](https://www.bstearns.com)                        |                                                                                 |
+| [YugiohCardLibraryOCR](#yugiohcardlibrary)  | 🐍 Python           | 📜 CSC 365 Scripting Languages     | 🔗 [Repo](https://github.com/bstearns07/YugiohCardLibrary_With_OCR) | —                                                                                 |
+| [ReactPortfolio](#reactportfolio)           | ⚛️ React            | 👤 Self-Project                    | 🔗 [Repo](https://github.com/bstearns07/react-portfolio)            | ▶️ [Launch My Portfolio Site](https://www.bstearns.com)                          |                                                                                 |
 
 # AchievementTracker
 
