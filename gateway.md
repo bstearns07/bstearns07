@@ -38,7 +38,7 @@ Want more details about my work and background?
 | 🚀 Project                                  | 💻 Primary Tech    | 🏷️ Category                        | 📂 Repository                                                       | 🌐 Live Demo                                                                      |
 |---------------------------------------------|---------------------|-------------------------------------|---------------------------------------------------------------------|------------------------------------------------------------------------------------|
 | [AchievementTracker](#achievementtracker)   | 💜 C#/.NET          | 🎓 INFO1420 Intro to C#            | 🔗 [Repo](https://github.com/bstearns07/AchievementTracker-BDS)     | —                                                                                 |
-| [TuitionCalculator](#achievementtracker)    | 💜 C#/ASP.NET       | 🎓 INFO2420 Advanced Web Design    | 🔗 [Repo](https://github.com/bstearns07/TuitionCalculator_WebApp)   | —                                                                                 |
+| [TuitionCalculator](#achievementtracker)    | 💜 C#/ASP.NET       | 👤 Self-Project                    | 🔗 [Repo](https://github.com/bstearns07/TuitionCalculator_WebApp)   | —                                                                                 |
 | [MathTutor](#mathtutor)                     | ⚙️ C++              | 🎓 CSC150 Programming Fundamentals | 🔗 [Repo](https://github.com/bstearns07/MathTutor)                  | —                                                                                 |
 | [CALC2000](#calc2000)                       | 🖥️ COBOL/JCL        | 🎓 CIS352 Enterprise Computing     | 🔗 [Repo](https://github.com/bstearns07/CALC2000)                   | —                                                                                 |
 | [RPT2000](#rpt2000)                         | 🖥️ COBOL/JCL        | 🎓 CIS352 Enterprise Computing     | 🔗 [Repo](https://github.com/bstearns07/RPT2000)                    | —                                                                                 |
@@ -47,7 +47,8 @@ Want more details about my work and background?
 | [RPT6000](#rpt6000)                         | 🖥️ COBOL/JCL        | 🎓 CIS352 Enterprise Computing     | 🔗 [Repo](https://github.com/bstearns07/RPT6000)                    | —                                                                                 |
 | [SEQ3000](#seq3000)                         | 🖥️ COBOL/JCL        | 🎓 CIS352 Enterprise Computing     | 🔗 [Repo](https://github.com/bstearns07/SEQ3000)                    | —                                                                                 |
 | [UTIL2000](#util2000)                       | 🖥️ COBOL/JCL        | 🎓 CIS352 Enterprise Computing     | 🔗 [Repo](https://github.com/bstearns07/UTIL2000)                   | —                                                                                 |
-| [YoungVotta-Beta](#youngvottabeta)          | 🎨 HTML/CSS         | 🎓 INFO 1725 HTML/CSS/JavaScript   | 🔗 [Repo](https://github.com/bstearns07/YoungVotta.com-Beta)        |  —                                                                                |
+| [YoungVotta-Beta](#youngvottabeta)          | 🎨 HTML/CSS         | 🎓 INFO 1725 HTML/CSS/JavaScript   | 🔗 [Repo](https://github.com/bstearns07/YoungVotta.com-Beta)        | —                                                                                 |
+| [WeatherAPI](#weatherapi)                   | ☕ Java             | 🎓 INFO 2550 Programming in Java   | 🔗 [Repo](https://github.com/bstearns07/WeatherAPIApp)              | —                                                                                 |
 | [CheckoutReceipt](#checkoutreceipt)         | ⚡ JavaScript       | 🌐 CSC 465 Advanced Web Dev        | 🔗 [Repo](https://github.com/bstearns07/Checkout-Receipt)           | ▶️ [Launch Checkout App](https://bstearns07.github.io/Checkout-Receipt/)         |
 | [DictionaryAPI](#dictionaryapi)             | ⚡ JavaScript       | 🌐 CSC 465 Advanced Web Dev        | 🔗 [Repo](https://github.com/bstearns07/DictionaryAPI)              | ▶️ [Launch Dictionary App](https://dictionaryapi-5dly.onrender.com)              |
 | [Flashcards](#flashcards)                   | ⚡ JavaScript       | 🌐 CSC 465 Advanced Web Dev        | 🔗 [Repo](https://github.com/bstearns07/Flashcards)                 | ▶️ [Launch Flashcards App](https://bstearns07.github.io/Flashcards/)             |
@@ -86,7 +87,7 @@ Want more details about my work and background?
   
 `Key Learning Concepts:` ASP.NET model-view-controller framework, Sql Server integration, Entity Framework for database access,  CRUD database functions  
 `Project Status:` ✅ Complete  
-`Course / Self-Project:` INFO 2420 Advanced Web Development  
+`Course / Self-Project:` Self-Project
 `Thumbnail Screenshot:`
 
 ![Achievement Tracker](thumbnails/tuition_calculator.png)
@@ -262,6 +263,25 @@ Want more details about my work and background?
 ![Young Votta Beta](thumbnails/youngvottabeta.png)
 
 ```Repository Link:``` [🔗 View Young Votta Beta Repository](https://github.com/bstearns07/YoungVotta.com-Beta)
+
+[⏫ Back to TOC](#-project-directory)
+
+# WeatherAPI
+
+`Short Summary:` A JavaFX application that uses the Open Meteo Weather API to look up the weather information based on geographic coordinates  
+`Technologies Used:`
+- Java
+- JavaFX + Scene Builder for UI design
+- Open Meto REST API
+  
+`Key Learning Concepts:` JavaFX interface design, REST API integration, JSON parsing
+`Project Status:` ✅ Complete  
+`Course / Self-Project:` INFO 2550 Programming in Java  
+`Thumbnail Screenshot:`
+
+![Weather API](thumbnails/weather_api.png)
+
+```Repository Link:``` [🔗 View WeatherAPI Repository](https://github.com/bstearns07/WeatherAPIApp))
 
 [⏫ Back to TOC](#-project-directory)
 
