@@ -87,7 +87,7 @@ Want more details about my work and background?
   
 `Key Learning Concepts:` ASP.NET model-view-controller framework, Sql Server integration, Entity Framework for database access,  CRUD database functions  
 `Project Status:` ✅ Complete  
-`Course / Self-Project:` Self-Project
+`Course / Self-Project:` Self-Project  
 `Thumbnail Screenshot:`
 
 ![Achievement Tracker](thumbnails/tuition_calculator.png)
