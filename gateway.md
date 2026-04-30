@@ -66,9 +66,9 @@ Want more details about my work and background?
 `Course / Self-Project:` INFO 1420 Introduction to Programming in C#
 `Thumbnail Screenshot:`
 
-![Output](thumbnails/calc2000.png)
+![Output](thumbnails/achievement_tracker.png)
 
-```Repository Link:``` [🔗 View CALC2000 Repository](https://github.com/bstearns07/CALC2000)
+```Repository Link:``` [🔗 View AchievementTracker Repository](https://github.com/bstearns07/CALC2000)
 
 [⏫ Back to TOC](#table-of-contents)
 
@@ -84,9 +84,9 @@ Want more details about my work and background?
 `Course / Self-Project:` CSC150 Programming Fundamentals
 `Thumbnail Screenshot:`
 
-![Output](thumbnails/calc2000.png)
+![Output](thumbnails/math_tutor.png)
 
-```Repository Link:``` [🔗 View CALC2000 Repository](https://github.com/bstearns07/CALC2000)
+```Repository Link:``` [🔗 View MathTutor Repository](https://github.com/bstearns07/CALC2000)
 
 [⏫ Back to TOC](#table-of-contents)
  
