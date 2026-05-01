@@ -54,9 +54,11 @@ I'm currently seeking opportunities to grow as a developer and contribute to mea
 
 - 🏦 Student at **Wayne State University – Wayne, NE**, pursuing a **Bachelor’s in Software Development**
 - 👨🏻‍💻 Always building, learning, and open to new opportunities
-- 🧠 Open to **collaboration projects** – let’s connect!
+- 🧠 Open to **collaboration projects** – let’s connect
 
-## 🛠 Tech Stack
+---
+
+## 🛠 Tech Experience
 
 **Languages**
 `C#` `C++` `Java` `Python` `JavaScript` `Typescript` `COBOL`
@@ -111,6 +113,8 @@ My **passion is programming**, and I’m working toward my goal of becoming a **
 - Typescript
 - Svelte Framework
 
+---
+
 ## 📊 My Stats
 
 <p align="center">
@@ -121,6 +125,8 @@ My **passion is programming**, and I’m working toward my goal of becoming a **
 ## 📈 Activity
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bstearns07)
+
+---
 
 ## 📁 Project Directory
 
