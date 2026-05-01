@@ -17,9 +17,10 @@ If you're not sure where to start in my GitHub, this guide organizes my projects
 
 ## 🛠️ How to Use This Guide
 1. 🔎 Browse the project directory below for something you'd like to learn more about
-2. 📌 Click a project name to jump to its summary  
-3. 🚀 Use the repository link to view the full project repository on GitHub
-4. 🔗 Use the Live Demo link if provided to open the app in your browser and give it a try!
+2. ⭐ Projects of particular note and larger in scale are marked with ⭐
+3. 📌 Click a project name to jump to its summary  
+4. 🚀 Use the repository link to view the full project repository on GitHub
+5. 🔗 Use the Live Demo link if provided to open the app in your browser and give it a try!
 
 ---
 
@@ -39,31 +40,30 @@ Want more details about my work and background?
 
 # 📚 Project Directory
 
-| 🚀 Project                                  | 💻 Primary Tech    | 🏷️ Category                        | 📂 Repository                                                       | 🌐 Live Demo                                                                      |
-|---------------------------------------------|---------------------|-------------------------------------|---------------------------------------------------------------------|------------------------------------------------------------------------------------|
-| [AchievementTracker](#achievementtracker)   | 💜 C#/.NET          | 🎓 INFO1420 Intro to C#            | 🔗 [Repo](https://github.com/bstearns07/AchievementTracker-BDS)     | —                                                                                 |
-| [TuitionCalculator](#achievementtracker)    | 💜 C#/ASP.NET       | 👤 Self-Project                    | 🔗 [Repo](https://github.com/bstearns07/TuitionCalculator_WebApp)   | —                                                                                 |
-| [MathTutor](#mathtutor)                     | ⚙️ C++              | 🎓 CSC150 Programming Fundamentals | 🔗 [Repo](https://github.com/bstearns07/MathTutor)                  | —                                                                                 |
-| [CALC2000](#calc2000)                       | 🖥️ COBOL/JCL        | 🎓 CIS352 Enterprise Computing     | 🔗 [Repo](https://github.com/bstearns07/CALC2000)                   | —                                                                                 |
-| [RPT2000](#rpt2000)                         | 🖥️ COBOL/JCL        | 🎓 CIS352 Enterprise Computing     | 🔗 [Repo](https://github.com/bstearns07/RPT2000)                    | —                                                                                 |
-| [RPT3000](#rpt3000)                         | 🖥️ COBOL/JCL        | 🎓 CIS352 Enterprise Computing     | 🔗 [Repo](https://github.com/bstearns07/RPT3000)                    | —                                                                                 |
-| [RPT5000](#rpt5000)                         | 🖥️ COBOL/JCL        | 🎓 CIS352 Enterprise Computing     | 🔗 [Repo](https://github.com/bstearns07/RPT5000)                    | —                                                                                 |
-| [RPT6000](#rpt6000)                         | 🖥️ COBOL/JCL        | 🎓 CIS352 Enterprise Computing     | 🔗 [Repo](https://github.com/bstearns07/RPT6000)                    | —                                                                                 |
-| [SEQ3000](#seq3000)                         | 🖥️ COBOL/JCL        | 🎓 CIS352 Enterprise Computing     | 🔗 [Repo](https://github.com/bstearns07/SEQ3000)                    | —                                                                                 |
-| [UTIL2000](#util2000)                       | 🖥️ COBOL/JCL        | 🎓 CIS352 Enterprise Computing     | 🔗 [Repo](https://github.com/bstearns07/UTIL2000)                   | —                                                                                 |
-| [YoungVotta-Beta](#youngvottabeta)          | 🎨 HTML/CSS         | 🎓 INFO 1725 HTML/CSS/JavaScript   | 🔗 [Repo](https://github.com/bstearns07/YoungVotta.com-Beta)        | —                                                                                 |
-| [WeatherAPI](#weatherapi)                   | ☕ Java             | 🎓 INFO 2550 Programming in Java   | 🔗 [Repo](https://github.com/bstearns07/WeatherAPIApp)              | —                                                                                 |
-| [CheckoutReceipt](#checkoutreceipt)         | ⚡ JavaScript       | 🌐 CSC 465 Advanced Web Dev        | 🔗 [Repo](https://github.com/bstearns07/Checkout-Receipt)           | ▶️ [Launch Checkout App](https://bstearns07.github.io/Checkout-Receipt/)         |
-| [DictionaryAPI](#dictionaryapi)             | ⚡ JavaScript       | 🌐 CSC 465 Advanced Web Dev        | 🔗 [Repo](https://github.com/bstearns07/DictionaryAPI)              | ▶️ [Launch Dictionary App](https://dictionaryapi-5dly.onrender.com)              |
-| [Flashcards](#flashcards)                   | ⚡ JavaScript       | 🌐 CSC 465 Advanced Web Dev        | 🔗 [Repo](https://github.com/bstearns07/Flashcards)                 | ▶️ [Launch Flashcards App](https://bstearns07.github.io/Flashcards/)             |
-| [HotColdGame](#hotcoldgame)                 | ⚡ JavaScript       | 🌐 CSC 465 Advanced Web Dev        | 🔗 [Repo](https://github.com/bstearns07/HotColdGame)                | ▶️ [Launch HotCold App](https://bstearns07.github.io/HotColdGame/)               |
-| [MovieTracker](#movietracker)               | ⚡ JavaScript       | 🌐 CSC 465 Advanced Web Dev        | 🔗 [Repo](https://github.com/bstearns07/MovieTracker)               | ▶️ [Launch Movie Tracker](https://bstearns07.github.io/MovieTracker/)            |
-| [RetirementProjector](#retirementprojector) | ⚡ JavaScript       | 🌐 CSC 465 Advanced Web Dev        | 🔗 [Repo](https://github.com/bstearns07/RetirementProjector)        | ▶️ [Launch Retirement App](https://bstearns07.github.io/RetirementProjector/)    |
-| [SmartwatchFAQ](#smartwatchfaq)             | ⚡ JavaScript       | 🌐 CSC 465 Advanced Web Dev        | 🔗 [Repo](https://github.com/bstearns07/SmartwatchFAQ)              | ▶️ [Launch SmartwatchFAQ](https://bstearns07.github.io/SmartwatchFAQ/)          |
-| [StockTicker](#stockticker)                 | 🐍 Python           | 📜 CSC 365 Scripting Languages     | 🔗 [Repo](https://github.com/bstearns07/StockTicker)                | —                                                                                 |
-| [YugiohCardLibraryOCR](#yugiohcardlibrary)  | 🐍 Python           | 📜 CSC 365 Scripting Languages     | 🔗 [Repo](https://github.com/bstearns07/YugiohCardLibrary_With_OCR) | —                                                                                 |
-| [ReactPortfolio](#reactportfolio)           | ⚛️ React            | 👤 Self-Project                    | 🔗 [Repo](https://github.com/bstearns07/react-portfolio)            | ▶️ [Launch My Portfolio Site](https://www.bstearns.com)                          |                                                                                 |
-
+| ⭐ | 🚀 Project                                  | 💻 Primary Tech    | 🏷️ Category                        | 📂 Repo                                                             | 🌐 Live Demo                                                                   |
+|----|---------------------------------------------|---------------------|-------------------------------------|---------------------------------------------------------------------|----------------------------------------------------------------------------------|
+| ⭐ | [AchievementTracker](#achievementtracker)   | 💜 C#/.NET          | 🎓 INFO1420 Intro to C#            | 🔗 [Repo](https://github.com/bstearns07/AchievementTracker-BDS)     | —                                                                              |
+| ⭐ | [TuitionCalculator](#achievementtracker)    | 💜 C#/ASP.NET       | 👤 Self-Project                    | 🔗 [Repo](https://github.com/bstearns07/TuitionCalculator_WebApp)   | —                                                                              |
+| ⭐ | [MathTutor](#mathtutor)                     | ⚙️ C++              | 🎓 CSC150 Programming Fundamentals | 🔗 [Repo](https://github.com/bstearns07/MathTutor)                  | —                                                                              |
+|    | [CALC2000](#calc2000)                       | 🖥️ COBOL/JCL        | 🎓 CIS352 Enterprise Computing     | 🔗 [Repo](https://github.com/bstearns07/CALC2000)                   | —                                                                              |
+|    | [RPT2000](#rpt2000)                         | 🖥️ COBOL/JCL        | 🎓 CIS352 Enterprise Computing     | 🔗 [Repo](https://github.com/bstearns07/RPT2000)                    | —                                                                              |
+|    | [RPT3000](#rpt3000)                         | 🖥️ COBOL/JCL        | 🎓 CIS352 Enterprise Computing     | 🔗 [Repo](https://github.com/bstearns07/RPT3000)                    | —                                                                              |
+|    | [RPT5000](#rpt5000)                         | 🖥️ COBOL/JCL        | 🎓 CIS352 Enterprise Computing     | 🔗 [Repo](https://github.com/bstearns07/RPT5000)                    | —                                                                              |
+|    | [RPT6000](#rpt6000)                         | 🖥️ COBOL/JCL        | 🎓 CIS352 Enterprise Computing     | 🔗 [Repo](https://github.com/bstearns07/RPT6000)                    | —                                                                              |
+|    | [SEQ3000](#seq3000)                         | 🖥️ COBOL/JCL        | 🎓 CIS352 Enterprise Computing     | 🔗 [Repo](https://github.com/bstearns07/SEQ3000)                    | —                                                                              |
+|    | [UTIL2000](#util2000)                       | 🖥️ COBOL/JCL        | 🎓 CIS352 Enterprise Computing     | 🔗 [Repo](https://github.com/bstearns07/UTIL2000)                   | —                                                                              |
+| ⭐ | [YoungVotta-Beta](#youngvottabeta)          | 🎨 HTML/CSS         | 🎓 INFO1725 HTML/CSS/JavaScript   | 🔗 [Repo](https://github.com/bstearns07/YoungVotta.com-Beta)        | —                                                                              |
+| ⭐ | [WeatherAPI](#weatherapi)                   | ☕ Java             | 🎓 INFO2550 Programming in Java   | 🔗 [Repo](https://github.com/bstearns07/WeatherAPIApp)              | —                                                                              |
+|    | [CheckoutReceipt](#checkoutreceipt)         | ⚡ JavaScript       | 🌐 CSC465 Advanced Web Dev        | 🔗 [Repo](https://github.com/bstearns07/Checkout-Receipt)           | ▶️ [Open Checkout App](https://bstearns07.github.io/Checkout-Receipt/)         |
+|    | [DictionaryAPI](#dictionaryapi)             | ⚡ JavaScript       | 🌐 CS465 Advanced Web Dev         | 🔗 [Repo](https://github.com/bstearns07/DictionaryAPI)              | ▶️ [Open Dictionary App](https://dictionaryapi-5dly.onrender.com)              |
+|    | [Flashcards](#flashcards)                   | ⚡ JavaScript       | 🌐 CSC465 Advanced Web Dev        | 🔗 [Repo](https://github.com/bstearns07/Flashcards)                 | ▶️ [Open Flashcards App](https://bstearns07.github.io/Flashcards/)             |
+|    | [HotColdGame](#hotcoldgame)                 | ⚡ JavaScript       | 🌐 CSC465 Advanced Web Dev        | 🔗 [Repo](https://github.com/bstearns07/HotColdGame)                | ▶️ [Open HotCold App](https://bstearns07.github.io/HotColdGame/)               |
+|    | [MovieTracker](#movietracker)               | ⚡ JavaScript       | 🌐 CSC465 Advanced Web Dev        | 🔗 [Repo](https://github.com/bstearns07/MovieTracker)               | ▶️ [Open Movie Tracker](https://bstearns07.github.io/MovieTracker/)            |
+|    | [RetirementProjector](#retirementprojector) | ⚡ JavaScript       | 🌐 CSC465 Advanced Web Dev        | 🔗 [Repo](https://github.com/bstearns07/RetirementProjector)        | ▶️ [Open Retirement App](https://bstearns07.github.io/RetirementProjector/)    |
+|    | [SmartwatchFAQ](#smartwatchfaq)             | ⚡ JavaScript       | 🌐 CSC465 Advanced Web Dev        | 🔗 [Repo](https://github.com/bstearns07/SmartwatchFAQ)              | ▶️ [Open Smartwatch App](https://bstearns07.github.io/SmartwatchFAQ/)          |
+|    | [StockTicker](#stockticker)                 | 🐍 Python           | 📜 CSC365 Scripting Languages     | 🔗 [Repo](https://github.com/bstearns07/StockTicker)                | —                                                                              |
+| ⭐ | [YugiohCardLibraryOCR](#yugiohcardlibrary)  | 🐍 Python           | 📜 CSC365 Scripting Languages     | 🔗 [Repo](https://github.com/bstearns07/YugiohCardLibrary_With_OCR) | —                                                                              |
+| ⭐ | [ReactPortfolio](#reactportfolio)           | ⚛️ React            | 👤 Self-Project                   | 🔗 [Repo](https://github.com/bstearns07/react-portfolio)            | ▶️ [Open Portfolio App](https://www.bstearns.com)                             |
 # AchievementTracker
 
 `Short Summary:` Acts as a library to keep track of all your game's trophys as you play  
