@@ -64,6 +64,7 @@ Want more details about my work and background?
 |    | [StockTicker](#stockticker)                 | 🐍 Python           | 📜 CSC365 Scripting Languages     | 🔗 [Repo](https://github.com/bstearns07/StockTicker)                | —                                                                              |
 | ⭐ | [YugiohCardLibraryOCR](#yugiohcardlibrary)  | 🐍 Python           | 📜 CSC365 Scripting Languages     | 🔗 [Repo](https://github.com/bstearns07/YugiohCardLibrary_With_OCR) | —                                                                              |
 | ⭐ | [ReactPortfolio](#reactportfolio)           | ⚛️ React            | 👤 Self-Project                   | 🔗 [Repo](https://github.com/bstearns07/react-portfolio)            | ▶️ [Open Portfolio App](https://www.bstearns.com)                             |
+
 # AchievementTracker
 
 `Short Summary:` Acts as a library to keep track of all your game's trophys as you play  
@@ -305,7 +306,8 @@ Want more details about my work and background?
 
 ![Checkout Receipt](thumbnails/simple_checkout.png)
 
-```Repository Link:``` [🔗 View Checkout Receipt Repository](https://github.com/bstearns07/Checkout-Receipt)
+```Repository Link:``` [🔗 View Checkout Receipt Repository](https://github.com/bstearns07/Checkout-Receipt)  
+```Launch App``` ▶️ [Open Checkout App](https://bstearns07.github.io/Checkout-Receipt/)  
 
 [⏫ Back to TOC](#-project-directory)
 
@@ -325,7 +327,8 @@ Want more details about my work and background?
 
 ![Dictionary API](thumbnails/dictionary_api.png)
 
-```Repository Link:``` [🔗 View DictionaryAPI Repository](https://github.com/bstearns07/DictionaryAPI)
+```Repository Link:``` [🔗 View DictionaryAPI Repository](https://github.com/bstearns07/DictionaryAPI)  
+```Launch App``` ▶️ [Open Dictionary App](https://dictionaryapi-5dly.onrender.com)
 
 [⏫ Back to TOC](#-project-directory)
 
@@ -343,7 +346,8 @@ Want more details about my work and background?
 
 ![flashcards](thumbnails/flashcards.png)
 
-```Repository Link:``` [🔗 View Flashcards Repository](https://github.com/bstearns07/Flashcards)
+```Repository Link:``` [🔗 View Flashcards Repository](https://github.com/bstearns07/Flashcards)  
+```Launch App``` ▶️ [Open Flashcards App](https://bstearns07.github.io/Flashcards/)
 
 [⏫ Back to TOC](#-project-directory)
 
@@ -362,7 +366,8 @@ Want more details about my work and background?
 
 ![Hot Cold Game](thumbnails/hot_cold_game.png)
 
-```Repository Link:``` [🔗 View HotColdGame Repository](https://github.com/bstearns07/HotColdGame)
+```Repository Link:``` [🔗 View HotColdGame Repository](https://github.com/bstearns07/HotColdGame)  
+```Launch App```  ▶️ [Open HotCold App](https://bstearns07.github.io/HotColdGame/)  
 
 [⏫ Back to TOC](#-project-directory)
 
@@ -381,7 +386,8 @@ Want more details about my work and background?
 
 ![Movie Tracker](thumbnails/movie_tracker.png)
 
-```Repository Link:``` [🔗 View MovieTracker Repository](https://github.com/bstearns07/MovieTracker)
+```Repository Link:``` [🔗 View MovieTracker Repository](https://github.com/bstearns07/MovieTracker)  
+```Launch App``` ▶️ [Open Movie Tracker](https://bstearns07.github.io/MovieTracker/)
 
 [⏫ Back to TOC](#-project-directory)
 
@@ -399,8 +405,9 @@ Want more details about my work and background?
 `Thumbnail Screenshot:`
 
 ![Retirement Projector](thumbnails/retirement_projector.png)
-
-```Repository Link:``` [🔗 View RetirementProjector Repository](https://github.com/bstearns07/RetirementProjector)
+ 
+```Repository Link:``` [🔗 View RetirementProjector Repository](https://github.com/bstearns07/RetirementProjector)  
+```Launch App``` ▶️ [Open Retirement App](https://bstearns07.github.io/RetirementProjector/)  
 
 [⏫ Back to TOC](#-project-directory)
 
@@ -419,7 +426,8 @@ Want more details about my work and background?
 
 ![Smartwatch FAQ](thumbnails/smartwatch_faq.png)
 
-```Repository Link:``` [🔗 View RetirementProjector Repository](https://github.com/bstearns07/SmartwatchFAQ)
+```Repository Link:``` [🔗 View SmartwatchFAQ Repository](https://github.com/bstearns07/SmartwatchFAQ)  
+```Launch App``` ▶️ [Open Smartwatch App](https://bstearns07.github.io/SmartwatchFAQ/) 
 
 [⏫ Back to TOC](#-project-directory)
 
@@ -474,6 +482,7 @@ Want more details about my work and background?
 
 ![portfolio](thumbnails/portfolio.png)
 
-```Repository Link:``` [🔗 View My React Portfolio Repository](https://github.com/bstearns07/react-portfolio)
+```Repository Link:``` [🔗 View My React Portfolio Repository](https://github.com/bstearns07/react-portfolio)  
+```Launch App``` ▶️ [Open Portfolio App](https://www.bstearns.com)   
 
 [⏫ Back to TOC](#-project-directory)
