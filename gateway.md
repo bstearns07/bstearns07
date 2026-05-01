@@ -60,6 +60,7 @@ Want more details about my work and background?
 | [MovieTracker](#movietracker)               | ⚡ JavaScript       | 🌐 CSC 465 Advanced Web Dev        | 🔗 [Repo](https://github.com/bstearns07/MovieTracker)               | ▶️ [Launch Movie Tracker](https://bstearns07.github.io/MovieTracker/)            |
 | [RetirementProjector](#retirementprojector) | ⚡ JavaScript       | 🌐 CSC 465 Advanced Web Dev        | 🔗 [Repo](https://github.com/bstearns07/RetirementProjector)        | ▶️ [Launch Retirement App](https://bstearns07.github.io/RetirementProjector/)    |
 | [SmartwatchFAQ](#smartwatchfaq)             | ⚡ JavaScript       | 🌐 CSC 465 Advanced Web Dev        | 🔗 [Repo](https://github.com/bstearns07/SmartwatchFAQ)              | ▶️ [Launch SmartwatchFAQ](https://bstearns07.github.io/SmartwatchFAQ/)          |
+| [StockTicker](#stockticker)                 | 🐍 Python           | 📜 CSC 365 Scripting Languages     | 🔗 [Repo](https://github.com/bstearns07/StockTicker)                | —                                                                                 |
 | [YugiohCardLibraryOCR](#yugiohcardlibrary)  | 🐍 Python           | 📜 CSC 365 Scripting Languages     | 🔗 [Repo](https://github.com/bstearns07/YugiohCardLibrary_With_OCR) | —                                                                                 |
 | [ReactPortfolio](#reactportfolio)           | ⚛️ React            | 👤 Self-Project                    | 🔗 [Repo](https://github.com/bstearns07/react-portfolio)            | ▶️ [Launch My Portfolio Site](https://www.bstearns.com)                          |                                                                                 |
 
@@ -422,6 +423,23 @@ Want more details about my work and background?
 
 [⏫ Back to TOC](#-project-directory)
 
+# StockTicker
+
+`Short Summary:` A console application that looks up stock information by ticker symbol and displays in output and and MatPlotLib graph.  
+`Technologies Used:`
+- Python
+- yFinance API and Pandas (via yFinance) libraries
+- Matplotlib library
+  
+`Key Learning Concepts:` API data retrieval, Data manipulation with Pandas, Data visualization with Matplotlib, Input validation and error handling  
+`Project Status:` ✅ Complete  
+`Course / Self-Project:` CSC 365 Scripting Languages  
+`Thumbnail Screenshot:`
+
+![Stock Ticker](thumbnails/stock_ticker.png)
+
+```Repository Link:``` [🔗 View AchievementTracker Repository](https://github.com/bstearns07/AchievementTracker-BDS)
+
 # YugiohCardLibrary
 
 `Short Summary:` Acts as a library for digitally storing your Yugioh card collection. Feature Tesseract OCR to scan your cards in  
@@ -431,13 +449,13 @@ Want more details about my work and background?
 - Supabase Postgress (PostgreSQL) + Tesseract OCR engine
   
 `Key Learning Concepts:` Flask web app development, Tesseract OCR data extraction, Supabase open-source database management, RESTful routing, Session-based caching  
-`Project Status:` ✅ Complete  
-`Course / Self-Project:` CSC 365 Advanced Web Development  
+`Project Status:` ✅ Complete   
+`Course / Self-Project:` CSC 365 Scripting Languages
 `Thumbnail Screenshot:`
 
 ![Yugioh Card Library](thumbnails/yugioh.png)
 
-```Repository Link:``` [🔗 View YugiohCardLibrary Repository](https://github.com/bstearns07/YugiohCardLibrary_With_OCR)
+```Repository Link:``` [🔗 View StockTicker Repository](https://github.com/bstearns07/StockTicker)
 
 [⏫ Back to TOC](#-project-directory)
 
