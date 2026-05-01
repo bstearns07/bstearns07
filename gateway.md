@@ -299,7 +299,7 @@ Want more details about my work and background?
 - CSS3 (Layout & Styling)
 - Vanilla JavaScript (ES6+)
   
-`Key Learning Concepts:` Getting DOM element values, data validation, variables, arithmetic, document.querySelector()/parseFloat()/parseInt()/alert()/document.addEventListener() for button event handling  
+`Key Learning Concepts:` Getting DOM element values, data validation, variables, arithmetic, document.addEventListener()  
 `Project Status:` ✅ Complete  
 `Course / Self-Project:` CSC 465 Advanced Web Development  
 `Thumbnail Screenshot:`
@@ -317,8 +317,7 @@ Want more details about my work and background?
 `Technologies Used:`
 - HTML5 (Semantic Markup) + Tailwind (Layout & Styling)
 - Vanilla JavaScript (ES6+)
-- Custom-made Node Express API
-- [Free Dictionary API](https://dictionaryapi.dev/?ref=freepublicapis.com)
+- Custom-made Node Express API + [Free Dictionary API](https://dictionaryapi.dev/?ref=freepublicapis.com)
   
 `Key Learning Concepts:` API calls and data parsing, Node Express APIs, find()/fetch() methods, asynchronous programming (async/await), Audio objects  
 `Project Status:` ✅ Complete  
