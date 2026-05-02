@@ -20,15 +20,14 @@ If you're not sure where to start in my GitHub, this guide organizes my projects
 ---
 
 ## 🌐 Learn More About Me
-Want more details about my work and background?
 
-``View my GitHub Profile Here:`` 
+> 💡 **Want to learn more about my work, projects, and professional background?**
+>  
+> Check out my full GitHub profile and portfolio website below 👇:
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/bstearns07)
+<a href="https://github.com/bstearns07"><img src="https://img.shields.io/badge/GitHub-Explore%20Projects-181717?style=for-the-badge&logo=github" /></a>
 
-``Visit my website:`` 
-
-[![Website](https://img.shields.io/badge/🌐-bstearns.com-0A66C2?style=for-the-badge)](https://www.bstearns.com/)
+<a href="https://www.bstearns.com/"><img src="https://img.shields.io/badge/Portfolio-bstearns.com-0A66C2?style=for-the-badge" /></a>
 
 ---
 
