@@ -1,9 +1,5 @@
 # 🚪 My Project Gateway
 
-<p align="center">
-  <img src="thumbnails/profile_image.jpg" />
-</p>
-
 ---
 
 ## 👋 Introduction
