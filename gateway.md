@@ -62,6 +62,7 @@ Want more details about my work and background?
 |     | [MovieTracker](#movietracker)                  | ⚡ JavaScript       | 🌐 CSC 465 Advanced Web Dev        | 🔗 [Repo](https://github.com/bstearns07/MovieTracker)               | ▶️ [Launch App](https://bstearns07.github.io/MovieTracker/)        |
 |     | [RetirementProjector](#retirementprojector)    | ⚡ JavaScript       | 🌐 CSC 465 Advanced Web Dev        | 🔗 [Repo](https://github.com/bstearns07/RetirementProjector)        | ▶️ [Launch App](https://bstearns07.github.io/RetirementProjector/) |
 |     | [SmartwatchFAQ](#smartwatchfaq)                | ⚡ JavaScript       | 🌐 CSC 465 Advanced Web Dev        | 🔗 [Repo](https://github.com/bstearns07/SmartwatchFAQ)              | ▶️ [Launch App](https://bstearns07.github.io/SmartwatchFAQ/)       |
+| ⭐ | **[PongGame](#ponggame)**                       | 🐍 Python           | 👤 Self-Project                   | 🔗 [Repo](https://github.com/bstearns07/YugiohCardLibrary_With_OCR) | —                                                                    |
 |     | [StockTicker](#stockticker)                    | 🐍 Python           | 📜 CSC 365 Scripting Languages     | 🔗 [Repo](https://github.com/bstearns07/StockTicker)                | —                                                                   |
 | ⭐ | **[YugiohCardLibraryOCR](#yugiohcardlibrary)** | 🐍 Python           | 📜 CSC 365 Scripting Languages     | 🔗 [Repo](https://github.com/bstearns07/YugiohCardLibrary_With_OCR) | —                                                                    |
 | ⭐ | **[ReactPortfolio](#reactportfolio)**          | ⚛️ React            | 👤 Self-Project                    | 🔗 [Repo](https://github.com/bstearns07/react-portfolio)            | ▶️ [Launch App](https://www.bstearns.com)                          ,|
@@ -405,6 +406,27 @@ Want more details about my work and background?
 `Thumbnail Screenshot:`
 
 ![Smartwatch FAQ](thumbnails/smartwatch_faq.png)
+
+[⏫ Back to TOC](#-project-directory)
+
+---
+
+# 📊 **Portfolio Table Entry (Your Format)**
+
+# PongGame
+
+| 🧩 Detail            | 📌 Info                                                                                          |
+|----------------------|---------------------------------------------------------------------------------------------------|
+| **Summary**          | Just your old-school Pong game built with real-time physics and collision handling using the Pygame library |
+| **Technologies Used** | 🐍 Python • 🎮 Pygame                                                                            |
+| **Key Concepts**      | Game loops, collision detection, OOP, event handling, real-time rendering                        |
+| **Status**            | ✅ Complete                                                                                       |
+| **Course**            | 🎓 CSC 365 – Scripting Languages                                                                |
+| **Repository**        | 🔗 [View Repo](#)                                                                                |
+
+`Thumbnail Screenshot:`
+
+![Pong Game](thumbnails/pong.png)
 
 [⏫ Back to TOC](#-project-directory)
 
