@@ -22,8 +22,12 @@ If you're not sure where to start in my GitHub, this guide organizes my projects
 ## 🌐 Learn More About Me
 
 > 💡 **Want to learn more about my work, projects, and professional background?**
->  
-> Check out my full GitHub profile and portfolio website below 👇:
+> 
+> 📧 Resume: [View My Resume](docs/Resume_new/pdf)
+> 
+> 🌐 References: [View My References](docs/Referneces_BenStearns.pdf)
+
+Or check out my full GitHub profile and portfolio website below 👇:
 
 <a href="https://github.com/bstearns07"><img src="https://img.shields.io/badge/GitHub-Explore%20Projects-181717?style=for-the-badge&logo=github" /></a>
 
