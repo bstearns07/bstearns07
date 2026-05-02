@@ -75,12 +75,9 @@ Want more details about my work and background?
 | **Technologies Used** | 💜 C# • .NET (Windows Forms)                                                                     |
 | **Key Concepts**      | OOP, File I/O, Windows Forms UI design, CRUD operations                                          |
 | **Status**            | ✅ Complete                                                                                     |
-| **Course**            | 🎓 INFO 1420 – Intro to Programming in C#                                                       |                          
+| **Course / Self-Project**            | 🎓 INFO 1420 – Intro to Programming in C#                                                       |                          
 | **Repository**        | 🔗 [View Repo](https://github.com/bstearns07/AchievementTracker-BDS)                            |
-
-`Thumbnail Screenshot:`
-
-![Achievement Tracker](thumbnails/achievement_tracker.png)
+| **Thumbnail Screenshot** | ![Achievement Tracker](thumbnails/achievement_tracker.png) |
 
 [⏫ Back to TOC](#-project-directory)
 
@@ -92,12 +89,9 @@ Want more details about my work and background?
 | **Technologies Used** | 💜 C# • ASP.NET MVC • SQL Server • Entity Framework |
 | **Key Concepts**      | MVC architecture, database integration, CRUD operations |
 | **Status**            | ✅ Complete |
-| **Course**            | 👤 Self-Project |
+| **Course / Self-Project**            | 👤 Self-Project |
 | **Repository**        | 🔗 [View Repo](https://github.com/bstearns07/TuitionCalculator_WebApp) |
-
-`Thumbnail Screenshot:`
-
-![Tuition Calculator](thumbnails/tuition_calculator.png)
+| **Thumbnail Screenshot** | ![Tuition Calculator](thumbnails/tuition_calculator.png) |
 
 [⏫ Back to TOC](#-project-directory)
 
@@ -109,12 +103,9 @@ Want more details about my work and background?
 | **Technologies Used** | ⚙️ C++ • STL • Standard Libraries |
 | **Key Concepts**      | Vectors, file handling, modular design with headers files, input validation |
 | **Status**            | ✅ Complete |
-| **Course**            | 🎓 CSC150 – Programming Fundamentals |
+| **Course / Self-Project**            | 🎓 CSC150 – Programming Fundamentals |
 | **Repository**        | 🔗 [View Repo](https://github.com/bstearns07/MathTutor) |
-
-`Thumbnail Screenshot:`
-
-![Math Tutor](thumbnails/math.png)
+| **Thumbnail Screenshot** | ![Math Tutor](thumbnails/math.png) |
 
 [⏫ Back to TOC](#-project-directory)
 
@@ -126,12 +117,9 @@ Want more details about my work and background?
 | **Technologies Used** | 🖥️ COBOL • JCL • z/OS |
 | **Key Concepts**      | Arithmetic operations, loops, formatted output |
 | **Status**            | ✅ Complete |
-| **Course**            | 🎓 CIS352 – Enterprise Computing |
+| **Course / Self-Project**            | 🎓 CIS352 – Enterprise Computing |
 | **Repository**        | 🔗 [View Repo](https://github.com/bstearns07/CALC2000) |
-
-`Thumbnail Screenshot:`
-
-![Calc 2000](thumbnails/calc2000.png)
+| **Thumbnail Screenshot** | ![Calc 2000](thumbnails/calc2000.png) |
 
 [⏫ Back to TOC](#-project-directory)
 
@@ -143,12 +131,9 @@ Want more details about my work and background?
 | **Technologies Used** | 🖥️ COBOL 6.4 • JCL • z/OS |
 | **Key Concepts**      | File processing, data divisions, print formatting, control switches |
 | **Status**            | ✅ Complete |
-| **Course**            | 🎓 CIS352 – Intro to Enterprise Computing |
+| **Course / Self-Project**            | 🎓 CIS352 – Intro to Enterprise Computing |
 | **Repository**        | 🔗 [View Repo](https://github.com/bstearns07/RPT2000) |
-
-`Thumbnail Screenshot:`
-
-![RPT 2000](thumbnails/rpt2000.png)
+| **Thumbnail Screenshot** | ![RPT 2000](thumbnails/rpt2000.png)|
 
 [⏫ Back to TOC](#-project-directory)
 
@@ -160,12 +145,9 @@ Want more details about my work and background?
 | **Technologies Used** | 🖥️ COBOL 6.4 • JCL • z/OS |
 | **Key Concepts**      | Data grouping, conditional logic, file handling, structured reporting |
 | **Status**            | ✅ Complete |
-| **Course**            | 🎓 CIS352 – Intro to Enterprise Computing |
+| **Course / Self-Project**            | 🎓 CIS352 – Intro to Enterprise Computing |
 | **Repository**        | 🔗 [View Repo](https://github.com/bstearns07/RPT3000) |
-
-`Thumbnail Screenshot:`
-
-![RPT 3000](thumbnails/rpt3000.png)
+| **Thumbnail Screenshot** | ![RPT 3000](thumbnails/rpt3000.png) |
 
 [⏫ Back to TOC](#-project-directory)
 
@@ -177,12 +159,9 @@ Want more details about my work and background?
 | **Technologies Used** | 🖥️ COBOL 6.4 • JCL • z/OS |
 | **Key Concepts**      | EVALUATE TRUE, WITH TEST AFTER loops, SET statements |
 | **Status**            | ✅ Complete |
-| **Course**            | 🎓 CIS352 – Intro to Enterprise Computing |
+| **Course / Self-Project**            | 🎓 CIS352 – Intro to Enterprise Computing |
 | **Repository**        | 🔗 [View Repo](https://github.com/bstearns07/RPT5000) |
-
-`Thumbnail Screenshot:`
-
-![RPT 5000](thumbnails/rpt5000.png)
+| **Thumbnail Screenshot** | ![RPT 5000](thumbnails/rpt5000.png) |
 
 [⏫ Back to TOC](#-project-directory)
 
@@ -194,12 +173,9 @@ Want more details about my work and background?
 | **Technologies Used** | 🖥️ COBOL 6.4 • JCL • z/OS |
 | **Key Concepts**      | Table handling, data lookup, INITIALIZE, REDEFINES, packed decimal usage |
 | **Status**            | ✅ Complete |
-| **Course**            | 🎓 CIS352 – Intro to Enterprise Computing |
+| **Course / Self-Project**            | 🎓 CIS352 – Intro to Enterprise Computing |
 | **Repository**        | 🔗 [View Repo](https://github.com/bstearns07/RPT6000) |
-
-`Thumbnail Screenshot:`
-
-![RPT 6000](thumbnails/rpt6000.png)
+| **Thumbnail Screenshot** | ![RPT 6000](thumbnails/rpt6000.png)|
 
 [⏫ Back to TOC](#-project-directory)
 
@@ -211,12 +187,9 @@ Want more details about my work and background?
 | **Technologies Used** | 🖥️ COBOL • JCL • z/OS |
 | **Key Concepts**      | Indexed files, file status handling, error logging |
 | **Status**            | ✅ Complete |
-| **Course**            | 🎓 CIS352 – Enterprise Computing |
+| **Course / Self-Project**            | 🎓 CIS352 – Enterprise Computing |
 | **Repository**        | 🔗 [View Repo](https://github.com/bstearns07/SEQ3000) |
-
-`Thumbnail Screenshot:`
-
-![SEQ 3000](thumbnails/seq3000.png)
+| **Thumbnail Screenshot** | ![SEQ 3000](thumbnails/seq3000.png) |
 
 [⏫ Back to TOC](#-project-directory)
 
@@ -228,12 +201,9 @@ Want more details about my work and background?
 | **Technologies Used** | 🖥️ COBOL 6.4 • JCL • z/OS • VS Code + Zowe                                                       |
 | **Key Concepts**      | Mainframe development (ISPF), loops, DISPLAY/MOVE/COMPUTE/UNTIL statements                       |
 | **Status**            | ✅ Complete                                                                                       |
-| **Course**            | 🎓 CIS352 – Intro to Enterprise Computing                                                        |
+| **Course / Self-Project**            | 🎓 CIS352 – Intro to Enterprise Computing                                                        |
 | **Repository**        | 🔗 [View Repo](https://github.com/bstearns07/UTIL2000)                                            |
-
-`Thumbnail Screenshot:`
-
-![UTIL 2000](thumbnails/util2000.png)
+| **Thumbnail Screenshot** | ![UTIL 2000](thumbnails/util2000.png) |
 
 [⏫ Back to TOC](#-project-directory)
 
@@ -247,12 +217,9 @@ Want more details about my work and background?
 | **Technologies Used** | 🎨 HTML5 • CSS3 • JavaScript                                                                     |
 | **Key Concepts**      | Semantic HTML, CSS layout/styling, responsive design, basic JavaScript interactivity             |
 | **Status**            | ✅ Complete                                                                                       |
-| **Course**            | 🎓 INFO 1725 – HTML/CSS/JavaScript                                                               |
+| **Course / Self-Project**            | 🎓 INFO 1725 – HTML/CSS/JavaScript                                                               |
 | **Repository**        | 🔗 [View Repo](https://github.com/bstearns07/YoungVotta.com-Beta)                                |
-
-`Thumbnail Screenshot:`
-
-![Young Votta Beta](thumbnails/youngvottabeta.png)
+| **Thumbnail Screenshot** | ![Young Votta Beta](thumbnails/youngvottabeta.png) |
 
 [⏫ Back to TOC](#-project-directory)
 
@@ -266,12 +233,9 @@ Want more details about my work and background?
 | **Technologies Used** | ☕ Java • JavaFX • Scene Builder • REST API                                                       |
 | **Key Concepts**      | JavaFX UI design, REST API integration, JSON parsing                                             |
 | **Status**            | ✅ Complete                                                                                       |
-| **Course**            | 🎓 INFO 2550 – Programming in Java                                                               |
+| **Course / Self-Project**            | 🎓 INFO 2550 – Programming in Java                                                               |
 | **Repository**        | 🔗 [View Repo](https://github.com/bstearns07/WeatherAPIApp)                                      |
-
-`Thumbnail Screenshot:`
-
-![Weather API](thumbnails/weather_api.png)
+| **Thumbnail Screenshot** | ![Weather API](thumbnails/weather_api.png) |
 
 [⏫ Back to TOC](#-project-directory)
 
@@ -283,13 +247,10 @@ Want more details about my work and background?
 | **Technologies Used** | ⚡ JavaScript • HTML • CSS |
 | **Key Concepts**      | DOM manipulation, validation, event handling |
 | **Status**            | ✅ Complete |
-| **Course**            | 🌐 CSC 465 – Advanced Web Development |
+| **Course / Self-Project**            | 🌐 CSC 465 – Advanced Web Development |
 | **Repository**        | 🔗 [View Repo](https://github.com/bstearns07/Checkout-Receipt) |
+| **Thumbnail Screenshot** | ![Checkout Receipt](thumbnails/simple_checkout.png) |
 | **Live Demo**         | ▶️ [Launch App](https://bstearns07.github.io/Checkout-Receipt/) |
-
-`Thumbnail Screenshot:`
-
-![Checkout Receipt](thumbnails/simple_checkout.png)
 
 [⏫ Back to TOC](#-project-directory)
 
@@ -301,13 +262,10 @@ Want more details about my work and background?
 | **Technologies Used** | ⚡ JavaScript • Node.js • Express • Tailwind |
 | **Key Concepts**      | API integration, async/await, JSON parsing |
 | **Status**            | ✅ Complete |
-| **Course**            | 🌐 CSC 465 – Advanced Web Development |
+| **Course / Self-Project**            | 🌐 CSC 465 – Advanced Web Development |
 | **Repository**        | 🔗 [View Repo](https://github.com/bstearns07/DictionaryAPI) |
+| **Thumbnail Screenshot** | ![Dictionary API](thumbnails/dictionary_api.png) |
 | **Live Demo**         | ▶️ [Launch App](https://dictionaryapi-5dly.onrender.com) |
-
-`Thumbnail Screenshot:`
-
-![Dictionary API](thumbnails/dictionary_api.png)
 
 [⏫ Back to TOC](#-project-directory)
 
@@ -319,13 +277,10 @@ Want more details about my work and background?
 | **Technologies Used** | 🎨 HTML5 • Tailwind CSS • ⚡ JavaScript (ES6+)                                                    |
 | **Key Concepts**      | Arrays, switch statements, custom functions, DOM manipulation                                    |
 | **Status**            | ✅ Complete                                                                                       |
-| **Course**            | 🌐 CSC 465 – Advanced Web Development                                                            |
+| **Course / Self-Project**            | 🌐 CSC 465 – Advanced Web Development                                                            |
 | **Repository**        | 🔗 [View Repo](https://github.com/bstearns07/Flashcards)                                         |
+| **Thumbnail Screenshot** | ![Flashcards](thumbnails/flashcards.png) |
 | **Live Demo**         | ▶️ [Open App](https://bstearns07.github.io/Flashcards/)                                           |
-
-`Thumbnail Screenshot:`
-
-![Flashcards](thumbnails/flashcards.png)
 
 [⏫ Back to TOC](#-project-directory)
 
@@ -339,13 +294,10 @@ Want more details about my work and background?
 | **Technologies Used** | 🎨 HTML5 • Tailwind CSS • ⚡ JavaScript (ES6+)                                                    |
 | **Key Concepts**      | Random number generation, DOM styling, keydown events, event listeners, conditional logic        |
 | **Status**            | ✅ Complete                                                                                       |
-| **Course**            | 🌐 CSC 465 – Advanced Web Development                                                            |
+| **Course / Self-Project**            | 🌐 CSC 465 – Advanced Web Development                                                            |
 | **Repository**        | 🔗 [View Repo](https://github.com/bstearns07/HotColdGame)                                        |
+| **Thumbnail Screenshot** | ![Hot Cold Game](thumbnails/hot_cold_game.png) |
 | **Live Demo**         | ▶️ [Open App](https://bstearns07.github.io/HotColdGame/)                                          |
-
-`Thumbnail Screenshot:`
-
-![Hot Cold Game](thumbnails/hot_cold_game.png)
 
 [⏫ Back to TOC](#-project-directory)
 
@@ -359,13 +311,10 @@ Want more details about my work and background?
 | **Technologies Used** | 🎨 HTML5 • CSS3 • ⚡ JavaScript (ES6+)                                                           |
 | **Key Concepts**      | Classes, modules, import maps, local storage persistence                                         |
 | **Status**            | ✅ Complete                                                                                       |
-| **Course**            | 🌐 CSC 465 – Advanced Web Development                                                            |
+| **Course / Self-Project**            | 🌐 CSC 465 – Advanced Web Development                                                            |
 | **Repository**        | 🔗 [View Repo](https://github.com/bstearns07/MovieTracker)                                       |
+| **Thumbnail Screenshot** | ![Movie Tracker](thumbnails/movie_tracker.png) |
 | **Live Demo**         | ▶️ [Open App](https://bstearns07.github.io/MovieTracker/)                                         |
-
-`Thumbnail Screenshot:`
-
-![Movie Tracker](thumbnails/movie_tracker.png)
 
 [⏫ Back to TOC](#-project-directory)
 
@@ -379,13 +328,10 @@ Want more details about my work and background?
 | **Technologies Used** | 🎨 HTML5 • CSS3 • ⚡ JavaScript (ES6+)                                                           |
 | **Key Concepts**      | Time/date logic, validation, setInterval(), regex, local storage                                 |
 | **Status**            | ✅ Complete                                                                                       |
-| **Course**            | 🌐 CSC 465 – Advanced Web Development                                                            |
+| **Course / Self-Project**            | 🌐 CSC 465 – Advanced Web Development                                                            |
 | **Repository**        | 🔗 [View Repo](https://github.com/bstearns07/RetirementProjector)                                |
+| **Thumbnail Screenshot** | ![Retirement Projector](thumbnails/retirement_projector.png) |
 | **Live Demo**         | ▶️ [Open App](https://bstearns07.github.io/RetirementProjector/)                                  |
-
-`Thumbnail Screenshot:`
-
-![Retirement Projector](thumbnails/retirement_projector.png)
 
 [⏫ Back to TOC](#-project-directory)
 
@@ -399,13 +345,10 @@ Want more details about my work and background?
 | **Technologies Used** | 🎨 HTML5 • Tailwind CSS • ⚡ JavaScript (ES6+)                                                    |
 | **Key Concepts**      | DOM manipulation, attribute handling, class toggling, event-driven UI                            |
 | **Status**            | ✅ Complete                                                                                       |
-| **Course**            | 🌐 CSC 465 – Advanced Web Development                                                            |
+| **Course / Self-Project**            | 🌐 CSC 465 – Advanced Web Development                                                            |
 | **Repository**        | 🔗 [View Repo](https://github.com/bstearns07/SmartwatchFAQ)                                      |
+| **Thumbnail Screenshot** | ![Smartwatch FAQ](thumbnails/smartwatch_faq.png) |
 | **Live Demo**         | ▶️ [Open App](https://bstearns07.github.io/SmartwatchFAQ/)                                        |
-
-`Thumbnail Screenshot:`
-
-![Smartwatch FAQ](thumbnails/smartwatch_faq.png)
 
 [⏫ Back to TOC](#-project-directory)
 
@@ -421,12 +364,9 @@ Want more details about my work and background?
 | **Technologies Used** | 🐍 Python • 🎮 Pygame                                                                            |
 | **Key Concepts**      | Game loops, collision detection, OOP, event handling, real-time rendering                        |
 | **Status**            | ✅ Complete                                                                                       |
-| **Course**            | 🎓 CSC 365 – Scripting Languages                                                                |
-| **Repository**        | 🔗 [View Repo](#)                                                                                |
-
-`Thumbnail Screenshot:`
-
-![Pong Game](thumbnails/pong.png)
+| **Course / Self-Project**            | 🎓 CSC 365 – Scripting Languages                                                                |
+| **Repository**        | 🔗 [View Repo](https://github.com/bstearns07/Pong_Game)                                                                                |
+| **Thumbnail Screenshot** | ![Pong Game](thumbnails/pong.png) |
 
 [⏫ Back to TOC](#-project-directory)
 
@@ -438,12 +378,9 @@ Want more details about my work and background?
 | **Technologies Used** | 🐍 Python • yFinance • Pandas • Matplotlib |
 | **Key Concepts**      | Data analysis, API usage, visualization |
 | **Status**            | ✅ Complete |
-| **Course**            | 📜 CSC 365 – Scripting Languages |
+| **Course / Self-Project**            | 📜 CSC 365 – Scripting Languages |
 | **Repository**        | 🔗 [View Repo](https://github.com/bstearns07/StockTicker) |
-
-`Thumbnail Screenshot:`
-
-![Stock Ticker](thumbnails/stock_ticker.png)
+| **Thumbnail Screenshot** | ![Stock Ticker](thumbnails/stock_ticker.png) |
 
 [⏫ Back to TOC](#-project-directory)
 
@@ -455,12 +392,9 @@ Want more details about my work and background?
 | **Technologies Used** | 🐍 Python • Flask • Supabase • Tesseract OCR |
 | **Key Concepts**      | OCR processing, REST routing, database integration |
 | **Status**            | ✅ Complete |
-| **Course**            | 📜 CSC 365 – Scripting Languages |
+| **Course / Self-Project**            | 📜 CSC 365 – Scripting Languages |
 | **Repository**        | 🔗 [View Repo](https://github.com/bstearns07/YugiohCardLibrary_With_OCR) |
-
-`Thumbnail Screenshot:`
-
-![Yugioh Card Library](thumbnails/yugioh.png)
+| **Thumbnail Screenshot** | ![Yugioh Card Library](thumbnails/yugioh.png)|
 
 [⏫ Back to TOC](#-project-directory)
 
@@ -472,12 +406,9 @@ Want more details about my work and background?
 | **Technologies Used** | ⚛️ React • Tailwind • JavaScript |
 | **Key Concepts**      | Component architecture, responsive design, deployment |
 | **Status**            | ✅ Complete |
-| **Course**            | 👤 Self-Project |
+| **Course / Self-Project**            | 👤 Self-Project |
 | **Repository**        | 🔗 [View Repo](https://github.com/bstearns07/react-portfolio) |
+| **Thumbnail Screenshot** | ![Portfolio](thumbnails/portfolio.png) |
 | **Live Demo**         | ▶️ [Visit Site](https://www.bstearns.com) |
-
-`Thumbnail Screenshot:`
-
-![Portfolio](thumbnails/portfolio.png)
 
 [⏫ Back to TOC](#-project-directory)
