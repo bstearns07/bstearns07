@@ -110,8 +110,10 @@ My **passion is programming**, and I’m working toward my goal of becoming a **
 ## 📁 Project Directory
 🔍 **Explore my projects in one place**
 
-![Project Directory Image](thumbnails/project_directory.png)
- 
 A centralized gateway to all repositories, organized for easy browsing.
 
-👉 [View Project Directory](https://github.com/bstearns07/bstearns07/blob/master/gateway.md)
+```Preview Image:```
+
+![Project Directory Image](thumbnails/Project_Directory.png)
+
+👉 [Go To Project Directory](https://github.com/bstearns07/bstearns07/blob/master/gateway.md)
