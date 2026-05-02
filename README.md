@@ -114,6 +114,6 @@ A centralized gateway to all repositories, organized for easy browsing.
 
 ```Preview Image:```
 
-![Project Directory Image](thumbnails/Project_Directory.png)
+![Project Directory Image](thumbnails/directory.png)
 
 👉 [Go To Project Directory](https://github.com/bstearns07/bstearns07/blob/master/gateway.md)
