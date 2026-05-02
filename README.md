@@ -38,6 +38,18 @@ I'm currently seeking opportunities to grow as a developer and contribute to mea
 - 👨🏻‍💻 Always building, learning, and open to new opportunities
 - 🧠 Open to **collaboration projects** – let’s connect
 
+### 🌐 Learn More About Me
+
+💡 **Want to learn more about my work, projects, and professional background?**
+
+> 📧 Resume: [View My Resume](docs/Resume_new/pdf)
+
+> 🌐 References: [View My References](docs/Referneces_BenStearns.pdf)
+
+Or check out my portfolio website below 👇:
+
+<a href="https://www.bstearns.com/"><img src="https://img.shields.io/badge/Portfolio-bstearns.com-0A66C2?style=for-the-badge" /></a>
+
 ---
 
 ## 🔧 Tech Experience
