@@ -99,9 +99,7 @@ My **passion is programming**, and I’m working toward my goal of becoming a **
 
 ## 📊 My Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bstearns07" />
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bstearns07" />
 
 ## 📈 Activity
 
@@ -110,12 +108,10 @@ My **passion is programming**, and I’m working toward my goal of becoming a **
 ---
 
 ## 📁 Project Directory
+🔍 **Explore my projects in one place**
 
-> 🔍 **Explore my projects in one place**
->
-> <p align="center">
-  <img src="thumbnails/project_directory.png" />
-  </p>
-> 
-> A centralized gateway to all repositories, organized for easy browsing.
-> 👉 [View Project Directory](https://github.com/bstearns07/bstearns07/blob/master/gateway.md)
+![Project Directory Image](thumbnails/project_directory.png)
+ 
+A centralized gateway to all repositories, organized for easy browsing.
+
+👉 [View Project Directory](https://github.com/bstearns07/bstearns07/blob/master/gateway.md)
