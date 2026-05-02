@@ -44,7 +44,7 @@ Want more details about my work and background?
 | ⭐ | 🚀 Project                                    | 💻 Primary Tech     | 🏷️ Category                        | 📂 Repository                                                       | 🌐 Live Demo                                                        |
 |----|------------------------------------------------|---------------------|-------------------------------------|----------------------------------------------------------------------|---------------------------------------------------------------------|
 | ⭐ | **[AchievementTracker](#achievementtracker)**  | 💜 C#/.NET          | 🎓 INFO1420 Intro to C#            | 🔗 [Repo](https://github.com/bstearns07/AchievementTracker-BDS)     | —                                                                   |
-| ⭐ | **[TuitionCalculator](#achievementtracker)**   | 💜 C#/ASP.NET       | 👤 Self-Project                    | 🔗 [Repo](https://github.com/bstearns07/TuitionCalculator_WebApp)   | —                                                                   |
+| ⭐ | **[TuitionCalculator](#tuitioncalculator)**   | 💜 C#/ASP.NET       | 👤 Self-Project                    | 🔗 [Repo](https://github.com/bstearns07/TuitionCalculator_WebApp)   | —                                                                   |
 | ⭐ | **[MathTutor](#mathtutor)**                    | ⚙️ C++              | 🎓 CSC150 Programming Fundamentals | 🔗 [Repo](https://github.com/bstearns07/MathTutor)                  | —                                                                   |
 |     | [CALC2000](#calc2000)                          | 🖥️ COBOL/JCL        | 🎓 CIS352 Enterprise Computing     | 🔗 [Repo](https://github.com/bstearns07/CALC2000)                   | —                                                                  |
 |     | [RPT2000](#rpt2000)                            | 🖥️ COBOL/JCL        | 🎓 CIS352 Enterprise Computing     | 🔗 [Repo](https://github.com/bstearns07/RPT2000)                    | —                                                                  |
@@ -68,421 +68,394 @@ Want more details about my work and background?
 
 # AchievementTracker
 
-`Short Summary:` Acts as a library to keep track of all your game's trophys as you play  
-`Technologies Used:`
-- C#
-- .NET (Windows Forms)
-  
-`Key Learning Concepts:` Windows Forms UI development, file handling for persistent data storage, object-oriented programming  
-`Project Status:` ✅ Complete  
-`Course / Self-Project:` INFO 1420 Introduction to Programming in C#  
+| 🧩 Detail            | 📌 Info                                                                                          |
+|----------------------|---------------------------------------------------------------------------------------------------|
+| **Summary**          | A Windows Form application that acts as a library to track game achievements/trophies as you play! |
+| **Technologies Used** | 💜 C# • .NET (Windows Forms)                                                                     |
+| **Key Concepts**      | OOP, File I/O, Windows Forms UI design, CRUD operations                                          |
+| **Status**            | ✅ Complete                                                                                     |
+| **Course**            | 🎓 INFO 1420 – Intro to Programming in C#                                                       |                          
+| **Repository**        | 🔗 [View Repo](https://github.com/bstearns07/AchievementTracker-BDS)                            |
+
 `Thumbnail Screenshot:`
 
 ![Achievement Tracker](thumbnails/achievement_tracker.png)
 
-```Repository Link:``` [🔗 View AchievementTracker Repository](https://github.com/bstearns07/AchievementTracker-BDS)
-
 [⏫ Back to TOC](#-project-directory)
 
-# TuitionCalculator
+## TuitionCalculator
 
-`Short Summary:` An interactive browser-based application designed to help users estimate the cost of going to college  
-`Technologies Used:`
-- C#
-- ASP.NET MVC Framework
-- Sql Server Relational Database + Entity Framework Data Access API
-  
-`Key Learning Concepts:` ASP.NET model-view-controller framework, Sql Server database integration, Entity Framework for database access,  CRUD database functions  
-`Project Status:` ✅ Complete  
-`Course / Self-Project:` Self-Project  
+| 🧩 Detail            | 📌 Info |
+|----------------------|--------|
+| **Summary**          | An interactive web application I made for a competition that estimates your cost of going to college |
+| **Technologies Used** | 💜 C# • ASP.NET MVC • SQL Server • Entity Framework |
+| **Key Concepts**      | MVC architecture, database integration, CRUD operations |
+| **Status**            | ✅ Complete |
+| **Course**            | 👤 Self-Project |
+| **Repository**        | 🔗 [View Repo](https://github.com/bstearns07/TuitionCalculator_WebApp) |
+
 `Thumbnail Screenshot:`
 
-![Achievement Tracker](thumbnails/tuition_calculator.png)
-
-```Repository Link:``` [🔗 View TuitionCalcultor Repository](https://github.com/bstearns07/TuitionCalculator_WebApp)
+![Tuition Calculator](thumbnails/tuition_calculator.png)
 
 [⏫ Back to TOC](#-project-directory)
 
-# MathTutor
+## MathTutor
 
-`Short Summary:` Creates a console-based math game that generates random math questions to answer and keeps track of your progress  
-`Technologies Used:`
-- C++
-- Various Code Libraries: iostream, cstdlib, ctime, iomanip, stdexcept, windows.h
-  
-`Key Learning Concepts:` Interactive console game development, persistent data storage, vectors, function prototypes, header files  
-`Project Status:` ✅ Complete  
-`Course / Self-Project:` CSC150 Programming Fundamentals  
+| 🧩 Detail            | 📌 Info |
+|----------------------|--------|
+| **Summary**          | A console-based math game that offers dynamically adjusting difficulty levels and the ability to save your game |
+| **Technologies Used** | ⚙️ C++ • STL • Standard Libraries |
+| **Key Concepts**      | Vectors, file handling, modular design with headers files, input validation |
+| **Status**            | ✅ Complete |
+| **Course**            | 🎓 CSC150 – Programming Fundamentals |
+| **Repository**        | 🔗 [View Repo](https://github.com/bstearns07/CALC2000) |
+
 `Thumbnail Screenshot:`
 
 ![Math Tutor](thumbnails/math.png)
 
-```Repository Link:``` [🔗 View MathTutor Repository](https://github.com/bstearns07/CALC2000)
-
 [⏫ Back to TOC](#-project-directory)
- 
-# CALC2000
 
-`Short Summary:` This program displays the future value of 3 different investments after 10 years using a fixed interest rate  
-`Technologies Used:`
-- COBOL 6.4
-- JCL (compile/link/go)
-- z/OS • VS Code + Zowe
-  
-`Key Learning Concepts:` Variables, arithmetic, loops, formatted output, MOVE/COMPUTE/UNTIL/PIC statements  
-`Project Status:` ✅ Complete  
-`Course / Self-Project:` CIS352 Intro to Enterprise Computing  
+## CALC2000
+
+| 🧩 Detail            | 📌 Info |
+|----------------------|--------|
+| **Summary**          | Calculates future value of 3 different investments after 10 years using a fixed interest rate |
+| **Technologies Used** | 🖥️ COBOL • JCL • z/OS |
+| **Key Concepts**      | Arithmetic operations, loops, formatted output |
+| **Status**            | ✅ Complete |
+| **Course**            | 🎓 CIS352 – Enterprise Computing |
+| **Repository**        | 🔗 [View Repo](https://github.com/bstearns07/CALC2000) |
+
 `Thumbnail Screenshot:`
 
 ![Calc 2000](thumbnails/calc2000.png)
 
-```Repository Link:``` [🔗 View CALC2000 Repository](https://github.com/bstearns07/CALC2000)
-
 [⏫ Back to TOC](#-project-directory)
 
-# RPT2000
+## RPT2000
 
-`Short Summary:` This program generates a sales report of customer vendors by reading data from another data member  
-`Technologies Used:`
-- COBOL 6.4
-- JCL (compile/link/go)
-- z/OS • VS Code + Zowe
-  
-`Key Learning Concepts:` Reading data from one member into another, data manipulation, data divisions, file divisions, print areas, switches  
-`Project Status:` ✅ Complete  
-`Course / Self-Project:` CIS352 Intro to Enterprise Computing  
+| 🧩 Detail            | 📌 Info |
+|----------------------|--------|
+| **Summary**          | Generates a sales report by reading vendor data from an external data member |
+| **Technologies Used** | 🖥️ COBOL 6.4 • JCL • z/OS |
+| **Key Concepts**      | File processing, data divisions, print formatting, control switches |
+| **Status**            | ✅ Complete |
+| **Course**            | 🎓 CIS352 – Intro to Enterprise Computing |
+| **Repository**        | 🔗 [View Repo](https://github.com/bstearns07/RPT2000) |
+
 `Thumbnail Screenshot:`
 
 ![RPT 2000](thumbnails/rpt2000.png)
 
-```Repository Link:``` [🔗 View RPT2000 Repository](https://github.com/bstearns07/RPT2000)
-
 [⏫ Back to TOC](#-project-directory)
 
-# RPT3000
+## RPT3000
 
-`Short Summary:` This program generates a sales report of customer vendors by reading data from another data member with non-repeating vendor and sales rep numbers  
-`Technologies Used:`
-- COBOL 6.4
-- JCL (compile/link/go)
-- z/OS • VS Code + Zowe
-  
-`Key Learning Concepts:` Reading data from one member into another, data manipulation, data divisions, file divisions, print areas, if/else logic, switches  
-`Project Status:` ✅ Complete  
-`Course / Self-Project:` CIS352 Intro to Enterprise Computing  
+| 🧩 Detail            | 📌 Info |
+|----------------------|--------|
+| **Summary**          | Builds on RPT2000 by generating reports with non-repeating vendor and sales rep groupings to clean things up |
+| **Technologies Used** | 🖥️ COBOL 6.4 • JCL • z/OS |
+| **Key Concepts**      | Data grouping, conditional logic, file handling, structured reporting |
+| **Status**            | ✅ Complete |
+| **Course**            | 🎓 CIS352 – Intro to Enterprise Computing |
+| **Repository**        | 🔗 [View Repo](https://github.com/bstearns07/RPT3000) |
+
 `Thumbnail Screenshot:`
 
 ![RPT 3000](thumbnails/rpt3000.png)
 
-```Repository Link:``` [🔗 View RPT3000 Repository](https://github.com/bstearns07/RPT3000)
-
 [⏫ Back to TOC](#-project-directory)
 
-# RPT5000
+## RPT5000
 
-`Short Summary:` This program generates a sales report of customer vendors by reading data from another data member with non-repeating vendor and sales rep numbers featuring more COBOL features to streamline code  
-`Technologies Used:`
-- COBOL 6.4
-- JCL (compile/link/go)
-- z/OS • VS Code + Zowe
-  
-`Key Learning Concepts:` Conditional switches, WITH TEST AFTER, EVALUTE TRUE, SET statements  
-`Project Status:` ✅ Complete  
-`Course / Self-Project:` CIS352 Intro to Enterprise Computing  
+| 🧩 Detail            | 📌 Info |
+|----------------------|--------|
+| **Summary**          | Enhances RTP3000 using some of the more advanced and fancy COBOL coding features for cleaner and more efficient logic |
+| **Technologies Used** | 🖥️ COBOL 6.4 • JCL • z/OS |
+| **Key Concepts**      | EVALUATE TRUE, WITH TEST AFTER loops, SET statements |
+| **Status**            | ✅ Complete |
+| **Course**            | 🎓 CIS352 – Intro to Enterprise Computing |
+| **Repository**        | 🔗 [View Repo](https://github.com/bstearns07/RPT5000) |
+
 `Thumbnail Screenshot:`
 
 ![RPT 5000](thumbnails/rpt5000.png)
 
-```Repository Link:``` [🔗 View RPT5000 Repository](https://github.com/bstearns07/RPT5000)
-
 [⏫ Back to TOC](#-project-directory)
 
-# RPT6000
+## RPT6000
 
-`Short Summary:` This program generates a sales report of customer vendors by reading data from another data member and looks up names from data from another member  
-`Technologies Used:`
-- COBOL 6.4
-- JCL (compile/link/go)
-- z/OS • VS Code + Zowe
-  
-`Key Learning Concepts:` Table data structures for data lookup with INITIALIZE, REDEFNINE, PACKED-DECIMAL statements  
-`Project Status:` ✅ Complete  
-`Course / Self-Project:` CIS352 Intro to Enterprise Computing  
+| 🧩 Detail            | 📌 Info |
+|----------------------|--------|
+| **Summary**          | The final version of the report series that adds table structures to look up a salerep's name |
+| **Technologies Used** | 🖥️ COBOL 6.4 • JCL • z/OS |
+| **Key Concepts**      | Table handling, data lookup, INITIALIZE, REDEFINES, packed decimal usage |
+| **Status**            | ✅ Complete |
+| **Course**            | 🎓 CIS352 – Intro to Enterprise Computing |
+| **Repository**        | 🔗 [View Repo](https://github.com/bstearns07/RPT6000) |
+
 `Thumbnail Screenshot:`
 
 ![RPT 6000](thumbnails/rpt6000.png)
 
-```Repository Link:``` [🔗 View RPT6000 Repository](https://github.com/bstearns07/RPT6000)
-
 [⏫ Back to TOC](#-project-directory)
 
-# SEQ3000
+## SEQ3000
 
-`Short Summary:` Performs create/read/update/delete operations on a master data file based on information from both a sequential and index file  
-`Technologies Used:`
-- COBOL 6.4
-- JCL (compile/link/go)
-- z/OS • VS Code + Zowe
-  
-`Key Learning Concepts:` Creating/reading index files, writing to error log files, FILE-STATUS/HIGH-VALUE/LOW-VALUE statements  
-`Project Status:` ✅ Complete  
-`Course / Self-Project:` CIS352 Intro to Enterprise Computing  
+| 🧩 Detail            | 📌 Info |
+|----------------------|--------|
+| **Summary**          | This COBOL program performs CRUD operations on a master data member file using sequential and indexed files |
+| **Technologies Used** | 🖥️ COBOL • JCL • z/OS |
+| **Key Concepts**      | Indexed files, file status handling, error logging |
+| **Status**            | ✅ Complete |
+| **Course**            | 🎓 CIS352 – Enterprise Computing |
+| **Repository**        | 🔗 [View Repo](https://github.com/bstearns07/SEQ3000) |
+
 `Thumbnail Screenshot:`
 
 ![SEQ 3000](thumbnails/seq3000.png)
-
-```Repository Link:``` [🔗 View SEQ3000 Repository](https://github.com/bstearns07/SEQ3000)
 
 [⏫ Back to TOC](#-project-directory)
 
 # UTIL2000
 
-`Short Summary:` Calculates an electric bill based off of fixed data in a 3-tiered format  
-`Technologies Used:`
-- COBOL 6.4
-- JCL (compile/link/go)
-- z/OS • VS Code + Zowe
-  
-`Key Learning Concepts:` Developing within a mainframe environment with ISPF, loops, DISPLAY/MOVE/COMPUTE/UNTIL statements  
-`Project Status:` ✅ Complete  
-`Course / Self-Project:` CIS352 Intro to Enterprise Computing  
+| 🧩 Detail            | 📌 Info                                                                                          |
+|----------------------|---------------------------------------------------------------------------------------------------|
+| **Summary**          | Creates a report that calculates an electric bill using a structured 3-tier pricing format        |
+| **Technologies Used** | 🖥️ COBOL 6.4 • JCL • z/OS • VS Code + Zowe                                                       |
+| **Key Concepts**      | Mainframe development (ISPF), loops, DISPLAY/MOVE/COMPUTE/UNTIL statements                       |
+| **Status**            | ✅ Complete                                                                                       |
+| **Course**            | 🎓 CIS352 – Intro to Enterprise Computing                                                        |
+| **Repository**        | 🔗 [View Repo](https://github.com/bstearns07/UTIL2000)                                            |
+
 `Thumbnail Screenshot:`
 
 ![UTIL 2000](thumbnails/util2000.png)
 
-```Repository Link:``` [🔗 View UTIL2000 Repository](https://github.com/bstearns07/UTIL2000)
-
 [⏫ Back to TOC](#-project-directory)
+
+---
 
 # YoungVottaBeta
 
-`Short Summary:` Acts as my first version on the YoungVotta.com website built entirely with HTML/CSS/JavaScript only  
-`Technologies Used:`
-- HTML5 (Semantic Markup)
-- CSS3 (Layout & Styling)
-- JavaScript
-  
-`Key Learning Concepts:` HTML and CSS syntax, minor javascript for menus, responsive web design  
-`Project Status:` ✅ Complete  
-`Course / Self-Project:` INFO 1725 HTML/CSS/JavaScript  
+| 🧩 Detail            | 📌 Info                                                                                          |
+|----------------------|---------------------------------------------------------------------------------------------------|
+| **Summary**          | This is my first version of the YoungVotta website built using only HTML, CSS, and JavaScript. My goal is to redesign this site using a larger framework |
+| **Technologies Used** | 🎨 HTML5 • CSS3 • JavaScript                                                                     |
+| **Key Concepts**      | Semantic HTML, CSS layout/styling, responsive design, basic JavaScript interactivity             |
+| **Status**            | ✅ Complete                                                                                       |
+| **Course**            | 🎓 INFO 1725 – HTML/CSS/JavaScript                                                               |
+| **Repository**        | 🔗 [View Repo](https://github.com/bstearns07/YoungVotta.com-Beta)                                |
+
 `Thumbnail Screenshot:`
 
 ![Young Votta Beta](thumbnails/youngvottabeta.png)
 
-```Repository Link:``` [🔗 View Young Votta Beta Repository](https://github.com/bstearns07/YoungVotta.com-Beta)
-
 [⏫ Back to TOC](#-project-directory)
+
+---
 
 # WeatherAPI
 
-`Short Summary:` A JavaFX application that uses the Open Meteo Weather API to look up the weather information based on geographic coordinates  
-`Technologies Used:`
-- Java
-- JavaFX + Scene Builder for UI design
-- Open Meto REST API
-  
-`Key Learning Concepts:` JavaFX interface design, REST API integration, JSON parsing  
-`Project Status:` ✅ Complete  
-`Course / Self-Project:` INFO 2550 Programming in Java  
+| 🧩 Detail            | 📌 Info                                                                                          |
+|----------------------|---------------------------------------------------------------------------------------------------|
+| **Summary**          | A fun JavaFX app that retrieves and displays weather data using the Open Meteo API base on latitude and longitude |
+| **Technologies Used** | ☕ Java • JavaFX • Scene Builder • REST API                                                       |
+| **Key Concepts**      | JavaFX UI design, REST API integration, JSON parsing                                             |
+| **Status**            | ✅ Complete                                                                                       |
+| **Course**            | 🎓 INFO 2550 – Programming in Java                                                               |
+| **Repository**        | 🔗 [View Repo](https://github.com/bstearns07/WeatherAPIApp)                                      |
+
 `Thumbnail Screenshot:`
 
 ![Weather API](thumbnails/weather_api.png)
 
-```Repository Link:``` [🔗 View WeatherAPI Repository](https://github.com/bstearns07/WeatherAPIApp)
-
 [⏫ Back to TOC](#-project-directory)
 
-# CheckoutReceipt
+## CheckoutReceipt
 
-`Short Summary:` Calculates the total of a grocery item based on price/quanity and other information from an html form  
-`Technologies Used:`
-- HTML5 (Semantic Markup)
-- CSS3 (Layout & Styling)
-- Vanilla JavaScript (ES6+)
-  
-`Key Learning Concepts:` Getting DOM element values, data validation, variables, arithmetic, document.addEventListener()  
-`Project Status:` ✅ Complete  
-`Course / Self-Project:` CSC 465 Advanced Web Development  
+| 🧩 Detail            | 📌 Info |
+|----------------------|--------|
+| **Summary**          | Acts as a calculator to figure the total of your grocery item bill based on price and quantity |
+| **Technologies Used** | ⚡ JavaScript • HTML • CSS |
+| **Key Concepts**      | DOM manipulation, validation, event handling |
+| **Status**            | ✅ Complete |
+| **Course**            | 🌐 CSC 465 – Advanced Web Development |
+| **Repository**        | 🔗 [View Repo](https://github.com/bstearns07/Checkout-Receipt) |
+| **Live Demo**         | ▶️ [Launch App](https://bstearns07.github.io/Checkout-Receipt/) |
+
 `Thumbnail Screenshot:`
 
 ![Checkout Receipt](thumbnails/simple_checkout.png)
 
-```Repository Link:``` [🔗 View Checkout Receipt Repository](https://github.com/bstearns07/Checkout-Receipt)  
-```Launch App``` ▶️ [Open Checkout App](https://bstearns07.github.io/Checkout-Receipt/)  
-
 [⏫ Back to TOC](#-project-directory)
 
-# DictionaryAPI
+## DictionaryAPI
 
-`Short Summary:` Looks up the dictionary information of a word input by the user  
-`Technologies Used:`
-- HTML5 (Semantic Markup) + Tailwind (Layout & Styling)
-- Vanilla JavaScript (ES6+)
-- Custom-made Node Express API + [Free Dictionary API](https://dictionaryapi.dev/?ref=freepublicapis.com)
-  
-`Key Learning Concepts:` API calls and data parsing, Node Express APIs, find()/fetch() methods, asynchronous programming (async/await), Audio objects  
-`Project Status:` ✅ Complete  
-`Course / Self-Project:` CSC 465 Advanced Web Development  
+| Detail            | 📌 Info |
+|----------------------|--------|
+| **Summary**          | Fetches and displays a myriad of dictionary information from an external API based on the word you type |
+| **Technologies Used** | ⚡ JavaScript • Node.js • Express • Tailwind |
+| **Key Concepts**      | API integration, async/await, JSON parsing |
+| **Status**            | ✅ Complete |
+| **Course**            | 🌐 CSC 465 – Advanced Web Development |
+| **Repository**        | 🔗 [View Repo](https://github.com/bstearns07/DictionaryAPI) |
+| **Live Demo**         | ▶️ [Launch App](https://dictionaryapi-5dly.onrender.com) |
+
 `Thumbnail Screenshot:`
 
 ![Dictionary API](thumbnails/dictionary_api.png)
-
-```Repository Link:``` [🔗 View DictionaryAPI Repository](https://github.com/bstearns07/DictionaryAPI)  
-```Launch App``` ▶️ [Open Dictionary App](https://dictionaryapi-5dly.onrender.com)
 
 [⏫ Back to TOC](#-project-directory)
 
 # Flashcards
 
-`Short Summary:` Creates a game where you create your own flashcards and quiz yourself with them  
-`Technologies Used:`
-- HTML5 (Semantic Markup) + Tailwind (Layout & Styling)
-- Vanilla JavaScript (ES6+)
-  
-`Key Learning Concepts:` Arrays, Switch statements, custom functions, DOM manipulation  
-`Project Status:` ✅ Complete  
-`Course / Self-Project:` CSC 465 Advanced Web Development  
+| 🧩 Detail            | 📌 Info                                                                                          |
+|----------------------|---------------------------------------------------------------------------------------------------|
+| **Summary**          | An interactive flashcard game where users create and quiz themselves on custom cards                |
+| **Technologies Used** | 🎨 HTML5 • Tailwind CSS • ⚡ JavaScript (ES6+)                                                    |
+| **Key Concepts**      | Arrays, switch statements, custom functions, DOM manipulation                                    |
+| **Status**            | ✅ Complete                                                                                       |
+| **Course**            | 🌐 CSC 465 – Advanced Web Development                                                            |
+| **Repository**        | 🔗 [View Repo](https://github.com/bstearns07/Flashcards)                                         |
+| **Live Demo**         | ▶️ [Open App](https://bstearns07.github.io/Flashcards/)                                           |
+
 `Thumbnail Screenshot:`
 
-![flashcards](thumbnails/flashcards.png)
-
-```Repository Link:``` [🔗 View Flashcards Repository](https://github.com/bstearns07/Flashcards)  
-```Launch App``` ▶️ [Open Flashcards App](https://bstearns07.github.io/Flashcards/)
+![Flashcards](thumbnails/flashcards.png)
 
 [⏫ Back to TOC](#-project-directory)
 
+---
+
 # HotColdGame
 
-`Short Summary:` A number-guessing game that tells you if you're hot or cold  
-`Technologies Used:`
-- HTML5 (Semantic Markup)
-- Tailwind (Layout & Styling)
-- Vanilla JavaScript (ES6+)
-  
-`Key Learning Concepts:` Random number generation, DOM CSS manipulation, "keydown" events, add/removeEventListener(), math.Abs() methods, switch(true) statements  
-`Project Status:` ✅ Complete  
-`Course / Self-Project:` CSC 465 Advanced Web Development  
+| 🧩 Detail            | 📌 Info                                                                                          |
+|----------------------|---------------------------------------------------------------------------------------------------|
+| **Summary**          | A number guessing game that gives feedback on whether you're "hot" or "cold" depending on how close you are |
+| **Technologies Used** | 🎨 HTML5 • Tailwind CSS • ⚡ JavaScript (ES6+)                                                    |
+| **Key Concepts**      | Random number generation, DOM styling, keydown events, event listeners, conditional logic        |
+| **Status**            | ✅ Complete                                                                                       |
+| **Course**            | 🌐 CSC 465 – Advanced Web Development                                                            |
+| **Repository**        | 🔗 [View Repo](https://github.com/bstearns07/HotColdGame)                                        |
+| **Live Demo**         | ▶️ [Open App](https://bstearns07.github.io/HotColdGame/)                                          |
+
 `Thumbnail Screenshot:`
 
 ![Hot Cold Game](thumbnails/hot_cold_game.png)
 
-```Repository Link:``` [🔗 View HotColdGame Repository](https://github.com/bstearns07/HotColdGame)  
-```Launch App```  ▶️ [Open HotCold App](https://bstearns07.github.io/HotColdGame/)  
-
 [⏫ Back to TOC](#-project-directory)
+
+---
 
 # MovieTracker
 
-`Short Summary:` Maintains a personal list of movies in web storage so your list isn't lost if the browser closes  
-`Technologies Used:`
-- HTML5 (Semantic Markup)
-- CSS3 (Layout & Styling)
-- Vanilla JavaScript (ES6+)
-  
-`Key Learning Concepts:` Class data structures, creating/importing modules, "import map" scripts, reading data in/out of web storage  
-`Project Status:` ✅ Complete  
-`Course / Self-Project:` CSC 465 Advanced Web Development  
+| 🧩 Detail            | 📌 Info                                                                                          |
+|----------------------|---------------------------------------------------------------------------------------------------|
+| **Summary**          | A web app that stores and manages a personal list of movies using browser storage so you don't lose your list in your tab closes |
+| **Technologies Used** | 🎨 HTML5 • CSS3 • ⚡ JavaScript (ES6+)                                                           |
+| **Key Concepts**      | Classes, modules, import maps, local storage persistence                                         |
+| **Status**            | ✅ Complete                                                                                       |
+| **Course**            | 🌐 CSC 465 – Advanced Web Development                                                            |
+| **Repository**        | 🔗 [View Repo](https://github.com/bstearns07/MovieTracker)                                       |
+| **Live Demo**         | ▶️ [Open App](https://bstearns07.github.io/MovieTracker/)                                         |
+
 `Thumbnail Screenshot:`
 
 ![Movie Tracker](thumbnails/movie_tracker.png)
 
-```Repository Link:``` [🔗 View MovieTracker Repository](https://github.com/bstearns07/MovieTracker)  
-```Launch App``` ▶️ [Open Movie Tracker](https://bstearns07.github.io/MovieTracker/)
-
 [⏫ Back to TOC](#-project-directory)
+
+---
 
 # RetirementProjector
 
-`Short Summary:` Displays the growth of your retirement investment using a timer  
-`Technologies Used:`
-- HTML5 (Semantic Markup)
-- CSS3 (Layout & Styling)
-- Vanilla JavaScript (ES6+)
-  
-`Key Learning Concepts:` Time/Date manipulation, validation through html and custom methods, setInterval() for timer functions, regex patterns, local data storage  
-`Project Status:` ✅ Complete  
-`Course / Self-Project:` CSC 465 Advanced Web Development  
+| 🧩 Detail            | 📌 Info                                                                                          |
+|----------------------|---------------------------------------------------------------------------------------------------|
+| **Summary**          | Displays the growth of your retirement investment over time using a live updating timer           |
+| **Technologies Used** | 🎨 HTML5 • CSS3 • ⚡ JavaScript (ES6+)                                                           |
+| **Key Concepts**      | Time/date logic, validation, setInterval(), regex, local storage                                 |
+| **Status**            | ✅ Complete                                                                                       |
+| **Course**            | 🌐 CSC 465 – Advanced Web Development                                                            |
+| **Repository**        | 🔗 [View Repo](https://github.com/bstearns07/RetirementProjector)                                |
+| **Live Demo**         | ▶️ [Open App](https://bstearns07.github.io/RetirementProjector/)                                  |
+
 `Thumbnail Screenshot:`
 
 ![Retirement Projector](thumbnails/retirement_projector.png)
- 
-```Repository Link:``` [🔗 View RetirementProjector Repository](https://github.com/bstearns07/RetirementProjector)  
-```Launch App``` ▶️ [Open Retirement App](https://bstearns07.github.io/RetirementProjector/)  
 
 [⏫ Back to TOC](#-project-directory)
 
+---
+
 # SmartwatchFAQ
 
-`Short Summary:` Displays the answers to frequently-asked questions about smartwatches using image swapping and toggling hidden elements on/off  
-`Technologies Used:`
-- HTML5 (Semantic Markup)
-- Tailwind (Layout & Styling)
-- Vanilla JavaScript (ES6+)
-  
-`Key Learning Concepts:` DOM manipulation through element.attributeName/ getAttribute()/ setAttribute()/ classList.toggle()/ classList.remove()/ nextSibling statements  
-`Project Status:` ✅ Complete  
-`Course / Self-Project:` CSC 465 Advanced Web Development  
+| 🧩 Detail            | 📌 Info                                                                                          |
+|----------------------|---------------------------------------------------------------------------------------------------|
+| **Summary**          | An interactive FAQ app that uses dynamic content toggling and image swapping                      |
+| **Technologies Used** | 🎨 HTML5 • Tailwind CSS • ⚡ JavaScript (ES6+)                                                    |
+| **Key Concepts**      | DOM manipulation, attribute handling, class toggling, event-driven UI                            |
+| **Status**            | ✅ Complete                                                                                       |
+| **Course**            | 🌐 CSC 465 – Advanced Web Development                                                            |
+| **Repository**        | 🔗 [View Repo](https://github.com/bstearns07/SmartwatchFAQ)                                      |
+| **Live Demo**         | ▶️ [Open App](https://bstearns07.github.io/SmartwatchFAQ/)                                        |
+
 `Thumbnail Screenshot:`
 
 ![Smartwatch FAQ](thumbnails/smartwatch_faq.png)
 
-```Repository Link:``` [🔗 View SmartwatchFAQ Repository](https://github.com/bstearns07/SmartwatchFAQ)  
-```Launch App``` ▶️ [Open Smartwatch App](https://bstearns07.github.io/SmartwatchFAQ/) 
-
 [⏫ Back to TOC](#-project-directory)
 
-# StockTicker
+## StockTicker
 
-`Short Summary:` A console application that looks up stock information by ticker symbol and displays in output and and MatPlotLib graph.  
-`Technologies Used:`
-- Python
-- yFinance API and Pandas (via yFinance) libraries
-- Matplotlib library
-  
-`Key Learning Concepts:` API data retrieval, Data manipulation with Pandas, Data visualization with Matplotlib, Input validation and error handling  
-`Project Status:` ✅ Complete  
-`Course / Self-Project:` CSC 365 Scripting Languages  
+| 🧩 Detail            | 📌 Info |
+|----------------------|--------|
+| **Summary**          | A console application retrieves stock data of any desired ticker symbols and visualizes their closing prices using charts |
+| **Technologies Used** | 🐍 Python • yFinance • Pandas • Matplotlib |
+| **Key Concepts**      | Data analysis, API usage, visualization |
+| **Status**            | ✅ Complete |
+| **Course**            | 📜 CSC 365 – Scripting Languages |
+| **Repository**        | 🔗 [View Repo](https://github.com/bstearns07/StockTicker) |
+
 `Thumbnail Screenshot:`
 
 ![Stock Ticker](thumbnails/stock_ticker.png)
 
-```Repository Link:``` [🔗 View AchievementTracker Repository](https://github.com/bstearns07/AchievementTracker-BDS)
+[⏫ Back to TOC](#-project-directory)
 
-# YugiohCardLibrary
+## YugiohCardLibrary
 
-`Short Summary:` Acts as a library for digitally storing your Yugioh card collection. Feature Tesseract OCR to scan your cards in  
-`Technologies Used:`
-- Python Flask Framework
-- HTML5 + CSS
-- Supabase Postgress (PostgreSQL) + Tesseract OCR engine
-  
-`Key Learning Concepts:` Flask web app development, Tesseract OCR data extraction, Supabase open-source database management, RESTful routing, Session-based caching  
-`Project Status:` ✅ Complete   
-`Course / Self-Project:` CSC 365 Scripting Languages
+| 🧩 Detail            | 📌 Info |
+|----------------------|--------|
+| **Summary**          | A super-intuitive web app for managing a digital Yugioh card collection featuring OCR scanning of image files using Tesseract OCR|
+| **Technologies Used** | 🐍 Python • Flask • Supabase • Tesseract OCR |
+| **Key Concepts**      | OCR processing, REST routing, database integration |
+| **Status**            | ✅ Complete |
+| **Course**            | 📜 CSC 365 – Scripting Languages |
+| **Repository**        | 🔗 [View Repo](https://github.com/bstearns07/YugiohCardLibrary_With_OCR) |
+
 `Thumbnail Screenshot:`
 
 ![Yugioh Card Library](thumbnails/yugioh.png)
 
-```Repository Link:``` [🔗 View StockTicker Repository](https://github.com/bstearns07/StockTicker)
-
 [⏫ Back to TOC](#-project-directory)
 
-# ReactPortfolio
+## ReactPortfolio
 
-`Short Summary:` This app serves as my personal portfio website where you can learn more about my projects, professional background, and contact information   
-`Technologies Used:`
-- HTML5 (Semantic Markup)
-- Tailwind (Layout & Styling)
-- Vanilla JavaScript (ES6+) + React Framework
-  
-`Key Learning Concepts:` React application structure, Tailwind CSS, AWS web hosting  
-`Project Status:` ✅ Complete  
-`Course / Self-Project:` Self-Project  
+| 🧩 Detail            | 📌 Info |
+|----------------------|--------|
+| **Summary**          | My personal portfolio website showcasing my projects and experience |
+| **Technologies Used** | ⚛️ React • Tailwind • JavaScript |
+| **Key Concepts**      | Component architecture, responsive design, deployment |
+| **Status**            | ✅ Complete |
+| **Course**            | 👤 Self-Project |
+| **Repository**        | 🔗 [View Repo](https://github.com/bstearns07/react-portfolio) |
+| **Live Demo**         | ▶️ [Visit Site](https://www.bstearns.com) |
+
 `Thumbnail Screenshot:`
 
-![portfolio](thumbnails/portfolio.png)
-
-```Repository Link:``` [🔗 View My React Portfolio Repository](https://github.com/bstearns07/react-portfolio)  
-```Launch App``` ▶️ [Open Portfolio App](https://www.bstearns.com)   
+![Portfolio](thumbnails/portfolio.png)
 
 [⏫ Back to TOC](#-project-directory)
