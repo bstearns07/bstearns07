@@ -65,7 +65,7 @@ Want more details about my work and background?
 | ⭐ | **[PongGame](#ponggame)**                       | 🐍 Python           | 👤 Self-Project                   | 🔗 [Repo](https://github.com/bstearns07/YugiohCardLibrary_With_OCR) | —                                                                    |
 |     | [StockTicker](#stockticker)                    | 🐍 Python           | 📜 CSC 365 Scripting Languages     | 🔗 [Repo](https://github.com/bstearns07/StockTicker)                | —                                                                   |
 | ⭐ | **[YugiohCardLibraryOCR](#yugiohcardlibrary)** | 🐍 Python           | 📜 CSC 365 Scripting Languages     | 🔗 [Repo](https://github.com/bstearns07/YugiohCardLibrary_With_OCR) | —                                                                    |
-| ⭐ | **[ReactPortfolio](#reactportfolio)**          | ⚛️ React            | 👤 Self-Project                    | 🔗 [Repo](https://github.com/bstearns07/react-portfolio)            | ▶️ [Launch App](https://www.bstearns.com)                          ,|
+| ⭐ | **[ReactPortfolio](#reactportfolio)**          | ⚛️ React            | 👤 Self-Project                    | 🔗 [Repo](https://github.com/bstearns07/react-portfolio)            | ▶️ [Launch App](https://www.bstearns.com)                           |
 
 # AchievementTracker
 
