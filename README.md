@@ -4,25 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?lines=Aspiring+Software+Developer;Full+Stack+Development;Always+Learning&center=true&width=500&height=45" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-blue?style=flat-square&logo=dotnet" />
-
-  <img src="https://img.shields.io/badge/Tech-.NET%20%7C%20JavaScript%20%7C%20SQL-purple?style=flat-square&logo=visualstudio" />
-
-  <img src="https://img.shields.io/badge/Student-Wayne%20State%20College-green?style=flat-square&logo=academia" />
-
-  <a href="mailto:bstearns07@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail" />
-  </a>
-
-  <a href="https://www.bstearns.com">
-    <img src="https://img.shields.io/badge/Website-Portfolio-black?style=flat-square&logo=google-chrome" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/ben-stearns-474261283/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" />
-  </a>
-</p>
+<p align="center"><img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-blue?style=for-the-badge&logo=dotnet" /><img src="https://img.shields.io/badge/Tech-.NET%20%7C%20JavaScript%20%7C%20SQL-purple?style=for-the-badge&logo=visualstudio" /><img src="https://img.shields.io/badge/Student-Wayne%20State%20College-green?style=for-the-badge&logo=academia" /><a href="mailto:bstearns07@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" /></a><a href="https://www.bstearns.com"><img src="https://img.shields.io/badge/Website-Portfolio-black?style=for-the-badge&logo=google-chrome" /></a><a href="https://www.linkedin.com/in/ben-stearns-474261283/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a></p>
 
 <p align="center">
   <img src="thumbnails/profile_image.jpg" />
@@ -33,7 +15,7 @@
 ## 📚 Table of Contents
 
 - 🚀 [About Me](#-about-me)
-- 🛠 [Tech Stack](#-tech-stack)
+- 🔧 [Tech Experience](#-tech-experience)
 - 📬 [Connect With Me](#-connect-with-me)
 - 🧠 [Skills & Interests](#-skills--interests)
 - 🎓 [Education](#-education)
@@ -58,7 +40,7 @@ I'm currently seeking opportunities to grow as a developer and contribute to mea
 
 ---
 
-## 🛠 Tech Experience
+## 🔧 Tech Experience
 
 **Languages**
 `C#` `C++` `Java` `Python` `JavaScript` `Typescript` `COBOL`
@@ -118,7 +100,6 @@ My **passion is programming**, and I’m working toward my goal of becoming a **
 ## 📊 My Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bstearns07&show_icons=true&theme=default" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bstearns07" />
 </p>
 
@@ -131,6 +112,10 @@ My **passion is programming**, and I’m working toward my goal of becoming a **
 ## 📁 Project Directory
 
 > 🔍 **Explore my projects in one place**
+>
+> <p align="center">
+  <img src="thumbnails/project_directory.png" />
+  </p>
 > 
 > A centralized gateway to all repositories, organized for easy browsing.
 > 👉 [View Project Directory](https://github.com/bstearns07/bstearns07/blob/master/gateway.md)
