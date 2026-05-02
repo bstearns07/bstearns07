@@ -46,13 +46,13 @@ I'm currently seeking opportunities to grow as a developer and contribute to mea
 `C#` `C++` `Java` `Python` `JavaScript` `Typescript` `COBOL`
 
 **Web & Frameworks**
-`HTML` `CSS` `ASP.NET` `.NET` `Node.js` `Flask` `Tailwind`
+`HTML` `CSS` `.NET` `ASP.NET` `Node.js` `Flask` `React` `Tailwind/Bootstrap CSS`
 
 **Database**
-`SQL` `Entity Framework`
+`SQL` `Entity Framework` `Suapabase`
 
 **Other**
-`GitHub` `Networking` `Hardware` `Computer Science`
+`GitHub` `Networking` `Hardware` `Computer Science` `Responsive Design` `Unit Testing` `Full Stack Development`
 
 ## 📬 Connect With Me
 
