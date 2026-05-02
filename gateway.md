@@ -109,7 +109,7 @@ Want more details about my work and background?
 | **Key Concepts**      | Vectors, file handling, modular design with headers files, input validation |
 | **Status**            | ✅ Complete |
 | **Course**            | 🎓 CSC150 – Programming Fundamentals |
-| **Repository**        | 🔗 [View Repo](https://github.com/bstearns07/CALC2000) |
+| **Repository**        | 🔗 [View Repo](https://github.com/bstearns07/MathTutor) |
 
 `Thumbnail Screenshot:`
 
