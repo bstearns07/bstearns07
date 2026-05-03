@@ -42,9 +42,9 @@ I'm currently seeking opportunities to grow as a developer and contribute to mea
 
 💡 **Want to learn more about my work, projects, and professional background?**
 
-> 📧 Resume: [View My Resume](docs/Resume_new/pdf)
-
-> 🌐 References: [View My References](docs/Referneces_BenStearns.pdf)
+> 📘 Resume: [View My Resume](docs/Resume_new.pdf)
+> 
+> 📝 References: [View My References](docs/References_BenStearns.pdf)
 
 Or check out my portfolio website below 👇:
 
