@@ -80,6 +80,8 @@ Or check out my full GitHub profile and portfolio website below 👇:
 
 [⏫ Back to TOC](#-project-directory)
 
+---
+
 ## TuitionCalculator
 
 | 🧩 Detail            | 📌 Info |
@@ -93,6 +95,8 @@ Or check out my full GitHub profile and portfolio website below 👇:
 | **Thumbnail Screenshot** | ![Tuition Calculator](thumbnails/tuition_calculator.png) |
 
 [⏫ Back to TOC](#-project-directory)
+
+---
 
 ## MathTutor
 
@@ -108,6 +112,8 @@ Or check out my full GitHub profile and portfolio website below 👇:
 
 [⏫ Back to TOC](#-project-directory)
 
+---
+
 ## CALC2000
 
 | 🧩 Detail            | 📌 Info |
@@ -121,6 +127,8 @@ Or check out my full GitHub profile and portfolio website below 👇:
 | **Thumbnail Screenshot** | ![Calc 2000](thumbnails/calc2000.png) |
 
 [⏫ Back to TOC](#-project-directory)
+
+---
 
 ## RPT2000
 
@@ -136,6 +144,8 @@ Or check out my full GitHub profile and portfolio website below 👇:
 
 [⏫ Back to TOC](#-project-directory)
 
+---
+
 ## RPT3000
 
 | 🧩 Detail            | 📌 Info |
@@ -149,6 +159,8 @@ Or check out my full GitHub profile and portfolio website below 👇:
 | **Thumbnail Screenshot** | ![RPT 3000](thumbnails/rpt3000.png) |
 
 [⏫ Back to TOC](#-project-directory)
+
+---
 
 ## RPT5000
 
@@ -164,6 +176,8 @@ Or check out my full GitHub profile and portfolio website below 👇:
 
 [⏫ Back to TOC](#-project-directory)
 
+---
+
 ## RPT6000
 
 | 🧩 Detail            | 📌 Info |
@@ -178,6 +192,8 @@ Or check out my full GitHub profile and portfolio website below 👇:
 
 [⏫ Back to TOC](#-project-directory)
 
+---
+
 ## SEQ3000
 
 | 🧩 Detail            | 📌 Info |
@@ -191,6 +207,8 @@ Or check out my full GitHub profile and portfolio website below 👇:
 | **Thumbnail Screenshot** | ![SEQ 3000](thumbnails/seq3000.png) |
 
 [⏫ Back to TOC](#-project-directory)
+
+---
 
 # UTIL2000
 
@@ -238,6 +256,8 @@ Or check out my full GitHub profile and portfolio website below 👇:
 
 [⏫ Back to TOC](#-project-directory)
 
+---
+
 ## CheckoutReceipt
 
 | 🧩 Detail            | 📌 Info |
@@ -253,6 +273,8 @@ Or check out my full GitHub profile and portfolio website below 👇:
 
 [⏫ Back to TOC](#-project-directory)
 
+---
+
 ## DictionaryAPI
 
 | Detail            | 📌 Info |
@@ -267,6 +289,8 @@ Or check out my full GitHub profile and portfolio website below 👇:
 | **Live Demo**         | ▶️ [Launch App](https://dictionaryapi-5dly.onrender.com) |
 
 [⏫ Back to TOC](#-project-directory)
+
+---
 
 # Flashcards
 
@@ -367,6 +391,8 @@ Or check out my full GitHub profile and portfolio website below 👇:
 
 [⏫ Back to TOC](#-project-directory)
 
+---
+
 ## StockTicker
 
 | 🧩 Detail            | 📌 Info |
@@ -381,6 +407,8 @@ Or check out my full GitHub profile and portfolio website below 👇:
 
 [⏫ Back to TOC](#-project-directory)
 
+---
+
 ## YugiohCardLibraryWithOCR
 
 | 🧩 Detail            | 📌 Info |
@@ -394,6 +422,8 @@ Or check out my full GitHub profile and portfolio website below 👇:
 | **Thumbnail Screenshot** | ![Yugioh Card Library](thumbnails/yugioh.png)|
 
 [⏫ Back to TOC](#-project-directory)
+
+---
 
 ## ReactPortfolio
 
