@@ -353,8 +353,6 @@ Or check out my full GitHub profile and portfolio website below 👇:
 
 ---
 
-# 📊 **Portfolio Table Entry (Your Format)**
-
 # PongGame
 
 | 🧩 Detail            | 📌 Info                                                                                          |
