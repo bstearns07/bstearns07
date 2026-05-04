@@ -15,8 +15,9 @@
 ## 📚 Table of Contents
 
 - 🚀 [About Me](#-about-me)
-- 🔧 [Tech Experience](#-tech-experience)
 - 📬 [Connect With Me](#-connect-with-me)
+- 🌐 [Learn More About Me](#-learn-more-about-me)
+- 🔧 [Tech Experience](#-tech-experience)
 - 🧠 [Skills & Interests](#-skills--interests)
 - 🎓 [Education](#-education)
 - 🔥 [Currently Working On](#-currently-working-on)
@@ -37,7 +38,16 @@ I'm currently seeking opportunities to grow as a developer and contribute to mea
 - 👨🏻‍💻 Always building, learning, and open to new opportunities
 - 🧠 Open to **collaboration projects** – let’s connect
 
-### 🌐 Learn More About Me
+---
+
+## 📬 Connect With Me
+
+- 📧 Email: [bstearns07@gmail.com](mailto:bstearns07@gmail.com)
+- 🌐 Website: https://www.bstearns.com
+- 🔗 Or connect with me on <a href="https://www.linkedin.com/in/ben-stearns-474261283/" target="_blank">**LinkedIn**</a>
+
+
+## 🌐 Learn More About Me
 
 💡 **Want to learn more about my work, projects, and professional background?**
 
@@ -64,12 +74,6 @@ Or check out my portfolio website below 👇:
 
 **Other**
 `GitHub` `Networking` `Hardware` `Computer Science` `Responsive Design` `Unit Testing` `Full Stack Development`
-
-## 📬 Connect With Me
-
-- 📧 Email: [bstearns07@gmail.com](mailto:bstearns07@gmail.com)
-- 🌐 Website: https://www.bstearns.com
-- 🔗 Or connect with me on <a href="https://www.linkedin.com/in/ben-stearns-474261283/" target="_blank">**LinkedIn**</a>
 
 ---
 
