@@ -123,7 +123,7 @@ My **passion is programming**, and I’m working toward my goal of becoming a **
 ## 📁 Project Directory
 🔍 **Explore my projects in one place**
 
-A centralized gateway to all repositories, organized for easy browsing.
+A centralized gateway to all my repositories, organized for easy browsing.
 
 ```Preview Image:```
 
