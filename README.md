@@ -21,7 +21,6 @@
 - 🎓 [Education](#-education)
 - 🔥 [Currently Working On](#-currently-working-on)
 - 📊 [My Stats](#-my-stats)
-- 📈 [Activity](#-activity)
 - 📁 [Project Directory](#-project-directory)
 
 ---
@@ -111,9 +110,11 @@ My **passion is programming**, and I’m working toward my goal of becoming a **
 
 ## 📊 My Stats
 
+### 📁 Contributions
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=bstearns07" />
 
-## 📈 Activity
+### 📈 Activity
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bstearns07)
 
